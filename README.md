@@ -14,7 +14,7 @@
 - 👀 [The awesome Mac OS Catalina fonts you didn’t know you had access to - Journal - Typography.Guru](https://typography.guru/journal/awesome-catalina-fonts/)
 - 👀 [Algorithms animated — chrislaux.com](https://www.chrislaux.com/)
 - 👀 [1960 - 1964 | The Movie title stills collection](http://annyas.com/screenshots/1960-1964/)
-- 👀 [Underware](https://underware.nl/case-studies/random-vs-clever/)
+- 👀 [What Are You Working For?](https://jackmcdade.com/what-are-you-working-for?ref=brianlovin.com)
 
 
 # Books and comics I am reading
@@ -22,4 +22,5 @@
 - 📘 [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43851501) by Randall Munroe
 - 📘 [Burma Chronicles](https://www.goodreads.com/book/show/3023792) by Guy Delisle
 - 📘 [FJORDEN](https://www.goodreads.com/book/show/13008650) by Álvaro Ortiz
+- 📘 [The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs](https://www.goodreads.com/book/show/52105688) by Jim Kalbach
 
