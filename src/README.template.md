@@ -9,6 +9,6 @@
 
 {pinboard}
 
-# What am I reading?
+# Books and comics I am reading
 
 {goodreads}
