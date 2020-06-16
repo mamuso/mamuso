@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Automatically updating my README.md",
   "repository": "https://github.com/mamuso/mamuso",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "readme": "node index.js",
+    "readme": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

@@ -11,7 +11,7 @@ const parser = new rssParser({
     item: ["author_name", "book_id"],
   },
 });
-const template = fs.readFileSync("./README.template.md", "utf8");
+const template = fs.readFileSync("src/README.template.md", "utf8");
 
 (async () => {
   // Parese goodreads
@@ -36,12 +36,8 @@ const template = fs.readFileSync("./README.template.md", "utf8");
     pinboard: pinboard,
   });
 
-  fs.writeFile(
-    `${process.env.GITHUB_WORKSPACE}/README.md`,
-    processedTemplate,
-    (err) => {
-      if (err) throw err;
-      console.log("The file has been saved!");
-    }
-  );
+  fs.writeFile("README.md", processedTemplate, (err) => {
+    if (err) throw err;
+    console.log("The file has been saved!");
+  });
 })();
