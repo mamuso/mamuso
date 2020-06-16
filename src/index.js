@@ -36,8 +36,8 @@ const template = fs.readFileSync("src/README.template.md", "utf8");
     pinboard: pinboard,
   });
 
-  fs.writeFileSync("README.md", processedTemplate, (err) => {
-    if (err) throw err;
-    console.log("The file has been saved!");
+  fs.writeFileSync("README.md", processedTemplate, {
+    encoding: "utf8",
+    flag: "w",
   });
 })();

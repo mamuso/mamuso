@@ -23,3 +23,4 @@ jobs:
           push-branch: "master"
           commit-message: "Automated README.md update"
           force-add: "true"
+          rebase: "true"
