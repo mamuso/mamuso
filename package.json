@@ -1,0 +1,17 @@
+{
+  "name": "whatchadoin",
+  "version": "1.0.0",
+  "description": "Automatically updating my README.md",
+  "repository": "https://github.com/mamuso/mamuso",
+  "main": "src/index.js",
+  "scripts": {
+    "readme": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.8.0",
+    "string-template": "^1.0.0"
+  }
+}
