@@ -19,7 +19,7 @@ const template = fs.readFileSync("src/README.template.md", "utf8");
   let goodreadsParsedFeed = await parser.parseURL(goodreadsFeed);
   for (let i = 0; i < 3; i++) {
     const item = goodreadsParsedFeed.items[i];
-    goodreads += `- [📘 ${item.title}](https://www.goodreads.com/book/show/${item.book_id}) by ${item.author_name}\n`;
+    goodreads += `- 📘 [${item.title}](https://www.goodreads.com/book/show/${item.book_id}) by ${item.author_name}\n`;
   }
 
   // Parese goodreads
@@ -27,7 +27,7 @@ const template = fs.readFileSync("src/README.template.md", "utf8");
   let pinboardParsedFeed = await parser.parseURL(pinboardFeed);
   for (let i = 0; i < 5; i++) {
     const item = pinboardParsedFeed.items[i];
-    pinboard += `- [👀 ${item.title}](${item.link})\n`;
+    pinboard += `- 👀 [${item.title}](${item.link})\n`;
   }
 
   // write README.md
