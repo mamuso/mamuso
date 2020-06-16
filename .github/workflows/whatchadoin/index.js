@@ -36,8 +36,12 @@ const template = fs.readFileSync("./README.template.md", "utf8");
     pinboard: pinboard,
   });
 
-  fs.writeFile("../../../README.md", processedTemplate, (err) => {
-    if (err) throw err;
-    console.log("The file has been saved!");
-  });
+  fs.writeFile(
+    `${process.env.GITHUB_WORKSPACE}/README.md`,
+    processedTemplate,
+    (err) => {
+      if (err) throw err;
+      console.log("The file has been saved!");
+    }
+  );
 })();
