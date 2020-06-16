@@ -17,7 +17,7 @@ const template = fs.readFileSync("src/README.template.md", "utf8");
   // Parese goodreads
   let goodreads = "";
   let goodreadsParsedFeed = await parser.parseURL(goodreadsFeed);
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < 4; i++) {
     const item = goodreadsParsedFeed.items[i];
     goodreads += `- 📘 [${item.title}](https://www.goodreads.com/book/show/${item.book_id}) by ${item.author_name}\n`;
   }
