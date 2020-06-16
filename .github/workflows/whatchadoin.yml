@@ -16,3 +16,10 @@ jobs:
           node-version: "13.x"
       - run: npm install
       - run: npm run readme
+      - name: push
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: "master"
+          commit-message: "Automated README.md update"
+          force-add: "true"

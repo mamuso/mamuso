@@ -5,6 +5,10 @@
 - Did you know that I post rather insubstantial things [in my feed](https://feed.mamuso.net/)?
 - Did you know that [I don't tweet much](https://twitter.com/mamuso)?
 
-{ goodreads }
+# Recent bookmarks
 
-Well, I'm glad you knew.
+{pinboard}
+
+# What am I reading?
+
+{goodreads}
