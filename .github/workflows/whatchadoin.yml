@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: "13.x"
       - run: npm install
-      - run: cd npm run readme
+      - run: npm run readme
       - name: push
         uses: github-actions-x/commit@v2.6
         with:
