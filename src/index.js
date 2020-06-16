@@ -25,7 +25,7 @@ const template = fs.readFileSync("src/README.template.md", "utf8");
   // Parese goodreads
   let pinboard = "";
   let pinboardParsedFeed = await parser.parseURL(pinboardFeed);
-  for (let i = 0; i < 5; i++) {
+  for (let i = 0; i < 8; i++) {
     const item = pinboardParsedFeed.items[i];
     pinboard += `- 👀 [${item.title}](${item.link})\n`;
   }
