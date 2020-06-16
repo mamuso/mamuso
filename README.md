@@ -16,7 +16,7 @@
 
 # What am I reading?
 
+- 📘 [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43851501) by Randall Munroe
 - 📘 [Burma Chronicles](https://www.goodreads.com/book/show/3023792) by Guy Delisle
 - 📘 [FJORDEN](https://www.goodreads.com/book/show/13008650) by Álvaro Ortiz
-- 📘 [The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs](https://www.goodreads.com/book/show/52105688) by Jim Kalbach
 
