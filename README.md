@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Who’s a Bot? Who’s Not? - The New York Times](https://www.nytimes.com/2020/06/16/science/social-media-bots-kazemi.html)
+- 👀 [mattdesl/workshop-data-artwork: material & notes for a workshop on data artwork & creative coding](https://github.com/mattdesl/workshop-data-artwork)
+- 👀 [Proceed and Be Bold! Full Feature Length Documentary - YouTube](https://www.youtube.com/watch?v=i251DDffUzY)
+- 👀 [Product Judgment: How some people can repeatedly create product success | Inside Intercom](https://www.intercom.com/blog/product-judgment/)
 - 👀 [Is Dark Mode Such A Good Idea? - Kev Quirk](https://kevq.uk/is-dark-mode-such-a-good-idea/)
 - 👀 [Collected Notes.](https://collectednotes.com/)
 - 👀 [An American Spring of Reckoning | The New Yorker](https://www.newyorker.com/magazine/2020/06/22/an-american-spring-of-reckoning)
 - 👀 [Math - @FreyaHolmer - A collection of my mathematical art and visualizations~](https://twitter.com/FreyaHolmer/timelines/1215413954505297922)
-- 👀 [The awesome Mac OS Catalina fonts you didn’t know you had access to - Journal - Typography.Guru](https://typography.guru/journal/awesome-catalina-fonts/)
-- 👀 [Algorithms animated — chrislaux.com](https://www.chrislaux.com/)
-- 👀 [1960 - 1964 | The Movie title stills collection](http://annyas.com/screenshots/1960-1964/)
-- 👀 [What Are You Working For?](https://jackmcdade.com/what-are-you-working-for?ref=brianlovin.com)
 
 
 # Books and comics I am reading
