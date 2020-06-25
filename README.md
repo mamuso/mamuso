@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The Good Service Scale —](https://good.services/the-good-services-scale)
+- 👀 [CustomShortcuts — Customize menu keyboard shortcuts](https://www.houdah.com/customShortcuts/)
 - 👀 [Using calc to figure out optimal line-height | Hugo Giraudel](https://hugogiraudel.com/2020/05/18/using-calc-to-figure-out-optimal-line-height/)
 - 👀 [Who’s a Bot? Who’s Not? - The New York Times](https://www.nytimes.com/2020/06/16/science/social-media-bots-kazemi.html)
 - 👀 [mattdesl/workshop-data-artwork: material & notes for a workshop on data artwork & creative coding](https://github.com/mattdesl/workshop-data-artwork)
 - 👀 [Proceed and Be Bold! Full Feature Length Documentary - YouTube](https://www.youtube.com/watch?v=i251DDffUzY)
 - 👀 [Product Judgment: How some people can repeatedly create product success | Inside Intercom](https://www.intercom.com/blog/product-judgment/)
 - 👀 [Is Dark Mode Such A Good Idea? - Kev Quirk](https://kevq.uk/is-dark-mode-such-a-good-idea/)
-- 👀 [Collected Notes.](https://collectednotes.com/)
-- 👀 [An American Spring of Reckoning | The New Yorker](https://www.newyorker.com/magazine/2020/06/22/an-american-spring-of-reckoning)
 
 
 # Books and comics I am reading
