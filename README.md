@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Home | Rifle Paper Co.](https://riflepaperco.com/)
+- 👀 [samatt/waybackpack: Download the entire Wayback Machine archive for a given URL.](https://github.com/samatt/waybackpack)
+- 👀 [🛠️ How To Write Great Microcopy - The Product Person](https://theproductperson.substack.com/p/-how-to-write-great-microcopy)
+- 👀 [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
 - 👀 [Drive & Listen](https://driveandlisten.herokuapp.com/)
 - 👀 [xkcd: Modeling Study](https://xkcd.com/2323/)
 - 👀 [Dungeon Scrawl | Home](https://dungeonscrawl.com/)
 - 👀 [The Good Service Scale —](https://good.services/the-good-services-scale)
-- 👀 [CustomShortcuts — Customize menu keyboard shortcuts](https://www.houdah.com/customShortcuts/)
-- 👀 [Using calc to figure out optimal line-height | Hugo Giraudel](https://hugogiraudel.com/2020/05/18/using-calc-to-figure-out-optimal-line-height/)
-- 👀 [Who’s a Bot? Who’s Not? - The New York Times](https://www.nytimes.com/2020/06/16/science/social-media-bots-kazemi.html)
-- 👀 [mattdesl/workshop-data-artwork: material & notes for a workshop on data artwork & creative coding](https://github.com/mattdesl/workshop-data-artwork)
 
 
 # Books and comics I am reading
