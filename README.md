@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Pose - Easy Character Guidelines by Gal Shir](https://galshir.com/pose)
 - 👀 [Home | Rifle Paper Co.](https://riflepaperco.com/)
 - 👀 [samatt/waybackpack: Download the entire Wayback Machine archive for a given URL.](https://github.com/samatt/waybackpack)
 - 👀 [🛠️ How To Write Great Microcopy - The Product Person](https://theproductperson.substack.com/p/-how-to-write-great-microcopy)
@@ -14,7 +15,6 @@
 - 👀 [Drive & Listen](https://driveandlisten.herokuapp.com/)
 - 👀 [xkcd: Modeling Study](https://xkcd.com/2323/)
 - 👀 [Dungeon Scrawl | Home](https://dungeonscrawl.com/)
-- 👀 [The Good Service Scale —](https://good.services/the-good-services-scale)
 
 
 # Books and comics I am reading
