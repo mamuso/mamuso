@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Explorable Flexagons](http://loki3.com/flex/explore/)
+- 👀 [1-Line Layouts](https://1linelayouts.glitch.me/)
+- 👀 [Project Audio for GitHub](https://github.audio/)
 - 👀 [Pose - Easy Character Guidelines by Gal Shir](https://galshir.com/pose)
 - 👀 [Home | Rifle Paper Co.](https://riflepaperco.com/)
 - 👀 [samatt/waybackpack: Download the entire Wayback Machine archive for a given URL.](https://github.com/samatt/waybackpack)
 - 👀 [🛠️ How To Write Great Microcopy - The Product Person](https://theproductperson.substack.com/p/-how-to-write-great-microcopy)
 - 👀 [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
-- 👀 [Drive & Listen](https://driveandlisten.herokuapp.com/)
-- 👀 [xkcd: Modeling Study](https://xkcd.com/2323/)
-- 👀 [Dungeon Scrawl | Home](https://dungeonscrawl.com/)
 
 
 # Books and comics I am reading
