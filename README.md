@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [mmhmm - Clear, compelling communication for everyone](https://www.mmhmm.app/)
 - 👀 [Explorable Flexagons](http://loki3.com/flex/explore/)
 - 👀 [1-Line Layouts](https://1linelayouts.glitch.me/)
 - 👀 [Project Audio for GitHub](https://github.audio/)
@@ -14,7 +15,6 @@
 - 👀 [Home | Rifle Paper Co.](https://riflepaperco.com/)
 - 👀 [samatt/waybackpack: Download the entire Wayback Machine archive for a given URL.](https://github.com/samatt/waybackpack)
 - 👀 [🛠️ How To Write Great Microcopy - The Product Person](https://theproductperson.substack.com/p/-how-to-write-great-microcopy)
-- 👀 [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/)
 
 
 # Books and comics I am reading
