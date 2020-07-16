@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [understanding - nabeelqu](https://nabeelqu.co/understanding)
+- 👀 [WindowSwap](https://window-swap.com/)
+- 👀 [Pixel Art Tutorials - Saint11](https://saint11.org/blog/pixel-art-tutorials/)
 - 👀 [Letterform Archive – Fake Graphics for Real Movies: Graphic Design in Animated Film](https://letterformarchive.org/events/fake-graphics-for-real-movies-graphic-design-in-animated-film)
 - 👀 [The Black Experience in Graphic Design: 1968 and 2020 – Letterform Archive](https://letterformarchive.org/news/the-black-experience-in-graphic-design-1968-and-2020?mc_cid=b0314fd2df)
 - 👀 [mmhmm - Clear, compelling communication for everyone](https://www.mmhmm.app/)
 - 👀 [Explorable Flexagons](http://loki3.com/flex/explore/)
 - 👀 [1-Line Layouts](https://1linelayouts.glitch.me/)
-- 👀 [Project Audio for GitHub](https://github.audio/)
-- 👀 [Pose - Easy Character Guidelines by Gal Shir](https://galshir.com/pose)
-- 👀 [Home | Rifle Paper Co.](https://riflepaperco.com/)
 
 
 # Books and comics I am reading
