@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Web design as architecture](http://www--arc.com/)
 - 👀 [Things I Wish I’d Known About CSS | CSS For Designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 - 👀 [Plasmic - the visual UI builder for React](https://www.plasmic.app/)
 - 👀 [Tour of Rust](https://tourofrust.com/)
@@ -14,7 +15,6 @@
 - 👀 [understanding - nabeelqu](https://nabeelqu.co/understanding)
 - 👀 [WindowSwap](https://window-swap.com/)
 - 👀 [Pixel Art Tutorials - Saint11](https://saint11.org/blog/pixel-art-tutorials/)
-- 👀 [Letterform Archive – Fake Graphics for Real Movies: Graphic Design in Animated Film](https://letterformarchive.org/events/fake-graphics-for-real-movies-graphic-design-in-animated-film)
 
 
 # Books and comics I am reading
