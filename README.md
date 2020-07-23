@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
+- 👀 [Estacions i intercanviadors - albertguillaumes.cat](http://estacions.albertguillaumes.cat/)
 - 👀 [Web design as architecture](http://www--arc.com/)
 - 👀 [Things I Wish I’d Known About CSS | CSS For Designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 - 👀 [Plasmic - the visual UI builder for React](https://www.plasmic.app/)
 - 👀 [Tour of Rust](https://tourofrust.com/)
 - 👀 [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - 👀 [understanding - nabeelqu](https://nabeelqu.co/understanding)
-- 👀 [WindowSwap](https://window-swap.com/)
-- 👀 [Pixel Art Tutorials - Saint11](https://saint11.org/blog/pixel-art-tutorials/)
 
 
 # Books and comics I am reading
