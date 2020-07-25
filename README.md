@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
+- 👀 [Systems design for advanced beginners | Robert Heaton](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - 👀 [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
 - 👀 [Estacions i intercanviadors - albertguillaumes.cat](http://estacions.albertguillaumes.cat/)
 - 👀 [Web design as architecture](http://www--arc.com/)
 - 👀 [Things I Wish I’d Known About CSS | CSS For Designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 - 👀 [Plasmic - the visual UI builder for React](https://www.plasmic.app/)
 - 👀 [Tour of Rust](https://tourofrust.com/)
-- 👀 [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
-- 👀 [understanding - nabeelqu](https://nabeelqu.co/understanding)
 
 
 # Books and comics I am reading
