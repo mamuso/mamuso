@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Fonts, typefaces, typography, book history — I love Typography (ILT)](https://ilovetypography.com/2020/07/11/black-print-first-african-america-printer-publishers/)
 - 👀 [Get The Pack - Ethical Explorer](https://ethicalexplorer.org/)
 - 👀 [Good Movies as Old Books — the Design Office of Matt Stevens - Direction + Design + Illustration](http://hellomattstevens.com/good-movies-as-old-books)
 - 👀 [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
@@ -14,7 +15,6 @@
 - 👀 [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
 - 👀 [Estacions i intercanviadors - albertguillaumes.cat](http://estacions.albertguillaumes.cat/)
 - 👀 [Web design as architecture](http://www--arc.com/)
-- 👀 [Things I Wish I’d Known About CSS | CSS For Designers](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
 
 
 # Books and comics I am reading
