@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [HBR Guide to Better Business Writing](https://www.goodreads.com/book/show/18917568) by Bryan A. Garner
 - 📘 [Queridos Difuntos](https://www.goodreads.com/book/show/51654207) by Lorenzo Montatore
 - 📘 [Valerosas 1: Mujeres que solo hacen lo que ellas quieren (Valerosas, #1)](https://www.goodreads.com/book/show/34994151) by Pénélope Bagieu
 - 📘 [Thinking in Systems: A Primer](https://www.goodreads.com/book/show/18891716) by Donella H. Meadows
-- 📘 [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43851501) by Randall Munroe
 
