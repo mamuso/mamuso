@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Starboard](https://starboard.gg/)
 - 👀 [Fonts, typefaces, typography, book history — I love Typography (ILT)](https://ilovetypography.com/2020/07/11/black-print-first-african-america-printer-publishers/)
 - 👀 [Get The Pack - Ethical Explorer](https://ethicalexplorer.org/)
 - 👀 [Good Movies as Old Books — the Design Office of Matt Stevens - Direction + Design + Illustration](http://hellomattstevens.com/good-movies-as-old-books)
@@ -14,13 +15,12 @@
 - 👀 [Systems design for advanced beginners | Robert Heaton](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - 👀 [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
 - 👀 [Estacions i intercanviadors - albertguillaumes.cat](http://estacions.albertguillaumes.cat/)
-- 👀 [Web design as architecture](http://www--arc.com/)
 
 
 # Books and comics I am reading
 
+- 📘 [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556) by Nadia Eghbal
+- 📘 [Because Internet: Understanding the New Rules of Language](https://www.goodreads.com/book/show/37834053) by Gretchen McCulloch
+- 📘 [Tartine Bread](https://www.goodreads.com/book/show/42288156) by Chad Robertson
 - 📘 [HBR Guide to Better Business Writing](https://www.goodreads.com/book/show/18917568) by Bryan A. Garner
-- 📘 [Queridos Difuntos](https://www.goodreads.com/book/show/51654207) by Lorenzo Montatore
-- 📘 [Valerosas 1: Mujeres que solo hacen lo que ellas quieren (Valerosas, #1)](https://www.goodreads.com/book/show/34994151) by Pénélope Bagieu
-- 📘 [Thinking in Systems: A Primer](https://www.goodreads.com/book/show/18891716) by Donella H. Meadows
 
