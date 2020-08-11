@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Proof of X « julian.digital](https://julian.digital/2020/08/06/proof-of-x/)
 - 👀 [Starboard](https://starboard.gg/)
 - 👀 [Fonts, typefaces, typography, book history — I love Typography (ILT)](https://ilovetypography.com/2020/07/11/black-print-first-african-america-printer-publishers/)
 - 👀 [Get The Pack - Ethical Explorer](https://ethicalexplorer.org/)
@@ -14,7 +15,6 @@
 - 👀 [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
 - 👀 [Systems design for advanced beginners | Robert Heaton](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - 👀 [Essays on programming I think about a lot | benkuhn.net](https://www.benkuhn.net/progessays/)
-- 👀 [Estacions i intercanviadors - albertguillaumes.cat](http://estacions.albertguillaumes.cat/)
 
 
 # Books and comics I am reading
