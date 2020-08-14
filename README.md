@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Step-by-Step Guide for Pairing Fonts in UI Design (with examples)](https://learnui.design/blog/guide-pairing-fonts.html)
 - 👀 [Basics With Babish](https://basicswithbabish.co/)
 - 👀 [Proof of X « julian.digital](https://julian.digital/2020/08/06/proof-of-x/)
 - 👀 [Starboard](https://starboard.gg/)
@@ -14,7 +15,6 @@
 - 👀 [Get The Pack - Ethical Explorer](https://ethicalexplorer.org/)
 - 👀 [Good Movies as Old Books — the Design Office of Matt Stevens - Direction + Design + Illustration](http://hellomattstevens.com/good-movies-as-old-books)
 - 👀 [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
-- 👀 [Systems design for advanced beginners | Robert Heaton](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
 
 # Books and comics I am reading
