@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Home | LEGO Braille Bricks](https://www.legobraillebricks.com/)
 - 👀 [We already have mirror pixels and camera pixels (Interconnected)](http://interconnected.org/home/2020/08/19/more_on_screens)
 - 👀 [Leading-Trim: The Future of Digital Typesetting | by Ethan Wang | Microsoft Design | Aug, 2020 | Medium](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
 - 👀 [Expression is Compression — David Perell](https://www.perell.com/blog/expression-is-compression)
@@ -14,7 +15,6 @@
 - 👀 [Basics With Babish](https://basicswithbabish.co/)
 - 👀 [Proof of X « julian.digital](https://julian.digital/2020/08/06/proof-of-x/)
 - 👀 [Starboard](https://starboard.gg/)
-- 👀 [Fonts, typefaces, typography, book history — I love Typography (ILT)](https://ilovetypography.com/2020/07/11/black-print-first-african-america-printer-publishers/)
 
 
 # Books and comics I am reading
