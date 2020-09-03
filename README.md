@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Introduction — Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- 👀 [Introduction | WebRTC for the Curious](https://webrtcforthecurious.com/)
 - 👀 [A Short Guide to Minimal Web Development · Jens Oliver Meiert](https://meiert.com/en/blog/minimal-web-development/)
 - 👀 [Signifier design information · Klim Type Foundry](https://klim.co.nz/blog/signifier-design-information/)
 - 👀 [Heroicons](https://heroicons.com/)
 - 👀 [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 - 👀 [Home | LEGO Braille Bricks](https://www.legobraillebricks.com/)
 - 👀 [We already have mirror pixels and camera pixels (Interconnected)](http://interconnected.org/home/2020/08/19/more_on_screens)
-- 👀 [Leading-Trim: The Future of Digital Typesetting | by Ethan Wang | Microsoft Design | Aug, 2020 | Medium](https://medium.com/microsoft-design/leading-trim-the-future-of-digital-typesetting-d082d84b202)
-- 👀 [Expression is Compression — David Perell](https://www.perell.com/blog/expression-is-compression)
 
 
 # Books and comics I am reading
