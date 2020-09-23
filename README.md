@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Learn CSS Centering](https://ishadeed.com/article/learn-css-centering/)
+- 👀 [Geri Reid - Forms best practice](https://gerireid.com/forms.html)
+- 👀 [The benefits of note-taking by hand - BBC Worklife](https://www.bbc.com/worklife/article/20200910-the-benefits-of-note-taking-by-hand)
 - 👀 [Introduction — Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - 👀 [Introduction | WebRTC for the Curious](https://webrtcforthecurious.com/)
 - 👀 [A Short Guide to Minimal Web Development · Jens Oliver Meiert](https://meiert.com/en/blog/minimal-web-development/)
 - 👀 [Signifier design information · Klim Type Foundry](https://klim.co.nz/blog/signifier-design-information/)
 - 👀 [Heroicons](https://heroicons.com/)
-- 👀 [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
-- 👀 [Home | LEGO Braille Bricks](https://www.legobraillebricks.com/)
-- 👀 [We already have mirror pixels and camera pixels (Interconnected)](http://interconnected.org/home/2020/08/19/more_on_screens)
 
 
 # Books and comics I am reading
