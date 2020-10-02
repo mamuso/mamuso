@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Polytype](https://polytype.co.uk/)
+- 👀 [Wix unveils custom, digital-first typeface designed with Dalton Maag for users to deploy on their websites](https://www.itsnicethat.com/news/wix-dalton-maag-madefor-typeface-graphic-design-300920)
 - 👀 [今月から、スタジオジブリ作品の場面写真の提供を開始します - スタジオジブリ｜STUDIO GHIBLI](http://www.ghibli.jp/info/013344/)
 - 👀 [Learn CSS Centering](https://ishadeed.com/article/learn-css-centering/)
 - 👀 [Geri Reid - Forms best practice](https://gerireid.com/forms.html)
 - 👀 [The benefits of note-taking by hand - BBC Worklife](https://www.bbc.com/worklife/article/20200910-the-benefits-of-note-taking-by-hand)
 - 👀 [Introduction — Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - 👀 [Introduction | WebRTC for the Curious](https://webrtcforthecurious.com/)
-- 👀 [A Short Guide to Minimal Web Development · Jens Oliver Meiert](https://meiert.com/en/blog/minimal-web-development/)
-- 👀 [Signifier design information · Klim Type Foundry](https://klim.co.nz/blog/signifier-design-information/)
 
 
 # Books and comics I am reading
