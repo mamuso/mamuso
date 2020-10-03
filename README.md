@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Typography in 8 bits: System fonts » DamienG](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts)
 - 👀 [Polytype](https://polytype.co.uk/)
 - 👀 [Wix unveils custom, digital-first typeface designed with Dalton Maag for users to deploy on their websites](https://www.itsnicethat.com/news/wix-dalton-maag-madefor-typeface-graphic-design-300920)
 - 👀 [今月から、スタジオジブリ作品の場面写真の提供を開始します - スタジオジブリ｜STUDIO GHIBLI](http://www.ghibli.jp/info/013344/)
@@ -14,7 +15,6 @@
 - 👀 [Geri Reid - Forms best practice](https://gerireid.com/forms.html)
 - 👀 [The benefits of note-taking by hand - BBC Worklife](https://www.bbc.com/worklife/article/20200910-the-benefits-of-note-taking-by-hand)
 - 👀 [Introduction — Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
-- 👀 [Introduction | WebRTC for the Curious](https://webrtcforthecurious.com/)
 
 
 # Books and comics I am reading
