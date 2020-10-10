@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Practice typing by retyping ENTIRE classic novels | TypeLit.io](https://www.typelit.io/)
 - 👀 [Select to Proceed. A guide to designing and using… | by Linzi Berry | Tap to Dismiss | Medium](https://medium.com/tap-to-dismiss/select-to-proceed-996d19c8a7a4)
 - 👀 [Typography in 8 bits: System fonts » DamienG](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts)
 - 👀 [Polytype](https://polytype.co.uk/)
@@ -14,7 +15,6 @@
 - 👀 [今月から、スタジオジブリ作品の場面写真の提供を開始します - スタジオジブリ｜STUDIO GHIBLI](http://www.ghibli.jp/info/013344/)
 - 👀 [Learn CSS Centering](https://ishadeed.com/article/learn-css-centering/)
 - 👀 [Geri Reid - Forms best practice](https://gerireid.com/forms.html)
-- 👀 [The benefits of note-taking by hand - BBC Worklife](https://www.bbc.com/worklife/article/20200910-the-benefits-of-note-taking-by-hand)
 
 
 # Books and comics I am reading
