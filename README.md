@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Phosphor Icons](https://phosphoricons.com/)
 - 👀 [The good line-height](https://www.thegoodlineheight.com/?ref=producthunt)
 - 👀 [The JuliaMono Typeface](https://juliamono.netlify.app/)
 - 👀 [Practice typing by retyping ENTIRE classic novels | TypeLit.io](https://www.typelit.io/)
@@ -14,7 +15,6 @@
 - 👀 [Typography in 8 bits: System fonts » DamienG](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts)
 - 👀 [Polytype](https://polytype.co.uk/)
 - 👀 [Wix unveils custom, digital-first typeface designed with Dalton Maag for users to deploy on their websites](https://www.itsnicethat.com/news/wix-dalton-maag-madefor-typeface-graphic-design-300920)
-- 👀 [今月から、スタジオジブリ作品の場面写真の提供を開始します - スタジオジブリ｜STUDIO GHIBLI](http://www.ghibli.jp/info/013344/)
 
 
 # Books and comics I am reading
