@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [CSS Background Patterns by MagicPattern](https://www.magicpattern.design/tools/css-backgrounds)
+- 👀 [Download the Atkinson Hyperlegible Font | Braille Institute](https://www.brailleinstitute.org/freefont)
+- 👀 [SVG Favicon Maker](https://formito.com/tools/favicon)
 - 👀 [CSS fix for 100vh in mobile WebKit - Matt Smith](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/)
 - 👀 [TOUCH — LESS](https://touch-less.dev/)
 - 👀 [Phosphor Icons](https://phosphoricons.com/)
 - 👀 [The good line-height](https://www.thegoodlineheight.com/?ref=producthunt)
 - 👀 [The JuliaMono Typeface](https://juliamono.netlify.app/)
-- 👀 [Practice typing by retyping ENTIRE classic novels | TypeLit.io](https://www.typelit.io/)
-- 👀 [Select to Proceed. A guide to designing and using… | by Linzi Berry | Tap to Dismiss | Medium](https://medium.com/tap-to-dismiss/select-to-proceed-996d19c8a7a4)
-- 👀 [Typography in 8 bits: System fonts » DamienG](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts)
 
 
 # Books and comics I am reading
