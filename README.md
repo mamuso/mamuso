@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [blokdots](https://blokdots.com/)
 - 👀 [CSS Background Patterns by MagicPattern](https://www.magicpattern.design/tools/css-backgrounds)
 - 👀 [Download the Atkinson Hyperlegible Font | Braille Institute](https://www.brailleinstitute.org/freefont)
 - 👀 [SVG Favicon Maker](https://formito.com/tools/favicon)
@@ -14,7 +15,6 @@
 - 👀 [TOUCH — LESS](https://touch-less.dev/)
 - 👀 [Phosphor Icons](https://phosphoricons.com/)
 - 👀 [The good line-height](https://www.thegoodlineheight.com/?ref=producthunt)
-- 👀 [The JuliaMono Typeface](https://juliamono.netlify.app/)
 
 
 # Books and comics I am reading
