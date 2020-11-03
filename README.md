@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Where Do You Sit? Above The Line Or Below The Line? - People Leaders](https://peopleleaders.com.au/above-or-below-the-line/)
 - 👀 [The story behind Markdown. | Capiche](https://capiche.com/e/markdown-history)
 - 👀 [blokdots](https://blokdots.com/)
 - 👀 [CSS Background Patterns by MagicPattern](https://www.magicpattern.design/tools/css-backgrounds)
@@ -14,7 +15,6 @@
 - 👀 [SVG Favicon Maker](https://formito.com/tools/favicon)
 - 👀 [CSS fix for 100vh in mobile WebKit - Matt Smith](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/)
 - 👀 [TOUCH — LESS](https://touch-less.dev/)
-- 👀 [Phosphor Icons](https://phosphoricons.com/)
 
 
 # Books and comics I am reading
