@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Redwing](https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family)
+- 👀 [Obsidian](https://obsidian.md/)
 - 👀 [Where Do You Sit? Above The Line Or Below The Line? - People Leaders](https://peopleleaders.com.au/above-or-below-the-line/)
 - 👀 [The story behind Markdown. | Capiche](https://capiche.com/e/markdown-history)
 - 👀 [blokdots](https://blokdots.com/)
 - 👀 [CSS Background Patterns by MagicPattern](https://www.magicpattern.design/tools/css-backgrounds)
 - 👀 [Download the Atkinson Hyperlegible Font | Braille Institute](https://www.brailleinstitute.org/freefont)
 - 👀 [SVG Favicon Maker](https://formito.com/tools/favicon)
-- 👀 [CSS fix for 100vh in mobile WebKit - Matt Smith](https://allthingssmitty.com/2020/05/11/css-fix-for-100vh-in-mobile-webkit/)
-- 👀 [TOUCH — LESS](https://touch-less.dev/)
 
 
 # Books and comics I am reading
