@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Coding Fonts — Anonymous Pro](https://coding-fonts.css-tricks.com/fonts/anonymous-pro/)
 - 👀 [Redwing](https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family)
 - 👀 [Obsidian](https://obsidian.md/)
 - 👀 [Where Do You Sit? Above The Line Or Below The Line? - People Leaders](https://peopleleaders.com.au/above-or-below-the-line/)
@@ -14,7 +15,6 @@
 - 👀 [blokdots](https://blokdots.com/)
 - 👀 [CSS Background Patterns by MagicPattern](https://www.magicpattern.design/tools/css-backgrounds)
 - 👀 [Download the Atkinson Hyperlegible Font | Braille Institute](https://www.brailleinstitute.org/freefont)
-- 👀 [SVG Favicon Maker](https://formito.com/tools/favicon)
 
 
 # Books and comics I am reading
