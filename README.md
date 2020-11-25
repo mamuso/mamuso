@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Rambler Jacket – Iron and Resin](https://ironandresin.com/collections/outerwear/products/iron-resin-rambler-jacket?variant=12282523648072)
 - 👀 [Coding Fonts — Anonymous Pro](https://coding-fonts.css-tricks.com/fonts/anonymous-pro/)
 - 👀 [Redwing](https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family)
 - 👀 [Obsidian](https://obsidian.md/)
@@ -14,7 +15,6 @@
 - 👀 [The story behind Markdown. | Capiche](https://capiche.com/e/markdown-history)
 - 👀 [blokdots](https://blokdots.com/)
 - 👀 [CSS Background Patterns by MagicPattern](https://www.magicpattern.design/tools/css-backgrounds)
-- 👀 [Download the Atkinson Hyperlegible Font | Braille Institute](https://www.brailleinstitute.org/freefont)
 
 
 # Books and comics I am reading
