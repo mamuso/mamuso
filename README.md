@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [MaisTypes](http://www.maistypes.com/)
 - 👀 [Home - ARTIFOX – A R T I F O X](https://theartifox.com/)
 - 👀 [User Experience Database](https://www.uxdatabase.io/)
 - 👀 [Rambler Jacket – Iron and Resin](https://ironandresin.com/collections/outerwear/products/iron-resin-rambler-jacket?variant=12282523648072)
@@ -14,7 +15,6 @@
 - 👀 [Redwing](https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family)
 - 👀 [Obsidian](https://obsidian.md/)
 - 👀 [Where Do You Sit? Above The Line Or Below The Line? - People Leaders](https://peopleleaders.com.au/above-or-below-the-line/)
-- 👀 [The story behind Markdown. | Capiche](https://capiche.com/e/markdown-history)
 
 
 # Books and comics I am reading
