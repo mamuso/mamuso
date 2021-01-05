@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [A Designer’s Guide to SwiftUI](https://swiftui.design/guide)
 - 👀 [MaisTypes](http://www.maistypes.com/)
 - 👀 [Home - ARTIFOX – A R T I F O X](https://theartifox.com/)
 - 👀 [User Experience Database](https://www.uxdatabase.io/)
@@ -14,7 +15,6 @@
 - 👀 [Coding Fonts — Anonymous Pro](https://coding-fonts.css-tricks.com/fonts/anonymous-pro/)
 - 👀 [Redwing](https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family)
 - 👀 [Obsidian](https://obsidian.md/)
-- 👀 [Where Do You Sit? Above The Line Or Below The Line? - People Leaders](https://peopleleaders.com.au/above-or-below-the-line/)
 
 
 # Books and comics I am reading
