@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [making computers better · Adam Wiggins](https://adamwiggins.com/making-computers-better/)
 - 👀 [A Designer’s Guide to SwiftUI](https://swiftui.design/guide)
 - 👀 [MaisTypes](http://www.maistypes.com/)
 - 👀 [Home - ARTIFOX – A R T I F O X](https://theartifox.com/)
@@ -14,7 +15,6 @@
 - 👀 [Rambler Jacket – Iron and Resin](https://ironandresin.com/collections/outerwear/products/iron-resin-rambler-jacket?variant=12282523648072)
 - 👀 [Coding Fonts — Anonymous Pro](https://coding-fonts.css-tricks.com/fonts/anonymous-pro/)
 - 👀 [Redwing](https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family)
-- 👀 [Obsidian](https://obsidian.md/)
 
 
 # Books and comics I am reading
