@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Railway](https://railway.app/)
+- 👀 [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
 - 👀 [making computers better · Adam Wiggins](https://adamwiggins.com/making-computers-better/)
 - 👀 [A Designer’s Guide to SwiftUI](https://swiftui.design/guide)
 - 👀 [MaisTypes](http://www.maistypes.com/)
 - 👀 [Home - ARTIFOX – A R T I F O X](https://theartifox.com/)
 - 👀 [User Experience Database](https://www.uxdatabase.io/)
 - 👀 [Rambler Jacket – Iron and Resin](https://ironandresin.com/collections/outerwear/products/iron-resin-rambler-jacket?variant=12282523648072)
-- 👀 [Coding Fonts — Anonymous Pro](https://coding-fonts.css-tricks.com/fonts/anonymous-pro/)
-- 👀 [Redwing](https://www.jeremynelsondesign.com/case-studies/redwing-athletic-sports-font-family)
 
 
 # Books and comics I am reading
