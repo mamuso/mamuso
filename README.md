@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The confusing world of USB](https://fabiensanglard.net/nousb/index.html)
+- 👀 [Hundred Rabbits — working offgrid efficiently](https://100r.co/site/working_offgrid_efficiently.html)
 - 👀 [Josh W Comeau](https://www.joshwcomeau.com/)
 - 👀 [No Meetings, No Deadlines, No Full-Time Employees - Sahil Lavingia](https://sahillavingia.com/work)
 - 👀 [Railway](https://railway.app/)
 - 👀 [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
 - 👀 [making computers better · Adam Wiggins](https://adamwiggins.com/making-computers-better/)
 - 👀 [A Designer’s Guide to SwiftUI](https://swiftui.design/guide)
-- 👀 [MaisTypes](http://www.maistypes.com/)
-- 👀 [Home - ARTIFOX – A R T I F O X](https://theartifox.com/)
 
 
 # Books and comics I am reading
