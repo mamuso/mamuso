@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Calmly Writer: The Ultimate Distraction-Free Writing Tool](https://calmlywriter.com/)
+- 👀 [Climate crisis font | Helsingin Sanomat](https://kampanjat.hs.fi/climatefont/)
+- 👀 [The Year in Illustration 2020 - The New York Times](https://www.nytimes.com/interactive/2021/01/14/multimedia/year-in-illustration.html)
+- 👀 [Eleanor Lutz - An Orbit Map of the Solar System](https://eleanorlutz.com/mapping-18000-asteroids)
 - 👀 [Command Line Interface Guidelines](https://clig.dev/)
 - 👀 [Ditherpunk — The article I wish I had about monochrome image dithering — surma.dev](https://surma.dev/things/ditherpunk/)
 - 👀 [Learn X by doing Y - A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
 - 👀 [The confusing world of USB](https://fabiensanglard.net/nousb/index.html)
-- 👀 [Hundred Rabbits — working offgrid efficiently](https://100r.co/site/working_offgrid_efficiently.html)
-- 👀 [Josh W Comeau](https://www.joshwcomeau.com/)
-- 👀 [No Meetings, No Deadlines, No Full-Time Employees - Sahil Lavingia](https://sahillavingia.com/work)
-- 👀 [Railway](https://railway.app/)
 
 
 # Books and comics I am reading
