@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [He designed Warriors 'The Town' apparel. He says 'Oakland Forever' is an insincere 'guilt jersey.'](https://www.sfgate.com/sports/article/He-designed-Warriors-The-Town-apparel-He-says-15903074.php)
 - 👀 [Handbook](https://web.dev/handbook/)
 - 👀 [Snaplet](https://snaplet.dev/)
 - 👀 [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)
@@ -14,7 +15,6 @@
 - 👀 [Climate crisis font | Helsingin Sanomat](https://kampanjat.hs.fi/climatefont/)
 - 👀 [The Year in Illustration 2020 - The New York Times](https://www.nytimes.com/interactive/2021/01/14/multimedia/year-in-illustration.html)
 - 👀 [Eleanor Lutz - An Orbit Map of the Solar System](https://eleanorlutz.com/mapping-18000-asteroids)
-- 👀 [Command Line Interface Guidelines](https://clig.dev/)
 
 
 # Books and comics I am reading
