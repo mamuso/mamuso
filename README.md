@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react)
+- 👀 [Connary Fagen:Ellograph](https://connary.com/ellograph.html)
+- 👀 [carltheperson](https://carltheperson.com/posts/10-things-linux)
 - 👀 [He designed Warriors 'The Town' apparel. He says 'Oakland Forever' is an insincere 'guilt jersey.'](https://www.sfgate.com/sports/article/He-designed-Warriors-The-Town-apparel-He-says-15903074.php)
 - 👀 [Handbook](https://web.dev/handbook/)
 - 👀 [Snaplet](https://snaplet.dev/)
 - 👀 [NES.css - NES-style CSS Framework](https://nostalgic-css.github.io/NES.css/)
 - 👀 [Calmly Writer: The Ultimate Distraction-Free Writing Tool](https://calmlywriter.com/)
-- 👀 [Climate crisis font | Helsingin Sanomat](https://kampanjat.hs.fi/climatefont/)
-- 👀 [The Year in Illustration 2020 - The New York Times](https://www.nytimes.com/interactive/2021/01/14/multimedia/year-in-illustration.html)
-- 👀 [Eleanor Lutz - An Orbit Map of the Solar System](https://eleanorlutz.com/mapping-18000-asteroids)
 
 
 # Books and comics I am reading
