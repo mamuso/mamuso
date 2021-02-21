@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Maggie Appleton](https://maggieappleton.com/)
 - 👀 [Ray.so - Create beautiful code](https://ray.so/)
 - 👀 [The man who produced Steve Jobs’ keynotes for 20 years. - Cake](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - 👀 [Home - FieldKit](https://www.fieldkit.org/)
@@ -14,7 +15,6 @@
 - 👀 [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react)
 - 👀 [Connary Fagen:Ellograph](https://connary.com/ellograph.html)
 - 👀 [carltheperson](https://carltheperson.com/posts/10-things-linux)
-- 👀 [He designed Warriors 'The Town' apparel. He says 'Oakland Forever' is an insincere 'guilt jersey.'](https://www.sfgate.com/sports/article/He-designed-Warriors-The-Town-apparel-He-says-15903074.php)
 
 
 # Books and comics I am reading
