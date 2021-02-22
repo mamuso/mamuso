@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [Because Internet: Understanding the New Rules of Language](https://www.goodreads.com/book/show/37834053) by Gretchen McCulloch
 - 📘 [Anxious People](https://www.goodreads.com/book/show/49534036) by Fredrik Backman
 - 📘 [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/book/show/34507927) by Sönke Ahrens
 - 📘 [Working in Public: The Making and Maintenance of Open Source Software](https://www.goodreads.com/book/show/54140556) by Nadia Eghbal
-- 📘 [Because Internet: Understanding the New Rules of Language](https://www.goodreads.com/book/show/37834053) by Gretchen McCulloch
 
