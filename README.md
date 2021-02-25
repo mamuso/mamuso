@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Commenting vs. making - chiefofstuff](https://chiefofstuff.substack.com/p/commenting-vs-making)
+- 👀 [Flim](https://beta.flim.ai/)
 - 👀 [Maggie Appleton](https://maggieappleton.com/)
 - 👀 [Ray.so - Create beautiful code](https://ray.so/)
 - 👀 [The man who produced Steve Jobs’ keynotes for 20 years. - Cake](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - 👀 [Home - FieldKit](https://www.fieldkit.org/)
 - 👀 [Battery Buddy](https://batterybuddy.app/)
 - 👀 [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react)
-- 👀 [Connary Fagen:Ellograph](https://connary.com/ellograph.html)
-- 👀 [carltheperson](https://carltheperson.com/posts/10-things-linux)
 
 
 # Books and comics I am reading
