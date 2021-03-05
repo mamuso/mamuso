@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Rams Palettes. – Present&Correct](http://blog.presentandcorrect.com/rams-palettes)
 - 👀 [Proto-pasta Brand 3D Printer Filament - Made in USA by Protoplant Inc – ProtoPlant, makers of Proto-pasta](https://www.proto-pasta.com/)
 - 👀 [Commenting vs. making - chiefofstuff](https://chiefofstuff.substack.com/p/commenting-vs-making)
 - 👀 [Flim](https://beta.flim.ai/)
@@ -14,7 +15,6 @@
 - 👀 [Ray.so - Create beautiful code](https://ray.so/)
 - 👀 [The man who produced Steve Jobs’ keynotes for 20 years. - Cake](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - 👀 [Home - FieldKit](https://www.fieldkit.org/)
-- 👀 [Battery Buddy](https://batterybuddy.app/)
 
 
 # Books and comics I am reading
