@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Managers Handbook – The Manager's Handbook](https://themanagershandbook.com/)
 - 👀 [Count – The BI notebook.](https://count.co/)
 - 👀 [Rams Palettes. – Present&Correct](http://blog.presentandcorrect.com/rams-palettes)
 - 👀 [Proto-pasta Brand 3D Printer Filament - Made in USA by Protoplant Inc – ProtoPlant, makers of Proto-pasta](https://www.proto-pasta.com/)
@@ -14,7 +15,6 @@
 - 👀 [Flim](https://beta.flim.ai/)
 - 👀 [Maggie Appleton](https://maggieappleton.com/)
 - 👀 [Ray.so - Create beautiful code](https://ray.so/)
-- 👀 [The man who produced Steve Jobs’ keynotes for 20 years. - Cake](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 
 
 # Books and comics I am reading
