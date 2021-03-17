@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Fabbrica](https://www.cinetype.com/fabbrica)
+- 👀 [Preemptive Pluralization is (Probably) Not Evil](https://www.swyx.io/preemptive-pluralization/)
 - 👀 [The Managers Handbook – The Manager's Handbook](https://themanagershandbook.com/)
 - 👀 [Count – The BI notebook.](https://count.co/)
 - 👀 [Rams Palettes. – Present&Correct](http://blog.presentandcorrect.com/rams-palettes)
 - 👀 [Proto-pasta Brand 3D Printer Filament - Made in USA by Protoplant Inc – ProtoPlant, makers of Proto-pasta](https://www.proto-pasta.com/)
 - 👀 [Commenting vs. making - chiefofstuff](https://chiefofstuff.substack.com/p/commenting-vs-making)
 - 👀 [Flim](https://beta.flim.ai/)
-- 👀 [Maggie Appleton](https://maggieappleton.com/)
-- 👀 [Ray.so - Create beautiful code](https://ray.so/)
 
 
 # Books and comics I am reading
