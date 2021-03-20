@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/index.htm)
+- 👀 [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
+- 👀 [Uses | Kent C. Dodds](https://kentcdodds.com/uses/)
 - 👀 [Stitches](https://stitches.dev/)
 - 👀 [Make: Analog Synthesizers - Print](https://www.makershed.com/products/make-analog-synthesizers)
 - 👀 [Fabbrica](https://www.cinetype.com/fabbrica)
 - 👀 [Preemptive Pluralization is (Probably) Not Evil](https://www.swyx.io/preemptive-pluralization/)
 - 👀 [The Managers Handbook – The Manager's Handbook](https://themanagershandbook.com/)
-- 👀 [Count – The BI notebook.](https://count.co/)
-- 👀 [Rams Palettes. – Present&Correct](http://blog.presentandcorrect.com/rams-palettes)
-- 👀 [Proto-pasta Brand 3D Printer Filament - Made in USA by Protoplant Inc – ProtoPlant, makers of Proto-pasta](https://www.proto-pasta.com/)
 
 
 # Books and comics I am reading
