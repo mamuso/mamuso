@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Mesh | Create beautiful mesh gradients](https://meshgradient.com/)
 - 👀 [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/index.htm)
 - 👀 [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
 - 👀 [Uses | Kent C. Dodds](https://kentcdodds.com/uses/)
@@ -14,7 +15,6 @@
 - 👀 [Make: Analog Synthesizers - Print](https://www.makershed.com/products/make-analog-synthesizers)
 - 👀 [Fabbrica](https://www.cinetype.com/fabbrica)
 - 👀 [Preemptive Pluralization is (Probably) Not Evil](https://www.swyx.io/preemptive-pluralization/)
-- 👀 [The Managers Handbook – The Manager's Handbook](https://themanagershandbook.com/)
 
 
 # Books and comics I am reading
