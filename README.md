@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [How HashiCorp Works](https://works.hashicorp.com/)
 - 👀 [El proceso como entregable • Tuelfworks](https://tuelfworks.com/el-proceso-como-entregable/)
 - 👀 [Mesh | Create beautiful mesh gradients](https://meshgradient.com/)
 - 👀 [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/index.htm)
@@ -14,7 +15,6 @@
 - 👀 [Uses | Kent C. Dodds](https://kentcdodds.com/uses/)
 - 👀 [Stitches](https://stitches.dev/)
 - 👀 [Make: Analog Synthesizers - Print](https://www.makershed.com/products/make-analog-synthesizers)
-- 👀 [Fabbrica](https://www.cinetype.com/fabbrica)
 
 
 # Books and comics I am reading
