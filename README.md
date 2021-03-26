@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - 👀 [How HashiCorp Works](https://works.hashicorp.com/)
 - 👀 [El proceso como entregable • Tuelfworks](https://tuelfworks.com/el-proceso-como-entregable/)
 - 👀 [Mesh | Create beautiful mesh gradients](https://meshgradient.com/)
@@ -14,7 +15,6 @@
 - 👀 [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
 - 👀 [Uses | Kent C. Dodds](https://kentcdodds.com/uses/)
 - 👀 [Stitches](https://stitches.dev/)
-- 👀 [Make: Analog Synthesizers - Print](https://www.makershed.com/products/make-analog-synthesizers)
 
 
 # Books and comics I am reading
