@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Klim Type Foundry](https://klim.co.nz/)
+- 👀 [Computers and Creativity](https://www.mollymielke.com/cc)
+- 👀 [Molly Mielke — Product Designer](https://www.mollymielke.com/)
 - 👀 [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - 👀 [How HashiCorp Works](https://works.hashicorp.com/)
 - 👀 [El proceso como entregable • Tuelfworks](https://tuelfworks.com/el-proceso-como-entregable/)
 - 👀 [Mesh | Create beautiful mesh gradients](https://meshgradient.com/)
 - 👀 [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/index.htm)
-- 👀 [security.txt: Proposed standard for defining security policies](https://securitytxt.org/)
-- 👀 [Uses | Kent C. Dodds](https://kentcdodds.com/uses/)
-- 👀 [Stitches](https://stitches.dev/)
 
 
 # Books and comics I am reading
