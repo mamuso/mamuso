@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)
+- 👀 [fontshare](https://www.fontshare.com/)
+- 👀 [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
 - 👀 [Klim Type Foundry](https://klim.co.nz/)
 - 👀 [Computers and Creativity](https://www.mollymielke.com/cc)
 - 👀 [Molly Mielke — Product Designer](https://www.mollymielke.com/)
 - 👀 [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - 👀 [How HashiCorp Works](https://works.hashicorp.com/)
-- 👀 [El proceso como entregable • Tuelfworks](https://tuelfworks.com/el-proceso-como-entregable/)
-- 👀 [Mesh | Create beautiful mesh gradients](https://meshgradient.com/)
-- 👀 [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/index.htm)
 
 
 # Books and comics I am reading
