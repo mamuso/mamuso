@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Poka-Yoke Method | Fool-Proofing Processes & Products](https://fractory.com/poka-yoke-in-manufacturing/)
 - 👀 [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)
 - 👀 [fontshare](https://www.fontshare.com/)
 - 👀 [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
@@ -14,7 +15,6 @@
 - 👀 [Computers and Creativity](https://www.mollymielke.com/cc)
 - 👀 [Molly Mielke — Product Designer](https://www.mollymielke.com/)
 - 👀 [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
-- 👀 [How HashiCorp Works](https://works.hashicorp.com/)
 
 
 # Books and comics I am reading
