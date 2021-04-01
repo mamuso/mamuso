@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
+- 👀 [Learn React - Framer’s complete guide to React](https://www.framer.com/books/framer-guide-to-react/)
+- 👀 [Stark](https://www.getstark.co/library/)
 - 👀 [Poka-Yoke Method | Fool-Proofing Processes & Products](https://fractory.com/poka-yoke-in-manufacturing/)
 - 👀 [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)
 - 👀 [fontshare](https://www.fontshare.com/)
 - 👀 [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
 - 👀 [Klim Type Foundry](https://klim.co.nz/)
-- 👀 [Computers and Creativity](https://www.mollymielke.com/cc)
-- 👀 [Molly Mielke — Product Designer](https://www.mollymielke.com/)
-- 👀 [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 
 
 # Books and comics I am reading
