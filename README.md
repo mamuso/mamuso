@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [In Spirit - Alison Luntz Photography](https://www.alisonluntz.com/in-spirit/)
 - 👀 [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
 - 👀 [Learn React - Framer’s complete guide to React](https://www.framer.com/books/framer-guide-to-react/)
 - 👀 [Stark](https://www.getstark.co/library/)
@@ -14,7 +15,6 @@
 - 👀 [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)
 - 👀 [fontshare](https://www.fontshare.com/)
 - 👀 [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
-- 👀 [Klim Type Foundry](https://klim.co.nz/)
 
 
 # Books and comics I am reading
