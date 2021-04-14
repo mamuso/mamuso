@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Layout Parser](https://layout-parser.github.io/)
+- 👀 [My current HTML boilerplate - Manuel Matuzović](https://www.matuzo.at/blog/html-boilerplate/)
 - 👀 [In Spirit - Alison Luntz Photography](https://www.alisonluntz.com/in-spirit/)
 - 👀 [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
 - 👀 [Learn React - Framer’s complete guide to React](https://www.framer.com/books/framer-guide-to-react/)
 - 👀 [Stark](https://www.getstark.co/library/)
 - 👀 [Poka-Yoke Method | Fool-Proofing Processes & Products](https://fractory.com/poka-yoke-in-manufacturing/)
 - 👀 [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)
-- 👀 [fontshare](https://www.fontshare.com/)
-- 👀 [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
 
 
 # Books and comics I am reading
