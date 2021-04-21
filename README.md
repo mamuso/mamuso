@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 - 👀 [easiest way with Zoom H4N to record in mono via XLR input and stereo using built-ins - Gearspace.com](https://gearspace.com/board/newbie-audio-engineering-production-question-zone/645682-easiest-way-zoom-h4n-record-mono-via-xlr-input-stereo-using-built-ins.html)
 - 👀 [Use console.log() like a pro - Marko Denic - Web Developer](https://markodenic.com/use-console-log-like-a-pro/)
 - 👀 [https://groundcontrolcolor.com/collections/free-color-grading-luts](https://groundcontrolcolor.com/collections/free-color-grading-luts)
@@ -14,7 +15,6 @@
 - 👀 [My current HTML boilerplate - Manuel Matuzović](https://www.matuzo.at/blog/html-boilerplate/)
 - 👀 [In Spirit - Alison Luntz Photography](https://www.alisonluntz.com/in-spirit/)
 - 👀 [Using React with D3.js](https://wattenberger.com/blog/react-and-d3)
-- 👀 [Learn React - Framer’s complete guide to React](https://www.framer.com/books/framer-guide-to-react/)
 
 
 # Books and comics I am reading
