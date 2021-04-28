@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Crypto miners are killing free CI](https://layerci.com/blog/crypto-miners-are-killing-free-ci/)
 - 👀 [CS50x 2021](https://cs50.harvard.edu/x/2021/)
 - 👀 [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 - 👀 [easiest way with Zoom H4N to record in mono via XLR input and stereo using built-ins - Gearspace.com](https://gearspace.com/board/newbie-audio-engineering-production-question-zone/645682-easiest-way-zoom-h4n-record-mono-via-xlr-input-stereo-using-built-ins.html)
@@ -14,7 +15,6 @@
 - 👀 [https://groundcontrolcolor.com/collections/free-color-grading-luts](https://groundcontrolcolor.com/collections/free-color-grading-luts)
 - 👀 [Layout Parser](https://layout-parser.github.io/)
 - 👀 [My current HTML boilerplate - Manuel Matuzović](https://www.matuzo.at/blog/html-boilerplate/)
-- 👀 [In Spirit - Alison Luntz Photography](https://www.alisonluntz.com/in-spirit/)
 
 
 # Books and comics I am reading
