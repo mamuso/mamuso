@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Home | Scan The World](https://www.myminifactory.com/scantheworld/)
+- 👀 [Headless WYSIWYG Text Editor – tiptap editor](https://www.tiptap.dev/)
+- 👀 [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/)
+- 👀 [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/)
+- 👀 [The Technium: 99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
 - 👀 [Crypto miners are killing free CI](https://layerci.com/blog/crypto-miners-are-killing-free-ci/)
 - 👀 [CS50x 2021](https://cs50.harvard.edu/x/2021/)
 - 👀 [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
-- 👀 [easiest way with Zoom H4N to record in mono via XLR input and stereo using built-ins - Gearspace.com](https://gearspace.com/board/newbie-audio-engineering-production-question-zone/645682-easiest-way-zoom-h4n-record-mono-via-xlr-input-stereo-using-built-ins.html)
-- 👀 [Use console.log() like a pro - Marko Denic - Web Developer](https://markodenic.com/use-console-log-like-a-pro/)
-- 👀 [https://groundcontrolcolor.com/collections/free-color-grading-luts](https://groundcontrolcolor.com/collections/free-color-grading-luts)
-- 👀 [Layout Parser](https://layout-parser.github.io/)
-- 👀 [My current HTML boilerplate - Manuel Matuzović](https://www.matuzo.at/blog/html-boilerplate/)
 
 
 # Books and comics I am reading
