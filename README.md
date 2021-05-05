@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
+- 👀 [readme.so - Easiest Way to Create A README](https://readme.so/)
 - 👀 [Home | Scan The World](https://www.myminifactory.com/scantheworld/)
 - 👀 [Headless WYSIWYG Text Editor – tiptap editor](https://www.tiptap.dev/)
 - 👀 [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/)
 - 👀 [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/)
 - 👀 [The Technium: 99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
 - 👀 [Crypto miners are killing free CI](https://layerci.com/blog/crypto-miners-are-killing-free-ci/)
-- 👀 [CS50x 2021](https://cs50.harvard.edu/x/2021/)
-- 👀 [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 
 
 # Books and comics I am reading
