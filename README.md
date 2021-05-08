@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [HTML Tips - Marko Denic - Web Developer](https://markodenic.com/html-tips/)
 - 👀 [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
 - 👀 [readme.so - Easiest Way to Create A README](https://readme.so/)
 - 👀 [Home | Scan The World](https://www.myminifactory.com/scantheworld/)
@@ -14,7 +15,6 @@
 - 👀 [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/)
 - 👀 [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/)
 - 👀 [The Technium: 99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
-- 👀 [Crypto miners are killing free CI](https://layerci.com/blog/crypto-miners-are-killing-free-ci/)
 
 
 # Books and comics I am reading
