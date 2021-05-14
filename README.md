@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Ditto | Manage copy from design to production](https://www.dittowords.com/)
+- 👀 [My Heroku values](https://gist.github.com/adamwiggins/5687294#own-up-to-failure)
 - 👀 [HTML Tips - Marko Denic - Web Developer](https://markodenic.com/html-tips/)
 - 👀 [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
 - 👀 [readme.so - Easiest Way to Create A README](https://readme.so/)
 - 👀 [Home | Scan The World](https://www.myminifactory.com/scantheworld/)
 - 👀 [Headless WYSIWYG Text Editor – tiptap editor](https://www.tiptap.dev/)
 - 👀 [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/)
-- 👀 [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/)
-- 👀 [The Technium: 99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/99-additional-bits-of-unsolicited-advice/)
 
 
 # Books and comics I am reading
