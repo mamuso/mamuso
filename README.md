@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Soulwire](https://soulwire.co.uk/)
 - 👀 [mmm.page](https://build.mmm.page/)
 - 👀 [Ditto | Manage copy from design to production](https://www.dittowords.com/)
 - 👀 [My Heroku values](https://gist.github.com/adamwiggins/5687294#own-up-to-failure)
@@ -14,7 +15,6 @@
 - 👀 [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
 - 👀 [readme.so - Easiest Way to Create A README](https://readme.so/)
 - 👀 [Home | Scan The World](https://www.myminifactory.com/scantheworld/)
-- 👀 [Headless WYSIWYG Text Editor – tiptap editor](https://www.tiptap.dev/)
 
 
 # Books and comics I am reading
