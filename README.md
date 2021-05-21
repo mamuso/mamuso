@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Discord — Koto](https://koto.studio/project/discord/)
+- 👀 [Building Products at Stripe - Bring the Donuts Newsletter](https://newsletter.bringthedonuts.com/p/building-products-at-stripe)
 - 👀 [Soulwire](https://soulwire.co.uk/)
 - 👀 [mmm.page](https://build.mmm.page/)
 - 👀 [Ditto | Manage copy from design to production](https://www.dittowords.com/)
 - 👀 [My Heroku values](https://gist.github.com/adamwiggins/5687294#own-up-to-failure)
 - 👀 [HTML Tips - Marko Denic - Web Developer](https://markodenic.com/html-tips/)
 - 👀 [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
-- 👀 [readme.so - Easiest Way to Create A README](https://readme.so/)
-- 👀 [Home | Scan The World](https://www.myminifactory.com/scantheworld/)
 
 
 # Books and comics I am reading
