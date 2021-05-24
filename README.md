@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Container Queries in Web Components | Max Böck](https://mxb.dev/blog/container-queries-web-components/)
 - 👀 [Discord — Koto](https://koto.studio/project/discord/)
 - 👀 [Building Products at Stripe - Bring the Donuts Newsletter](https://newsletter.bringthedonuts.com/p/building-products-at-stripe)
 - 👀 [Soulwire](https://soulwire.co.uk/)
@@ -14,7 +15,6 @@
 - 👀 [Ditto | Manage copy from design to production](https://www.dittowords.com/)
 - 👀 [My Heroku values](https://gist.github.com/adamwiggins/5687294#own-up-to-failure)
 - 👀 [HTML Tips - Marko Denic - Web Developer](https://markodenic.com/html-tips/)
-- 👀 [Outline – Team knowledge base & wiki](https://www.getoutline.com/)
 
 
 # Books and comics I am reading
