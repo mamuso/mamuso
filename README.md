@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Text Editing Hates You Too – Lord.io](https://lord.io/text-editing-hates-you-too/)
+- 👀 [Freesound - Freesound](https://freesound.org/)
+- 👀 [Learn CSS](https://web.dev/learn/css/)
 - 👀 [Container Queries in Web Components | Max Böck](https://mxb.dev/blog/container-queries-web-components/)
 - 👀 [Discord — Koto](https://koto.studio/project/discord/)
 - 👀 [Building Products at Stripe - Bring the Donuts Newsletter](https://newsletter.bringthedonuts.com/p/building-products-at-stripe)
 - 👀 [Soulwire](https://soulwire.co.uk/)
 - 👀 [mmm.page](https://build.mmm.page/)
-- 👀 [Ditto | Manage copy from design to production](https://www.dittowords.com/)
-- 👀 [My Heroku values](https://gist.github.com/adamwiggins/5687294#own-up-to-failure)
-- 👀 [HTML Tips - Marko Denic - Web Developer](https://markodenic.com/html-tips/)
 
 
 # Books and comics I am reading
