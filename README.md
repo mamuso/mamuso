@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 - 👀 [Text Editing Hates You Too – Lord.io](https://lord.io/text-editing-hates-you-too/)
 - 👀 [Freesound - Freesound](https://freesound.org/)
 - 👀 [Learn CSS](https://web.dev/learn/css/)
@@ -14,7 +15,6 @@
 - 👀 [Discord — Koto](https://koto.studio/project/discord/)
 - 👀 [Building Products at Stripe - Bring the Donuts Newsletter](https://newsletter.bringthedonuts.com/p/building-products-at-stripe)
 - 👀 [Soulwire](https://soulwire.co.uk/)
-- 👀 [mmm.page](https://build.mmm.page/)
 
 
 # Books and comics I am reading
