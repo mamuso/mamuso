@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The Filing Cabinet](https://placesjournal.org/article/the-filing-cabinet-and-20th-century-information-infrastructure/?cn-reloaded=1&cn-reloaded=1)
+- 👀 [The Knowledge Organization | As We May Think — products & tools for thought](https://fibery.io/blog/the-knowledge-organization/)
 - 👀 [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 - 👀 [Text Editing Hates You Too – Lord.io](https://lord.io/text-editing-hates-you-too/)
 - 👀 [Freesound - Freesound](https://freesound.org/)
 - 👀 [Learn CSS](https://web.dev/learn/css/)
 - 👀 [Container Queries in Web Components | Max Böck](https://mxb.dev/blog/container-queries-web-components/)
 - 👀 [Discord — Koto](https://koto.studio/project/discord/)
-- 👀 [Building Products at Stripe - Bring the Donuts Newsletter](https://newsletter.bringthedonuts.com/p/building-products-at-stripe)
-- 👀 [Soulwire](https://soulwire.co.uk/)
 
 
 # Books and comics I am reading
