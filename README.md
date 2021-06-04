@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The painted door test](https://briandavidhall.com/the-painted-door-test/)
 - 👀 [Fig](https://fig.io/)
 - 👀 [The Expanse UI Design — HUDS GUIS](https://www.hudsandguis.com/home/2021/theexpanse)
 - 👀 [The Filing Cabinet](https://placesjournal.org/article/the-filing-cabinet-and-20th-century-information-infrastructure/?cn-reloaded=1&cn-reloaded=1)
@@ -14,7 +15,6 @@
 - 👀 [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 - 👀 [Text Editing Hates You Too – Lord.io](https://lord.io/text-editing-hates-you-too/)
 - 👀 [Freesound - Freesound](https://freesound.org/)
-- 👀 [Learn CSS](https://web.dev/learn/css/)
 
 
 # Books and comics I am reading
