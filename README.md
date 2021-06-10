@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 - 👀 [The painted door test](https://briandavidhall.com/the-painted-door-test/)
 - 👀 [Fig](https://fig.io/)
 - 👀 [The Expanse UI Design — HUDS GUIS](https://www.hudsandguis.com/home/2021/theexpanse)
@@ -14,7 +15,6 @@
 - 👀 [The Knowledge Organization | As We May Think — products & tools for thought](https://fibery.io/blog/the-knowledge-organization/)
 - 👀 [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 - 👀 [Text Editing Hates You Too – Lord.io](https://lord.io/text-editing-hates-you-too/)
-- 👀 [Freesound - Freesound](https://freesound.org/)
 
 
 # Books and comics I am reading
