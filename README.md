@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Asynchronous Design Critique: Giving Feedback – A List Apart](https://alistapart.com/article/async-design-critique-giving-feedback/)
+- 👀 [5-15 Format: Keep a Pulse on Your Business Without Micromanaging](https://dandoadvisors.com/5-15-format/)
+- 👀 [Dr. Jordan B. Peterson’s 10 Step Guide to Clearer Thinking Through Essay Writing | by ur_immeasurable | Practice comes first | Medium](https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937)
 - 👀 [The Motherboard Guide to the Gig Economy](https://www.vice.com/en/article/pkbk88/the-motherboard-guide-to-the-gig-economy)
 - 👀 [An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 - 👀 [The painted door test](https://briandavidhall.com/the-painted-door-test/)
 - 👀 [Fig](https://fig.io/)
 - 👀 [The Expanse UI Design — HUDS GUIS](https://www.hudsandguis.com/home/2021/theexpanse)
-- 👀 [The Filing Cabinet](https://placesjournal.org/article/the-filing-cabinet-and-20th-century-information-infrastructure/?cn-reloaded=1&cn-reloaded=1)
-- 👀 [The Knowledge Organization | As We May Think — products & tools for thought](https://fibery.io/blog/the-knowledge-organization/)
-- 👀 [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 
 
 # Books and comics I am reading
