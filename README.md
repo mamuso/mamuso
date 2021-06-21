@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [The Guest List](https://www.goodreads.com/book/show/52656911) by Lucy Foley
 - 📘 [The Thin Book of Trust; An Essential Primer for Building Trust at Work](https://www.goodreads.com/book/show/8245275) by Charles Feltman
 - 📘 [Enemies and Neighbors: Arabs and Jews in Palestine and Israel, 1917-2017](https://www.goodreads.com/book/show/36523502) by Ian   Black
 - 📘 [When: The Scientific Secrets of Perfect Timing](https://www.goodreads.com/book/show/35786699) by Daniel H. Pink
-- 📘 [Because Internet: Understanding the New Rules of Language](https://www.goodreads.com/book/show/37834053) by Gretchen McCulloch
 
