@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Brickit: Rebuild your Lego](https://brickit.app/)
+- 👀 [That JavaScript quiz you found on Reddit](https://jsisweird.com/)
+- 👀 [Incremental note-taking | thesephist.com](https://thesephist.com/posts/inc/#principles-of-incremental-notes)
+- 👀 [How I take notes in meetings • The Witful Blog](https://blog.witful.com/how-i-take-notes-in-meetings/)
+- 👀 [I love Typography (ILT), the world's favorite fonts and typography site](https://ilovetypography.com/2021/06/28/talking-about-type-introducing-cedars/)
+- 👀 [Guerrilla guide to CNC machining, mold making, and resin casting](https://lcamtuf.coredump.cx/gcnc/)
+- 👀 [On Flying](https://airtraveldesign.guide/)
 - 👀 [A Beginner’s Guide to Miles Davis – Sam Enright](https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/)
-- 👀 [Web Skills](https://andreasbm.github.io/web-skills/)
-- 👀 [The 25 Micro-Habits of High-Impact Managers | First Round Review](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers)
-- 👀 [Bryan - Hicks.design](https://hicks.design/shop/bryan)
-- 👀 [secret club | We Break Software](https://secret.club/)
-- 👀 [The Document Culture of Amazon](https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/)
-- 👀 [Welcome to AltStore](https://altstore.io/)
-- 👀 [Stinky Fish | Hyper Island](https://www.hyperisland.com/blog/stinky-fish)
 
 
 # Books and comics I am reading
