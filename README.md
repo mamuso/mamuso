@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Engineering Management: The Pendulum Or The Ladder – charity.wtf](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
+- 👀 [Quad Cortex – Neural DSP](https://neuraldsp.com/quad-cortex)
+- 👀 [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+- 👀 [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents#gist)
 - 👀 [Write videos in React | Remotion](https://www.remotion.dev/)
 - 👀 [Marvellous code walkthroughs - Code Hike](https://codehike.org/)
 - 👀 [Brickit: Rebuild your Lego](https://brickit.app/)
 - 👀 [That JavaScript quiz you found on Reddit](https://jsisweird.com/)
-- 👀 [Incremental note-taking | thesephist.com](https://thesephist.com/posts/inc/#principles-of-incremental-notes)
-- 👀 [How I take notes in meetings • The Witful Blog](https://blog.witful.com/how-i-take-notes-in-meetings/)
-- 👀 [I love Typography (ILT), the world's favorite fonts and typography site](https://ilovetypography.com/2021/06/28/talking-about-type-introducing-cedars/)
-- 👀 [Guerrilla guide to CNC machining, mold making, and resin casting](https://lcamtuf.coredump.cx/gcnc/)
 
 
 # Books and comics I am reading
