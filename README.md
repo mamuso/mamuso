@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The unreasonable effectiveness of just showing up everyday | Typesense](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
 - 👀 [Engineering Management: The Pendulum Or The Ladder – charity.wtf](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
 - 👀 [Quad Cortex – Neural DSP](https://neuraldsp.com/quad-cortex)
 - 👀 [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
@@ -14,7 +15,6 @@
 - 👀 [Write videos in React | Remotion](https://www.remotion.dev/)
 - 👀 [Marvellous code walkthroughs - Code Hike](https://codehike.org/)
 - 👀 [Brickit: Rebuild your Lego](https://brickit.app/)
-- 👀 [That JavaScript quiz you found on Reddit](https://jsisweird.com/)
 
 
 # Books and comics I am reading
