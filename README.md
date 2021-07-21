@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Catalog of Catalogs](https://www.notion.so/Catalog-of-Catalogs-4bcbee621de243b6a34deaebd28180d0)
+- 👀 [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
 - 👀 [Binder](https://mybinder.org/)
 - 👀 [The worst volume control UI in the world | by Fabricio Teixeira | UX Collective](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
 - 👀 [The unreasonable effectiveness of just showing up everyday | Typesense](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
 - 👀 [Engineering Management: The Pendulum Or The Ladder – charity.wtf](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
 - 👀 [Quad Cortex – Neural DSP](https://neuraldsp.com/quad-cortex)
 - 👀 [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
-- 👀 [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents#gist)
-- 👀 [Write videos in React | Remotion](https://www.remotion.dev/)
 
 
 # Books and comics I am reading
