@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [How I store my files and why you should not rely on fancy tools for backup](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html)
+- 👀 [Terms and Conditions Apply](https://termsandconditions.game/)
+- 👀 [6 Command Line Tools for Productive Programmers - Earthly Blog](https://earthly.dev/blog/command-line-tools/)
 - 👀 [Helen Levitt's Indelible Eye : NPR](https://www.npr.org/templates/story/story.php?storyId=1136521)
 - 👀 [Helen Levitt | MoMA](https://www.moma.org/artists/3520?=undefined&page=&direction=fwd)
 - 👀 [Historic Personal Computers of Japan - A3 Print | Stephen Maurice Graham](https://stephenmauricegraham.bigcartel.com/product/historic-personal-computers-of-japan-a3-print)
 - 👀 [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - 👀 [Colorlab](https://colorlab.vercel.app/)
-- 👀 [Catalog of Catalogs](https://www.notion.so/Catalog-of-Catalogs-4bcbee621de243b6a34deaebd28180d0)
-- 👀 [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
-- 👀 [Binder](https://mybinder.org/)
 
 
 # Books and comics I am reading
