@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Craft - Create Amazing Documents](https://www.craft.do/)
+- 👀 [The Metaverse is a Dystopian Nightmare. Let’s Build a Better Reality. – Niantic](https://nianticlabs.com/blog/real-world-metaverse/?hl=en)
 - 👀 [Dr. Wilkinson's Backyard Resort & Mineral Springs | Napa Valley Resort](https://drwilkinson.com/)
 - 👀 [Better Specs. Testing Guidelines for Developers.](https://www.betterspecs.org/)
 - 👀 [Simple Systems Have Less Downtime | Greg Kogan](https://www.gkogan.co/blog/simple-systems/)
 - 👀 [Beautiful ideas in programming: generators and continuations](https://www.hhyu.org/posts/generator_and_continuation/)
 - 👀 [The 4 Reading Levels: Different Ways To Read Different Books | TCR](https://www.thecuriousreader.in/features/reading-levels/)
 - 👀 [The lost history of the electric car – and what it tells us about the future of transport | Motoring | The Guardian](https://www.theguardian.com/technology/2021/aug/03/lost-history-electric-car-future-transport)
-- 👀 [How I store my files and why you should not rely on fancy tools for backup](https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html)
-- 👀 [Terms and Conditions Apply](https://termsandconditions.game/)
 
 
 # Books and comics I am reading
