@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Worn Out — Real Life](https://reallifemag.com/worn-out/)
+- 👀 [Front Matter](http://textbooks.math.gatech.edu/ila/index.html)
 - 👀 [Cloud Native Buildpacks · Cloud Native Buildpacks](https://buildpacks.io/)
 - 👀 [Craft - Create Amazing Documents](https://www.craft.do/)
 - 👀 [The Metaverse is a Dystopian Nightmare. Let’s Build a Better Reality. – Niantic](https://nianticlabs.com/blog/real-world-metaverse/?hl=en)
 - 👀 [Dr. Wilkinson's Backyard Resort & Mineral Springs | Napa Valley Resort](https://drwilkinson.com/)
 - 👀 [Better Specs. Testing Guidelines for Developers.](https://www.betterspecs.org/)
 - 👀 [Simple Systems Have Less Downtime | Greg Kogan](https://www.gkogan.co/blog/simple-systems/)
-- 👀 [Beautiful ideas in programming: generators and continuations](https://www.hhyu.org/posts/generator_and_continuation/)
-- 👀 [The 4 Reading Levels: Different Ways To Read Different Books | TCR](https://www.thecuriousreader.in/features/reading-levels/)
 
 
 # Books and comics I am reading
