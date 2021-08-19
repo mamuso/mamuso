@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Gatheround — A better way to bring your people together](https://gatheround.com/)
+- 👀 [OctoPrint.org](https://octoprint.org/)
+- 👀 [Ship – Build, ship, and celebrate together](https://www.shipapp.io/)
 - 👀 [Worn Out — Real Life](https://reallifemag.com/worn-out/)
 - 👀 [Front Matter](http://textbooks.math.gatech.edu/ila/index.html)
 - 👀 [Cloud Native Buildpacks · Cloud Native Buildpacks](https://buildpacks.io/)
 - 👀 [Craft - Create Amazing Documents](https://www.craft.do/)
 - 👀 [The Metaverse is a Dystopian Nightmare. Let’s Build a Better Reality. – Niantic](https://nianticlabs.com/blog/real-world-metaverse/?hl=en)
-- 👀 [Dr. Wilkinson's Backyard Resort & Mineral Springs | Napa Valley Resort](https://drwilkinson.com/)
-- 👀 [Better Specs. Testing Guidelines for Developers.](https://www.betterspecs.org/)
-- 👀 [Simple Systems Have Less Downtime | Greg Kogan](https://www.gkogan.co/blog/simple-systems/)
 
 
 # Books and comics I am reading
