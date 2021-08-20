@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [MARTA ALTÉS](https://marta-altes.com/)
 - 👀 [Gatheround — A better way to bring your people together](https://gatheround.com/)
 - 👀 [OctoPrint.org](https://octoprint.org/)
 - 👀 [Ship – Build, ship, and celebrate together](https://www.shipapp.io/)
@@ -14,7 +15,6 @@
 - 👀 [Front Matter](http://textbooks.math.gatech.edu/ila/index.html)
 - 👀 [Cloud Native Buildpacks · Cloud Native Buildpacks](https://buildpacks.io/)
 - 👀 [Craft - Create Amazing Documents](https://www.craft.do/)
-- 👀 [The Metaverse is a Dystopian Nightmare. Let’s Build a Better Reality. – Niantic](https://nianticlabs.com/blog/real-world-metaverse/?hl=en)
 
 
 # Books and comics I am reading
