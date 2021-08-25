@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Generating Open Graph images with Mapbox & Canvas | Samuel Kraft](https://samuelkraft.com/blog/mapbox-static-image-api)
 - 👀 [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - 👀 [Hanami | The web, with simplicity](https://hanamirb.org/)
 - 👀 [MARTA ALTÉS](https://marta-altes.com/)
@@ -14,7 +15,6 @@
 - 👀 [OctoPrint.org](https://octoprint.org/)
 - 👀 [Ship – Build, ship, and celebrate together](https://www.shipapp.io/)
 - 👀 [Worn Out — Real Life](https://reallifemag.com/worn-out/)
-- 👀 [Front Matter](http://textbooks.math.gatech.edu/ila/index.html)
 
 
 # Books and comics I am reading
