@@ -16,5 +16,4 @@
 - Sponsors
 - Discussions
 - Achievements
-- Enterprise
 - ...
