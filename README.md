@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [A DIY E-bike Conversion on the Cheap - IEEE Spectrum](https://spectrum.ieee.org/electric-bike)
+- 👀 [Parents Are Not Okay - The Atlantic](https://www.theatlantic.com/ideas/archive/2021/08/parents-are-not-okay/619859/)
+- 👀 [An Opinionated Guide to xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
 - 👀 [Generating Open Graph images with Mapbox & Canvas | Samuel Kraft](https://samuelkraft.com/blog/mapbox-static-image-api)
 - 👀 [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - 👀 [Hanami | The web, with simplicity](https://hanamirb.org/)
 - 👀 [MARTA ALTÉS](https://marta-altes.com/)
 - 👀 [Gatheround — A better way to bring your people together](https://gatheround.com/)
-- 👀 [OctoPrint.org](https://octoprint.org/)
-- 👀 [Ship – Build, ship, and celebrate together](https://www.shipapp.io/)
-- 👀 [Worn Out — Real Life](https://reallifemag.com/worn-out/)
 
 
 # Books and comics I am reading
