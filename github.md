@@ -11,9 +11,12 @@
 - Container Registry
 - GitHub Codespaces
 - GitHub Advanced Security
-- CLI
+- GitHub CLI
 - Mobile apps
 - Sponsors
 - Discussions
 - Achievements
+- EMUs
+- Notifications
+- Profile Readmes
 - ...
