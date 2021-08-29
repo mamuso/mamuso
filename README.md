@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [100 Ways to Improve Your Writing: Proven Professional Techniques for Writing With Style and Power](https://www.goodreads.com/book/show/43229424) by Gary Provost
+- 📘 [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.goodreads.com/book/show/42764751) by Eric Schmidt
 - 📘 [The Guest List](https://www.goodreads.com/book/show/52656911) by Lucy Foley
 - 📘 [The Thin Book of Trust; An Essential Primer for Building Trust at Work](https://www.goodreads.com/book/show/8245275) by Charles Feltman
-- 📘 [Enemies and Neighbors: Arabs and Jews in Palestine and Israel, 1917-2017](https://www.goodreads.com/book/show/36523502) by Ian   Black
-- 📘 [When: The Scientific Secrets of Perfect Timing](https://www.goodreads.com/book/show/35786699) by Daniel H. Pink
 
