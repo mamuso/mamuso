@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 - 👀 [A DIY E-bike Conversion on the Cheap - IEEE Spectrum](https://spectrum.ieee.org/electric-bike)
 - 👀 [Parents Are Not Okay - The Atlantic](https://www.theatlantic.com/ideas/archive/2021/08/parents-are-not-okay/619859/)
 - 👀 [An Opinionated Guide to xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
@@ -14,7 +15,6 @@
 - 👀 [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - 👀 [Hanami | The web, with simplicity](https://hanamirb.org/)
 - 👀 [MARTA ALTÉS](https://marta-altes.com/)
-- 👀 [Gatheround — A better way to bring your people together](https://gatheround.com/)
 
 
 # Books and comics I am reading
