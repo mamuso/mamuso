@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Map Sliding Puzzle 3D Printed - Fusion 360 : 28 Steps (with Pictures) - Instructables](https://www.instructables.com/Map-Sliding-Puzzle-3D-Printed/)
 - 👀 [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 - 👀 [A DIY E-bike Conversion on the Cheap - IEEE Spectrum](https://spectrum.ieee.org/electric-bike)
 - 👀 [Parents Are Not Okay - The Atlantic](https://www.theatlantic.com/ideas/archive/2021/08/parents-are-not-okay/619859/)
@@ -14,7 +15,6 @@
 - 👀 [Generating Open Graph images with Mapbox & Canvas | Samuel Kraft](https://samuelkraft.com/blog/mapbox-static-image-api)
 - 👀 [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 - 👀 [Hanami | The web, with simplicity](https://hanamirb.org/)
-- 👀 [MARTA ALTÉS](https://marta-altes.com/)
 
 
 # Books and comics I am reading
