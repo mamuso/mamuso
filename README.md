@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Brooks, Wirth and Go. | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/brooks-wirth-go/)
+- 👀 [Moiré no more | Revue](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
+- 👀 [The Art of Not Taking Things Personally | by Dave Bailey | Aug, 2021 | The Founder Coach](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172)
+- 👀 [visx | visualization components](https://airbnb.io/visx/)
 - 👀 [https://www.radix-ui.com](https://www.radix-ui.com/)
 - 👀 [Map Sliding Puzzle 3D Printed - Fusion 360 : 28 Steps (with Pictures) - Instructables](https://www.instructables.com/Map-Sliding-Puzzle-3D-Printed/)
 - 👀 [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 - 👀 [A DIY E-bike Conversion on the Cheap - IEEE Spectrum](https://spectrum.ieee.org/electric-bike)
-- 👀 [Parents Are Not Okay - The Atlantic](https://www.theatlantic.com/ideas/archive/2021/08/parents-are-not-okay/619859/)
-- 👀 [An Opinionated Guide to xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
-- 👀 [Generating Open Graph images with Mapbox & Canvas | Samuel Kraft](https://samuelkraft.com/blog/mapbox-static-image-api)
-- 👀 [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 
 
 # Books and comics I am reading
