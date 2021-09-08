@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Vectary 3D Elements for Figma](https://www.vectary.com/figma/)
+- 👀 [Spline - Design tool for 3D web experiences](https://spline.design/)
 - 👀 [Spoken Moto | Bend, Oregon – SpokenMoto](https://spokenmoto.com/)
 - 👀 [Brooks, Wirth and Go. | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/brooks-wirth-go/)
 - 👀 [Moiré no more | Revue](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
 - 👀 [The Art of Not Taking Things Personally | by Dave Bailey | Aug, 2021 | The Founder Coach](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172)
 - 👀 [visx | visualization components](https://airbnb.io/visx/)
 - 👀 [https://www.radix-ui.com](https://www.radix-ui.com/)
-- 👀 [Map Sliding Puzzle 3D Printed - Fusion 360 : 28 Steps (with Pictures) - Instructables](https://www.instructables.com/Map-Sliding-Puzzle-3D-Printed/)
-- 👀 [Why are hyperlinks blue?](https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/)
 
 
 # Books and comics I am reading
