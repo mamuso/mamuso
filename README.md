@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Getting started with making Processing GIFs, and using the beesandbombs template. – necessary-disorder tutorials](https://necessarydisorder.wordpress.com/2018/07/02/getting-started-with-making-processing-gifs-and-using-the-beesandbombs-template/)
 - 👀 [Vectary 3D Elements for Figma](https://www.vectary.com/figma/)
 - 👀 [Spline - Design tool for 3D web experiences](https://spline.design/)
 - 👀 [Spoken Moto | Bend, Oregon – SpokenMoto](https://spokenmoto.com/)
@@ -14,7 +15,6 @@
 - 👀 [Moiré no more | Revue](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
 - 👀 [The Art of Not Taking Things Personally | by Dave Bailey | Aug, 2021 | The Founder Coach](https://medium.dave-bailey.com/the-art-of-not-taking-things-personally-b7a8395ce172)
 - 👀 [visx | visualization components](https://airbnb.io/visx/)
-- 👀 [https://www.radix-ui.com](https://www.radix-ui.com/)
 
 
 # Books and comics I am reading
