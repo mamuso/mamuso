@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Bambinomonkey](https://www.bambinomonkey.com/)
+- 👀 [40 One-Sentence Email Tips](https://joshspector.com/one-sentence-email-tips/)
 - 👀 [Checkboxland](https://www.bryanbraun.com/checkboxland/)
 - 👀 [Getting Started • Zettelkasten Method](https://zettelkasten.de/posts/overview/)
 - 👀 [Getting started with making Processing GIFs, and using the beesandbombs template. – necessary-disorder tutorials](https://necessarydisorder.wordpress.com/2018/07/02/getting-started-with-making-processing-gifs-and-using-the-beesandbombs-template/)
 - 👀 [Vectary 3D Elements for Figma](https://www.vectary.com/figma/)
 - 👀 [Spline - Design tool for 3D web experiences](https://spline.design/)
 - 👀 [Spoken Moto | Bend, Oregon – SpokenMoto](https://spokenmoto.com/)
-- 👀 [Brooks, Wirth and Go. | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/brooks-wirth-go/)
-- 👀 [Moiré no more | Revue](https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319)
 
 
 # Books and comics I am reading
