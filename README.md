@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Flow Fields — Tyler Hobbs](https://tylerxhobbs.com/essays/2020/flow-fields)
+- 👀 [E-Commerce Checkout Usability: An Original Research Study - Cart & Checkout - Baymard Institute](https://baymard.com/research/checkout-usability)
 - 👀 [Pangram Pangram Foundry — Free to Try Quality Fonts and Typefaces](https://pangrampangram.com/)
 - 👀 [Project Kamp](https://projectkamp.com/)
 - 👀 [Trust the Process // New Prints on the Block — The Aesthetic Union](https://theaestheticunion.com/shop/new-prints-on-the-block-community-prints-series-zjg7j-z7243-arl8m-e6edg-tct9t-c4lpf-3hgt6-t43et-z3329-99zwj-a2fsj)
 - 👀 [Box Cat (Black), an art print by Bree Lundberg - INPRNT](https://www.inprnt.com/gallery/breelundberg/box-cat-black/)
 - 👀 [(1) Telegramme Paper Co.](https://telegramme.co.uk/)
 - 👀 [Art Typography - YES YES YES - The Positive Press – We Built This City](https://www.webuilt-thiscity.com/products/25yesyesyes)
-- 👀 [Shop my office – Charli Marie](https://charlimarie.com/shopmyoffice)
-- 👀 [Hiller Goodspeed at buyolympia.com](https://buyolympia.com/Artist/Hiller%20Goodspeed)
 
 
 # Books and comics I am reading
