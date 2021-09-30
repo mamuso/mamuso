@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
 - 👀 [GT Ultra typeface family exclusively at Grilli Type — Download Free Trial Fonts](https://gt-ultra.com/)
 - 👀 [Flow Fields — Tyler Hobbs](https://tylerxhobbs.com/essays/2020/flow-fields)
 - 👀 [E-Commerce Checkout Usability: An Original Research Study - Cart & Checkout - Baymard Institute](https://baymard.com/research/checkout-usability)
@@ -14,7 +15,6 @@
 - 👀 [Project Kamp](https://projectkamp.com/)
 - 👀 [Trust the Process // New Prints on the Block — The Aesthetic Union](https://theaestheticunion.com/shop/new-prints-on-the-block-community-prints-series-zjg7j-z7243-arl8m-e6edg-tct9t-c4lpf-3hgt6-t43et-z3329-99zwj-a2fsj)
 - 👀 [Box Cat (Black), an art print by Bree Lundberg - INPRNT](https://www.inprnt.com/gallery/breelundberg/box-cat-black/)
-- 👀 [(1) Telegramme Paper Co.](https://telegramme.co.uk/)
 
 
 # Books and comics I am reading
