@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Basic Pattern Repository](https://patterns.helloyes.dev/)
+- 👀 [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
+- 👀 [Self-Parking Car in 500 Lines of Code | Trekhleb](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
+- 👀 [Cooperative Overlap](https://anildash.com/2021/09/25/cooperative-overlap/)
 - 👀 [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
 - 👀 [GT Ultra typeface family exclusively at Grilli Type — Download Free Trial Fonts](https://gt-ultra.com/)
 - 👀 [Flow Fields — Tyler Hobbs](https://tylerxhobbs.com/essays/2020/flow-fields)
 - 👀 [E-Commerce Checkout Usability: An Original Research Study - Cart & Checkout - Baymard Institute](https://baymard.com/research/checkout-usability)
-- 👀 [Pangram Pangram Foundry — Free to Try Quality Fonts and Typefaces](https://pangrampangram.com/)
-- 👀 [Project Kamp](https://projectkamp.com/)
-- 👀 [Trust the Process // New Prints on the Block — The Aesthetic Union](https://theaestheticunion.com/shop/new-prints-on-the-block-community-prints-series-zjg7j-z7243-arl8m-e6edg-tct9t-c4lpf-3hgt6-t43et-z3329-99zwj-a2fsj)
-- 👀 [Box Cat (Black), an art print by Bree Lundberg - INPRNT](https://www.inprnt.com/gallery/breelundberg/box-cat-black/)
 
 
 # Books and comics I am reading
