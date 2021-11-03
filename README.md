@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Hidden Variable in Opportunity Cost - by Alex Cornell - Very Long Press](https://verylong.substack.com/p/the-hidden-variable-in-opportunity)
 - 👀 [Basic Pattern Repository](https://patterns.helloyes.dev/)
 - 👀 [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
 - 👀 [Self-Parking Car in 500 Lines of Code | Trekhleb](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
@@ -14,7 +15,6 @@
 - 👀 [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
 - 👀 [GT Ultra typeface family exclusively at Grilli Type — Download Free Trial Fonts](https://gt-ultra.com/)
 - 👀 [Flow Fields — Tyler Hobbs](https://tylerxhobbs.com/essays/2020/flow-fields)
-- 👀 [E-Commerce Checkout Usability: An Original Research Study - Cart & Checkout - Baymard Institute](https://baymard.com/research/checkout-usability)
 
 
 # Books and comics I am reading
