@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Maath | Poimandres](https://maath.pmnd.rs/)
 - 👀 [The Hidden Variable in Opportunity Cost - by Alex Cornell - Very Long Press](https://verylong.substack.com/p/the-hidden-variable-in-opportunity)
 - 👀 [Basic Pattern Repository](https://patterns.helloyes.dev/)
 - 👀 [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
@@ -14,7 +15,6 @@
 - 👀 [Cooperative Overlap](https://anildash.com/2021/09/25/cooperative-overlap/)
 - 👀 [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
 - 👀 [GT Ultra typeface family exclusively at Grilli Type — Download Free Trial Fonts](https://gt-ultra.com/)
-- 👀 [Flow Fields — Tyler Hobbs](https://tylerxhobbs.com/essays/2020/flow-fields)
 
 
 # Books and comics I am reading
