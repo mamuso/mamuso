@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Segmented Control for web with Framer Motion | Samuel Kraft](https://samuelkraft.com/blog/segmented-control-framer-motion)
 - 👀 [Maath | Poimandres](https://maath.pmnd.rs/)
 - 👀 [The Hidden Variable in Opportunity Cost - by Alex Cornell - Very Long Press](https://verylong.substack.com/p/the-hidden-variable-in-opportunity)
 - 👀 [Basic Pattern Repository](https://patterns.helloyes.dev/)
@@ -14,7 +15,6 @@
 - 👀 [Self-Parking Car in 500 Lines of Code | Trekhleb](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
 - 👀 [Cooperative Overlap](https://anildash.com/2021/09/25/cooperative-overlap/)
 - 👀 [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
-- 👀 [GT Ultra typeface family exclusively at Grilli Type — Download Free Trial Fonts](https://gt-ultra.com/)
 
 
 # Books and comics I am reading
