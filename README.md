@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [LOVE HULTÉN - W O R K](https://www.lovehulten.com/)
 - 👀 [Segmented Control for web with Framer Motion | Samuel Kraft](https://samuelkraft.com/blog/segmented-control-framer-motion)
 - 👀 [Maath | Poimandres](https://maath.pmnd.rs/)
 - 👀 [The Hidden Variable in Opportunity Cost - by Alex Cornell - Very Long Press](https://verylong.substack.com/p/the-hidden-variable-in-opportunity)
@@ -14,7 +15,6 @@
 - 👀 [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
 - 👀 [Self-Parking Car in 500 Lines of Code | Trekhleb](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
 - 👀 [Cooperative Overlap](https://anildash.com/2021/09/25/cooperative-overlap/)
-- 👀 [Designing Low Upkeep Software](https://www.jefftk.com/p/designing-low-upkeep-software)
 
 
 # Books and comics I am reading
