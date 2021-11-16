@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Flip, Invert, and Reverse](https://yuanchuan.dev/flip-invert-reverse)
 - 👀 [LOVE HULTÉN - W O R K](https://www.lovehulten.com/)
 - 👀 [Segmented Control for web with Framer Motion | Samuel Kraft](https://samuelkraft.com/blog/segmented-control-framer-motion)
 - 👀 [Maath | Poimandres](https://maath.pmnd.rs/)
@@ -14,7 +15,6 @@
 - 👀 [Basic Pattern Repository](https://patterns.helloyes.dev/)
 - 👀 [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
 - 👀 [Self-Parking Car in 500 Lines of Code | Trekhleb](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
-- 👀 [Cooperative Overlap](https://anildash.com/2021/09/25/cooperative-overlap/)
 
 
 # Books and comics I am reading
