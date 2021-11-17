@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Writing Well Handbook](https://www.julian.com/guide/write/intro)
 - 👀 [Flip, Invert, and Reverse](https://yuanchuan.dev/flip-invert-reverse)
 - 👀 [LOVE HULTÉN - W O R K](https://www.lovehulten.com/)
 - 👀 [Segmented Control for web with Framer Motion | Samuel Kraft](https://samuelkraft.com/blog/segmented-control-framer-motion)
@@ -14,7 +15,6 @@
 - 👀 [The Hidden Variable in Opportunity Cost - by Alex Cornell - Very Long Press](https://verylong.substack.com/p/the-hidden-variable-in-opportunity)
 - 👀 [Basic Pattern Repository](https://patterns.helloyes.dev/)
 - 👀 [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
-- 👀 [Self-Parking Car in 500 Lines of Code | Trekhleb](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
 
 
 # Books and comics I am reading
