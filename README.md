@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Real Life | Home alone](https://reallifemag.com/)
 - 👀 [The Writing Well Handbook](https://www.julian.com/guide/write/intro)
 - 👀 [Flip, Invert, and Reverse](https://yuanchuan.dev/flip-invert-reverse)
 - 👀 [LOVE HULTÉN - W O R K](https://www.lovehulten.com/)
@@ -14,7 +15,6 @@
 - 👀 [Maath | Poimandres](https://maath.pmnd.rs/)
 - 👀 [The Hidden Variable in Opportunity Cost - by Alex Cornell - Very Long Press](https://verylong.substack.com/p/the-hidden-variable-in-opportunity)
 - 👀 [Basic Pattern Repository](https://patterns.helloyes.dev/)
-- 👀 [UX Mapping Methods: Study Guide](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
 
 
 # Books and comics I am reading
