@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Individuals matter](https://danluu.com/people-matter/)
 - 👀 [Real Life | Home alone](https://reallifemag.com/)
 - 👀 [The Writing Well Handbook](https://www.julian.com/guide/write/intro)
 - 👀 [Flip, Invert, and Reverse](https://yuanchuan.dev/flip-invert-reverse)
@@ -14,7 +15,6 @@
 - 👀 [Segmented Control for web with Framer Motion | Samuel Kraft](https://samuelkraft.com/blog/segmented-control-framer-motion)
 - 👀 [Maath | Poimandres](https://maath.pmnd.rs/)
 - 👀 [The Hidden Variable in Opportunity Cost - by Alex Cornell - Very Long Press](https://verylong.substack.com/p/the-hidden-variable-in-opportunity)
-- 👀 [Basic Pattern Repository](https://patterns.helloyes.dev/)
 
 
 # Books and comics I am reading
