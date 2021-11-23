@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)
 - 👀 [Individuals matter](https://danluu.com/people-matter/)
 - 👀 [Real Life | Home alone](https://reallifemag.com/)
 - 👀 [The Writing Well Handbook](https://www.julian.com/guide/write/intro)
@@ -14,7 +15,6 @@
 - 👀 [LOVE HULTÉN - W O R K](https://www.lovehulten.com/)
 - 👀 [Segmented Control for web with Framer Motion | Samuel Kraft](https://samuelkraft.com/blog/segmented-control-framer-motion)
 - 👀 [Maath | Poimandres](https://maath.pmnd.rs/)
-- 👀 [The Hidden Variable in Opportunity Cost - by Alex Cornell - Very Long Press](https://verylong.substack.com/p/the-hidden-variable-in-opportunity)
 
 
 # Books and comics I am reading
