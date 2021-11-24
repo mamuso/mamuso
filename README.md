@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Building a bare-metal Kubernetes cluster on Raspberry Pi](https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/)
 - 👀 [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)
 - 👀 [Individuals matter](https://danluu.com/people-matter/)
 - 👀 [Real Life | Home alone](https://reallifemag.com/)
@@ -14,7 +15,6 @@
 - 👀 [Flip, Invert, and Reverse](https://yuanchuan.dev/flip-invert-reverse)
 - 👀 [LOVE HULTÉN - W O R K](https://www.lovehulten.com/)
 - 👀 [Segmented Control for web with Framer Motion | Samuel Kraft](https://samuelkraft.com/blog/segmented-control-framer-motion)
-- 👀 [Maath | Poimandres](https://maath.pmnd.rs/)
 
 
 # Books and comics I am reading
