@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- 👀 [Yesterday Once More — Real Life](https://reallifemag.com/yesterday-once-more/)
+- 👀 [ummm — organize your thoughts](https://www.ummm.co/)
+- 👀 [Best Books 2021: Books We Love : NPR](https://apps.npr.org/best-books/#view=covers&year=2021)
+- 👀 [Blog by Juliano Lima](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer)
+- 👀 [ALL 63 US NATIONAL PARKS RANKED By Experts (Best to Worst) 2021](https://morethanjustparks.com/national-parks-ranked/)
+- 👀 [Underrated reasons to be thankful](https://dynomight.net/thanks/)
 - 👀 [Writing is Networking for Introverts | by Byrne Hobart | Medium](https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77)
-- 👀 [Building a bare-metal Kubernetes cluster on Raspberry Pi](https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/)
-- 👀 [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)
-- 👀 [Individuals matter](https://danluu.com/people-matter/)
-- 👀 [Real Life | Home alone](https://reallifemag.com/)
-- 👀 [The Writing Well Handbook](https://www.julian.com/guide/write/intro)
-- 👀 [Flip, Invert, and Reverse](https://yuanchuan.dev/flip-invert-reverse)
-- 👀 [LOVE HULTÉN - W O R K](https://www.lovehulten.com/)
 
 
 # Books and comics I am reading
