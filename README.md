@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
 - 👀 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - 👀 [Yesterday Once More — Real Life](https://reallifemag.com/yesterday-once-more/)
 - 👀 [ummm — organize your thoughts](https://www.ummm.co/)
@@ -14,7 +15,6 @@
 - 👀 [Blog by Juliano Lima](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer)
 - 👀 [ALL 63 US NATIONAL PARKS RANKED By Experts (Best to Worst) 2021](https://morethanjustparks.com/national-parks-ranked/)
 - 👀 [Underrated reasons to be thankful](https://dynomight.net/thanks/)
-- 👀 [Writing is Networking for Introverts | by Byrne Hobart | Medium](https://byrnehobart.medium.com/writing-is-networking-for-introverts-5cac14ad4c77)
 
 
 # Books and comics I am reading
