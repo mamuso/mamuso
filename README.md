@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
+- 👀 [Compilers for Humans](https://www.compilersforhumans.com/)
 - 👀 [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
 - 👀 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - 👀 [Yesterday Once More — Real Life](https://reallifemag.com/yesterday-once-more/)
 - 👀 [ummm — organize your thoughts](https://www.ummm.co/)
 - 👀 [Best Books 2021: Books We Love : NPR](https://apps.npr.org/best-books/#view=covers&year=2021)
 - 👀 [Blog by Juliano Lima](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer)
-- 👀 [ALL 63 US NATIONAL PARKS RANKED By Experts (Best to Worst) 2021](https://morethanjustparks.com/national-parks-ranked/)
-- 👀 [Underrated reasons to be thankful](https://dynomight.net/thanks/)
 
 
 # Books and comics I am reading
