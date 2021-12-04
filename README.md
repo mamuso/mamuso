@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [About | Varun Vachhar](https://varun.ca/)
+- 👀 [Noise in Creative Coding | Varun Vachhar](https://varun.ca/noise/)
 - 👀 [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
 - 👀 [Compilers for Humans](https://www.compilersforhumans.com/)
 - 👀 [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
 - 👀 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - 👀 [Yesterday Once More — Real Life](https://reallifemag.com/yesterday-once-more/)
 - 👀 [ummm — organize your thoughts](https://www.ummm.co/)
-- 👀 [Best Books 2021: Books We Love : NPR](https://apps.npr.org/best-books/#view=covers&year=2021)
-- 👀 [Blog by Juliano Lima](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer)
 
 
 # Books and comics I am reading
