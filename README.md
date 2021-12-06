@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The mind-boggling collage comics of Samplerman](https://www.itsnicethat.com/articles/samplerman-illustration-131216)
 - 👀 [About | Varun Vachhar](https://varun.ca/)
 - 👀 [Noise in Creative Coding | Varun Vachhar](https://varun.ca/noise/)
 - 👀 [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
@@ -14,7 +15,6 @@
 - 👀 [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
 - 👀 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - 👀 [Yesterday Once More — Real Life](https://reallifemag.com/yesterday-once-more/)
-- 👀 [ummm — organize your thoughts](https://www.ummm.co/)
 
 
 # Books and comics I am reading
