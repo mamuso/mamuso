@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Floating UI - Positioning for tooltips, popovers, dropdowns, and more](https://www.floating-ui.com/)
+- 👀 [52 things I learned in 2021 by Tom Whitwell from Fluxx | Fluxx Studio Notes](https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409)
 - 👀 [The mind-boggling collage comics of Samplerman](https://www.itsnicethat.com/articles/samplerman-illustration-131216)
 - 👀 [About | Varun Vachhar](https://varun.ca/)
 - 👀 [Noise in Creative Coding | Varun Vachhar](https://varun.ca/noise/)
 - 👀 [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
 - 👀 [Compilers for Humans](https://www.compilersforhumans.com/)
 - 👀 [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
-- 👀 [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- 👀 [Yesterday Once More — Real Life](https://reallifemag.com/yesterday-once-more/)
 
 
 # Books and comics I am reading
