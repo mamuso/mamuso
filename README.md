@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Some thoughts on writing](https://danluu.com/writing-non-advice/)
 - 👀 [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)
 - 👀 [Floating UI - Positioning for tooltips, popovers, dropdowns, and more](https://www.floating-ui.com/)
 - 👀 [52 things I learned in 2021 by Tom Whitwell from Fluxx | Fluxx Studio Notes](https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409)
@@ -14,7 +15,6 @@
 - 👀 [About | Varun Vachhar](https://varun.ca/)
 - 👀 [Noise in Creative Coding | Varun Vachhar](https://varun.ca/noise/)
 - 👀 [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
-- 👀 [Compilers for Humans](https://www.compilersforhumans.com/)
 
 
 # Books and comics I am reading
