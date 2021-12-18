@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [I don't know how to name my function](https://namingmyfunction.vercel.app/)
 - 👀 [Some thoughts on writing](https://danluu.com/writing-non-advice/)
 - 👀 [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)
 - 👀 [Floating UI - Positioning for tooltips, popovers, dropdowns, and more](https://www.floating-ui.com/)
@@ -14,7 +15,6 @@
 - 👀 [The mind-boggling collage comics of Samplerman](https://www.itsnicethat.com/articles/samplerman-illustration-131216)
 - 👀 [About | Varun Vachhar](https://varun.ca/)
 - 👀 [Noise in Creative Coding | Varun Vachhar](https://varun.ca/noise/)
-- 👀 [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
 
 
 # Books and comics I am reading
