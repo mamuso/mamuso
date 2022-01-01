@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Latinotype](https://latinotype.com/nltt/)
+- 👀 [Pen Holder](https://arhoj.com/collections/pen-holder)
+- 👀 [indestructible type*](https://indestructibletype.com/Home.html)
 - 👀 [Theatre.js - JavaScript Motion Design Library](https://www.theatrejs.com/)
 - 👀 [MJML - The Responsive Email Framework](https://mjml.io/)
 - 👀 [I don't know how to name my function](https://namingmyfunction.vercel.app/)
 - 👀 [Some thoughts on writing](https://danluu.com/writing-non-advice/)
 - 👀 [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)
-- 👀 [Floating UI - Positioning for tooltips, popovers, dropdowns, and more](https://www.floating-ui.com/)
-- 👀 [52 things I learned in 2021 by Tom Whitwell from Fluxx | Fluxx Studio Notes](https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409)
-- 👀 [The mind-boggling collage comics of Samplerman](https://www.itsnicethat.com/articles/samplerman-illustration-131216)
 
 
 # Books and comics I am reading
