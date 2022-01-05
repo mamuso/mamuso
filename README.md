@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en)
 - 👀 [Latinotype](https://latinotype.com/nltt/)
 - 👀 [Pen Holder](https://arhoj.com/collections/pen-holder)
 - 👀 [indestructible type*](https://indestructibletype.com/Home.html)
@@ -14,13 +15,12 @@
 - 👀 [MJML - The Responsive Email Framework](https://mjml.io/)
 - 👀 [I don't know how to name my function](https://namingmyfunction.vercel.app/)
 - 👀 [Some thoughts on writing](https://danluu.com/writing-non-advice/)
-- 👀 [How I wrote my book](https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book)
 
 
 # Books and comics I am reading
 
+- 📘 [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/39317186) by Jake Knapp
 - 📘 [100 Ways to Improve Your Writing: Proven Professional Techniques for Writing With Style and Power](https://www.goodreads.com/book/show/43229424) by Gary Provost
 - 📘 [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.goodreads.com/book/show/42764751) by Eric Schmidt
 - 📘 [The Guest List](https://www.goodreads.com/book/show/52656911) by Lucy Foley
-- 📘 [The Thin Book of Trust; An Essential Primer for Building Trust at Work](https://www.goodreads.com/book/show/8245275) by Charles Feltman
 
