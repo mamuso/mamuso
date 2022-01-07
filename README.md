@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [How does Audio Fingerprinting work - Emysound](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)
+- 👀 [Grid for layout, Flexbox for components - Ahmad Shadeed](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - 👀 [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en)
 - 👀 [Latinotype](https://latinotype.com/nltt/)
 - 👀 [Pen Holder](https://arhoj.com/collections/pen-holder)
 - 👀 [indestructible type*](https://indestructibletype.com/Home.html)
 - 👀 [Theatre.js - JavaScript Motion Design Library](https://www.theatrejs.com/)
 - 👀 [MJML - The Responsive Email Framework](https://mjml.io/)
-- 👀 [I don't know how to name my function](https://namingmyfunction.vercel.app/)
-- 👀 [Some thoughts on writing](https://danluu.com/writing-non-advice/)
 
 
 # Books and comics I am reading
