@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [A Tale for the Time Being](https://www.goodreads.com/book/show/57363023) by Ruth Ozeki
 - 📘 [El Laberinto de Erin](https://www.goodreads.com/book/show/60091934) by Sol Santander
 - 📘 [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/39317186) by Jake Knapp
 - 📘 [100 Ways to Improve Your Writing: Proven Professional Techniques for Writing With Style and Power](https://www.goodreads.com/book/show/43229424) by Gary Provost
-- 📘 [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.goodreads.com/book/show/42764751) by Eric Schmidt
 
