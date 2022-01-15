@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Shirky: Situated Software](https://www.gwern.net/docs/technology/2004-03-30-shirky-situatedsoftware.html)
 - 👀 [How does Audio Fingerprinting work - Emysound](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)
 - 👀 [Grid for layout, Flexbox for components - Ahmad Shadeed](https://ishadeed.com/article/grid-layout-flexbox-components/)
 - 👀 [2021 JavaScript Rising Stars](https://risingstars.js.org/2021/en)
@@ -14,7 +15,6 @@
 - 👀 [Pen Holder](https://arhoj.com/collections/pen-holder)
 - 👀 [indestructible type*](https://indestructibletype.com/Home.html)
 - 👀 [Theatre.js - JavaScript Motion Design Library](https://www.theatrejs.com/)
-- 👀 [MJML - The Responsive Email Framework](https://mjml.io/)
 
 
 # Books and comics I am reading
