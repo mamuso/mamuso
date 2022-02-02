@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Variable Fonts for Expression and Accessibilty » Matt Jensen Marketing](https://mattjensenmarketing.com/variable-fonts/)
+- 👀 [Archive - Design Reviewed](https://www.designreviewed.com/archive/)
 - 👀 [Berrak Nil](https://berraknil.github.io/)
 - 👀 [Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow)
 - 👀 [The five Levels of Hype](https://johannesklingebiel.de/2022/01/12/hype-as-a-scale.html)
 - 👀 [On Leaving Facebook / frantic.im](https://frantic.im/leaving-facebook/)
 - 👀 [GPS – Bartosz Ciechanowski](https://ciechanow.ski/gps/)
 - 👀 [Shirky: Situated Software](https://www.gwern.net/docs/technology/2004-03-30-shirky-situatedsoftware.html)
-- 👀 [How does Audio Fingerprinting work - Emysound](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)
-- 👀 [Grid for layout, Flexbox for components - Ahmad Shadeed](https://ishadeed.com/article/grid-layout-flexbox-components/)
 
 
 # Books and comics I am reading
