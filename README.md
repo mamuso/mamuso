@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [building a modern home - Johnny Rodgers](https://johnnyrodgers.is/building-a-modern-home)
 - 👀 [Variable Fonts for Expression and Accessibilty » Matt Jensen Marketing](https://mattjensenmarketing.com/variable-fonts/)
 - 👀 [Archive - Design Reviewed](https://www.designreviewed.com/archive/)
 - 👀 [Berrak Nil](https://berraknil.github.io/)
@@ -14,7 +15,6 @@
 - 👀 [The five Levels of Hype](https://johannesklingebiel.de/2022/01/12/hype-as-a-scale.html)
 - 👀 [On Leaving Facebook / frantic.im](https://frantic.im/leaving-facebook/)
 - 👀 [GPS – Bartosz Ciechanowski](https://ciechanow.ski/gps/)
-- 👀 [Shirky: Situated Software](https://www.gwern.net/docs/technology/2004-03-30-shirky-situatedsoftware.html)
 
 
 # Books and comics I am reading
