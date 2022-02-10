@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [This Just In: Milwaukee Transit Passes – Letterform Archive](https://letterformarchive.org/news/view/milwaukee-transit-passes?mc_cid=0ea70f765c&mc_eid=d045de695f)
 - 👀 [Conventional Comments](https://conventionalcomments.org/)
 - 👀 [building a modern home - Johnny Rodgers](https://johnnyrodgers.is/building-a-modern-home)
 - 👀 [Variable Fonts for Expression and Accessibilty » Matt Jensen Marketing](https://mattjensenmarketing.com/variable-fonts/)
@@ -14,7 +15,6 @@
 - 👀 [Berrak Nil](https://berraknil.github.io/)
 - 👀 [Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow)
 - 👀 [The five Levels of Hype](https://johannesklingebiel.de/2022/01/12/hype-as-a-scale.html)
-- 👀 [On Leaving Facebook / frantic.im](https://frantic.im/leaving-facebook/)
 
 
 # Books and comics I am reading
