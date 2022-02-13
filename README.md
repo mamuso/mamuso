@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [How Wanting Less Leads to Satisfaction - The Atlantic](https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/)
+- 👀 [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/)
+- 👀 [iLovePDF | Online PDF tools for PDF lovers](https://www.ilovepdf.com/)
+- 👀 [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
+- 👀 [CSS { In Real Life } | Aspect Ratio is Great](https://css-irl.info/aspect-ratio-is-great/)
 - 👀 [This Just In: Milwaukee Transit Passes – Letterform Archive](https://letterformarchive.org/news/view/milwaukee-transit-passes?mc_cid=0ea70f765c&mc_eid=d045de695f)
 - 👀 [Conventional Comments](https://conventionalcomments.org/)
 - 👀 [building a modern home - Johnny Rodgers](https://johnnyrodgers.is/building-a-modern-home)
-- 👀 [Variable Fonts for Expression and Accessibilty » Matt Jensen Marketing](https://mattjensenmarketing.com/variable-fonts/)
-- 👀 [Archive - Design Reviewed](https://www.designreviewed.com/archive/)
-- 👀 [Berrak Nil](https://berraknil.github.io/)
-- 👀 [Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow)
-- 👀 [The five Levels of Hype](https://johannesklingebiel.de/2022/01/12/hype-as-a-scale.html)
 
 
 # Books and comics I am reading
