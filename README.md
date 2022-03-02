@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Welcome to Method of Action](https://method.ac/)
 - 👀 [jless - A Command-Line JSON Viewer](https://jless.io/)
 - 👀 [My Notebook System - ratfactor](http://ratfactor.com/notes)
 - 👀 [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
@@ -14,7 +15,6 @@
 - 👀 [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/)
 - 👀 [iLovePDF | Online PDF tools for PDF lovers](https://www.ilovepdf.com/)
 - 👀 [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
-- 👀 [CSS { In Real Life } | Aspect Ratio is Great](https://css-irl.info/aspect-ratio-is-great/)
 
 
 # Books and comics I am reading
