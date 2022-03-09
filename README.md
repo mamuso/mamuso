@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Berkeley Graphics - Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono)
+- 👀 [Copying Better: How To Acquire The Tacit Knowledge of Experts - Commonplace - The Commoncog Blog](https://commoncog.com/blog/how-to-learn-tacit-knowledge/)
 - 👀 [Welcome to Method of Action](https://method.ac/)
 - 👀 [jless - A Command-Line JSON Viewer](https://jless.io/)
 - 👀 [My Notebook System - ratfactor](http://ratfactor.com/notes)
 - 👀 [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
 - 👀 [How Wanting Less Leads to Satisfaction - The Atlantic](https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/)
 - 👀 [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/)
-- 👀 [iLovePDF | Online PDF tools for PDF lovers](https://www.ilovepdf.com/)
-- 👀 [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
 
 
 # Books and comics I am reading
