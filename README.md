@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Physics — Susan Rigetti](https://www.susanrigetti.com/physics)
+- 👀 [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
+- 👀 [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
+- 👀 [Math — Susan Rigetti](https://www.susanrigetti.com/math)
 - 👀 [Berkeley Graphics - Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono)
 - 👀 [Copying Better: How To Acquire The Tacit Knowledge of Experts - Commonplace - The Commoncog Blog](https://commoncog.com/blog/how-to-learn-tacit-knowledge/)
 - 👀 [Welcome to Method of Action](https://method.ac/)
 - 👀 [jless - A Command-Line JSON Viewer](https://jless.io/)
-- 👀 [My Notebook System - ratfactor](http://ratfactor.com/notes)
-- 👀 [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
-- 👀 [How Wanting Less Leads to Satisfaction - The Atlantic](https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/)
-- 👀 [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/)
 
 
 # Books and comics I am reading
