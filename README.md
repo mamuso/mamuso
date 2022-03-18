@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Typefaces Used by the Bauhaus – Letterform Archive](https://letterformarchive.org/news/view/bauhaus-typefaces-part-one?mc_cid=2cc751f2cb&mc_eid=d045de695f)
 - 👀 [Monorepo Explained](https://monorepo.tools/)
 - 👀 [Physics — Susan Rigetti](https://www.susanrigetti.com/physics)
 - 👀 [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
@@ -14,7 +15,6 @@
 - 👀 [Math — Susan Rigetti](https://www.susanrigetti.com/math)
 - 👀 [Berkeley Graphics - Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono)
 - 👀 [Copying Better: How To Acquire The Tacit Knowledge of Experts - Commonplace - The Commoncog Blog](https://commoncog.com/blog/how-to-learn-tacit-knowledge/)
-- 👀 [Welcome to Method of Action](https://method.ac/)
 
 
 # Books and comics I am reading
