@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Monorepos done right](https://felixmulder.com/writing/2022/03/12/Monorepos-done-right.html)
 - 👀 [Typefaces Used by the Bauhaus – Letterform Archive](https://letterformarchive.org/news/view/bauhaus-typefaces-part-one?mc_cid=2cc751f2cb&mc_eid=d045de695f)
 - 👀 [Monorepo Explained](https://monorepo.tools/)
 - 👀 [Physics — Susan Rigetti](https://www.susanrigetti.com/physics)
@@ -14,7 +15,6 @@
 - 👀 [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
 - 👀 [Math — Susan Rigetti](https://www.susanrigetti.com/math)
 - 👀 [Berkeley Graphics - Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono)
-- 👀 [Copying Better: How To Acquire The Tacit Knowledge of Experts - Commonplace - The Commoncog Blog](https://commoncog.com/blog/how-to-learn-tacit-knowledge/)
 
 
 # Books and comics I am reading
