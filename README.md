@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [A detailed guide to colors in data vis style guides - Datawrapper Blog](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
 - 👀 [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - 👀 [YGA | Learn to play guitar online for free with YGA.](https://yourguitaracademy.com/courses)
 - 👀 [Monorepos done right](https://felixmulder.com/writing/2022/03/12/Monorepos-done-right.html)
@@ -14,7 +15,6 @@
 - 👀 [Monorepo Explained](https://monorepo.tools/)
 - 👀 [Physics — Susan Rigetti](https://www.susanrigetti.com/physics)
 - 👀 [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
-- 👀 [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
 
 
 # Books and comics I am reading
