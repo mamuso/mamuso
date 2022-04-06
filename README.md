@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Rides, Routes & Inspirations • Goneriding](https://www.goneriding.cc/)
 - 👀 [Visualizing Complex Numbers Using GLSL – Harley Turan](https://hturan.com/writing/complex-numbers-glsl)
 - 👀 [Deploying a PlanetScale, Next.js & Prisma App to Vercel](https://davidparks.dev/blog/planetscale-deployment-with-prisma/)
 - 👀 [A detailed guide to colors in data vis style guides - Datawrapper Blog](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
@@ -14,7 +15,6 @@
 - 👀 [YGA | Learn to play guitar online for free with YGA.](https://yourguitaracademy.com/courses)
 - 👀 [Monorepos done right](https://felixmulder.com/writing/2022/03/12/Monorepos-done-right.html)
 - 👀 [Typefaces Used by the Bauhaus – Letterform Archive](https://letterformarchive.org/news/view/bauhaus-typefaces-part-one?mc_cid=2cc751f2cb&mc_eid=d045de695f)
-- 👀 [Monorepo Explained](https://monorepo.tools/)
 
 
 # Books and comics I am reading
