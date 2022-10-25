@@ -7,20 +7,20 @@
 
 # Recent bookmarks
 
-- 👀 [Rides, Routes & Inspirations • Goneriding](https://www.goneriding.cc/)
-- 👀 [Visualizing Complex Numbers Using GLSL – Harley Turan](https://hturan.com/writing/complex-numbers-glsl)
-- 👀 [Deploying a PlanetScale, Next.js & Prisma App to Vercel](https://davidparks.dev/blog/planetscale-deployment-with-prisma/)
-- 👀 [A detailed guide to colors in data vis style guides - Datawrapper Blog](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
-- 👀 [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
-- 👀 [YGA | Learn to play guitar online for free with YGA.](https://yourguitaracademy.com/courses)
-- 👀 [Monorepos done right](https://felixmulder.com/writing/2022/03/12/Monorepos-done-right.html)
-- 👀 [Typefaces Used by the Bauhaus – Letterform Archive](https://letterformarchive.org/news/view/bauhaus-typefaces-part-one?mc_cid=2cc751f2cb&mc_eid=d045de695f)
+- 👀 [Not a Number](https://www.nan.fyi/)
+- 👀 [Nabla — the isometric color font by Arthur Reinders Folmer & Just van Rossum](https://nabla.typearture.com/)
+- 👀 [Programming Portals](https://maggieappleton.com/programming-portals)
+- 👀 [Outstatic - A Static Site CMS for Next.js](https://outstatic.com/)
+- 👀 [Blending Modes | Dan Hollick 🇿🇦](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
+- 👀 [Components | The Component Gallery](https://component.gallery/components/)
+- 👀 [Fujimoto’s Five Books are now Public Domain - Origami by Michał Kosmulski](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
+- 👀 [What The Diff – AI powered changelog generation](https://whatthediff.ai/)
 
 
 # Books and comics I am reading
 
-- 📘 [A Tale for the Time Being](https://www.goodreads.com/book/show/57363023) by Ruth Ozeki
-- 📘 [El Laberinto de Erin](https://www.goodreads.com/book/show/60091934) by Sol Santander
-- 📘 [Make Time: How to Focus on What Matters Every Day](https://www.goodreads.com/book/show/39317186) by Jake Knapp
-- 📘 [100 Ways to Improve Your Writing: Proven Professional Techniques for Writing With Style and Power](https://www.goodreads.com/book/show/43229424) by Gary Provost
+- 📘 [Animal Farm](https://www.goodreads.com/book/show/8349198) by George Orwell
+- 📘 [Nat Enough](https://www.goodreads.com/book/show/45714795) by Maria Scrivan
+- 📘 [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43851501) by Randall Munroe
+- 📘 [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/58103132) by Shane Parrish
 
