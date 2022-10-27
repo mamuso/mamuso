@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [I’m Not Sure That (If?) GitHub Copilot is a Problem – Michael Weinberg](https://michaelweinberg.org/blog/2022/10/24/github-copilot-problem/)
 - 👀 [Not a Number](https://www.nan.fyi/)
 - 👀 [Nabla — the isometric color font by Arthur Reinders Folmer & Just van Rossum](https://nabla.typearture.com/)
 - 👀 [Programming Portals](https://maggieappleton.com/programming-portals)
@@ -14,7 +15,6 @@
 - 👀 [Blending Modes | Dan Hollick 🇿🇦](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
 - 👀 [Components | The Component Gallery](https://component.gallery/components/)
 - 👀 [Fujimoto’s Five Books are now Public Domain - Origami by Michał Kosmulski](https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain)
-- 👀 [What The Diff – AI powered changelog generation](https://whatthediff.ai/)
 
 
 # Books and comics I am reading
