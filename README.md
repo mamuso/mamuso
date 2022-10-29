@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [charmbracelet/vhs: Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs)
+- 👀 [Shell Script Best Practices — The Sharat's](https://sharats.me/posts/shell-script-best-practices/)
 - 👀 [(2) Machine Learning Specialization 2022 -- Andrew Ng, Stanford University. - YouTube](https://www.youtube.com/playlist?list=PLxfEOJXRm7eZKJyovNH-lE3ooXTsOCvfC)
 - 👀 [I’m Not Sure That (If?) GitHub Copilot is a Problem – Michael Weinberg](https://michaelweinberg.org/blog/2022/10/24/github-copilot-problem/)
 - 👀 [Not a Number](https://www.nan.fyi/)
 - 👀 [Nabla — the isometric color font by Arthur Reinders Folmer & Just van Rossum](https://nabla.typearture.com/)
 - 👀 [Programming Portals](https://maggieappleton.com/programming-portals)
 - 👀 [Outstatic - A Static Site CMS for Next.js](https://outstatic.com/)
-- 👀 [Blending Modes | Dan Hollick 🇿🇦](https://typefully.com/DanHollick/blending-modes-KrBa0JP)
-- 👀 [Components | The Component Gallery](https://component.gallery/components/)
 
 
 # Books and comics I am reading
