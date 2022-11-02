@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Fonts | Buy Fonts Save Lives](https://buyfontssavelives.com/fonts/)
+- 👀 [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
+- 👀 [FFmpeg.guide - One stop solution to all things FFmpeg](https://ffmpeg.guide/)
 - 👀 [noisebridge mural](https://sailorhg.com/mural.html)
 - 👀 [Don't specialize, hybridize — Stephan Ango](https://stephanango.com/hybridize)
 - 👀 [Charts.css](http://chartscss.org/)
 - 👀 [Anron | Flexible Figma icons in multiple styles](https://www.anron.pro/)
 - 👀 [charmbracelet/vhs: Your CLI home video recorder 📼](https://github.com/charmbracelet/vhs)
-- 👀 [Shell Script Best Practices — The Sharat's](https://sharats.me/posts/shell-script-best-practices/)
-- 👀 [(2) Machine Learning Specialization 2022 -- Andrew Ng, Stanford University. - YouTube](https://www.youtube.com/playlist?list=PLxfEOJXRm7eZKJyovNH-lE3ooXTsOCvfC)
-- 👀 [I’m Not Sure That (If?) GitHub Copilot is a Problem – Michael Weinberg](https://michaelweinberg.org/blog/2022/10/24/github-copilot-problem/)
 
 
 # Books and comics I am reading
