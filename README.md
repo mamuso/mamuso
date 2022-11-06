@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Sprig](https://sprig.hackclub.com/)
 - 👀 [40 fonts that will be popular with designers in 2023 | Creative Boom](https://www.creativeboom.com/resources/top-40-fonts-in-2023/)
 - 👀 [Fonts | Buy Fonts Save Lives](https://buyfontssavelives.com/fonts/)
 - 👀 [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
@@ -14,7 +15,6 @@
 - 👀 [noisebridge mural](https://sailorhg.com/mural.html)
 - 👀 [Don't specialize, hybridize — Stephan Ango](https://stephanango.com/hybridize)
 - 👀 [Charts.css](http://chartscss.org/)
-- 👀 [Anron | Flexible Figma icons in multiple styles](https://www.anron.pro/)
 
 
 # Books and comics I am reading
