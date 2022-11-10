@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The Design System Guide](https://thedesignsystem.guide/)
+- 👀 [Raycast – Wallpapers](https://www.raycast.com/wallpapers)
+- 👀 [Iosevka](https://typeof.net/Iosevka/)
 - 👀 [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
 - 👀 [HazeOver: Distraction Dimmer™ for Productivity on Mac](https://hazeover.com/)
 - 👀 [Semiphemeral](https://semiphemeral.com/)
 - 👀 [CTRL SHIFT! Podcast](https://podcast.humbleteam.com/)
 - 👀 [Sprig](https://sprig.hackclub.com/)
-- 👀 [40 fonts that will be popular with designers in 2023 | Creative Boom](https://www.creativeboom.com/resources/top-40-fonts-in-2023/)
-- 👀 [Fonts | Buy Fonts Save Lives](https://buyfontssavelives.com/fonts/)
-- 👀 [The Art of the Desk Setup](https://arun.is/blog/desk-setup/)
 
 
 # Books and comics I am reading
