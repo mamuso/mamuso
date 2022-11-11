@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Building the most inaccessible site possible with a perfect Lighthouse score - Manuel Matuzović](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 - 👀 [The Design System Guide](https://thedesignsystem.guide/)
 - 👀 [Raycast – Wallpapers](https://www.raycast.com/wallpapers)
 - 👀 [Iosevka](https://typeof.net/Iosevka/)
@@ -14,7 +15,6 @@
 - 👀 [HazeOver: Distraction Dimmer™ for Productivity on Mac](https://hazeover.com/)
 - 👀 [Semiphemeral](https://semiphemeral.com/)
 - 👀 [CTRL SHIFT! Podcast](https://podcast.humbleteam.com/)
-- 👀 [Sprig](https://sprig.hackclub.com/)
 
 
 # Books and comics I am reading
