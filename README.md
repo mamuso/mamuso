@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Dallas Barnes – Portfolio](https://www.dallasbarnes.com/)
 - 👀 [Building an e-ink weather display for our home - kimmo.blog](https://kimmo.blog/posts/7-building-eink-weather-display-for-our-home/)
 - 👀 [Building the most inaccessible site possible with a perfect Lighthouse score - Manuel Matuzović](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 - 👀 [The Design System Guide](https://thedesignsystem.guide/)
@@ -14,7 +15,6 @@
 - 👀 [Iosevka](https://typeof.net/Iosevka/)
 - 👀 [Potluck: Dynamic documents as personal software](https://www.inkandswitch.com/potluck/)
 - 👀 [HazeOver: Distraction Dimmer™ for Productivity on Mac](https://hazeover.com/)
-- 👀 [Semiphemeral](https://semiphemeral.com/)
 
 
 # Books and comics I am reading
