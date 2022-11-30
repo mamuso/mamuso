@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Guide to Computing - docubyte](https://www.docubyte.com/projects/guide-to-computing/)
+- 👀 [The Tokyoiter prints — The Tōkyōiter](http://www.thetokyoiter.com/shop2022)
 - 👀 [Fast, composable, unstyled command menu for React — ⌘K](https://cmdk.paco.me/)
 - 👀 [Coffee](https://trycoffee.co/)
 - 👀 [Dallas Barnes – Portfolio](https://www.dallasbarnes.com/)
 - 👀 [Building an e-ink weather display for our home - kimmo.blog](https://kimmo.blog/posts/7-building-eink-weather-display-for-our-home/)
 - 👀 [Building the most inaccessible site possible with a perfect Lighthouse score - Manuel Matuzović](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
 - 👀 [The Design System Guide](https://thedesignsystem.guide/)
-- 👀 [Raycast – Wallpapers](https://www.raycast.com/wallpapers)
-- 👀 [Iosevka](https://typeof.net/Iosevka/)
 
 
 # Books and comics I am reading
