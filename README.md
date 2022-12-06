@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Visual Journal – Branding, Editorial and Graphic Design](https://visualjournal.it/page:6)
 - 👀 [Inkbase: Programmable Ink](https://www.inkandswitch.com/inkbase/)
 - 👀 [A.N. Lucas's 88x31 button Collection](https://anlucas.neocities.org/88x31Buttons.html)
 - 👀 [Simone's Computer](https://simone.computer/#/webdesktops)
@@ -14,7 +15,6 @@
 - 👀 [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/)
 - 👀 [Guide to Computing - docubyte](https://www.docubyte.com/projects/guide-to-computing/)
 - 👀 [The Tokyoiter prints — The Tōkyōiter](http://www.thetokyoiter.com/shop2022)
-- 👀 [Fast, composable, unstyled command menu for React — ⌘K](https://cmdk.paco.me/)
 
 
 # Books and comics I am reading
