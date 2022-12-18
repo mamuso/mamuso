@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [MAKE GAMES WITH DEREK](https://derekyu.com/makegames/)
 - 👀 [How I am / How I roll – Remote Team Ice Breaker – When I Have Time by Sara Rosso](https://whenihavetime.com/2019/11/05/how-i-am-how-i-roll-remote-team-ice-breaker/)
 - 👀 [Super Useful CSS Resources 🌈 - DEV Community 👩‍💻👨‍💻](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 - 👀 [AI Homework – Stratechery by Ben Thompson](https://stratechery.com/2022/ai-homework/)
@@ -14,7 +15,6 @@
 - 👀 [Visual Journal – Branding, Editorial and Graphic Design](https://visualjournal.it/page:6)
 - 👀 [Inkbase: Programmable Ink](https://www.inkandswitch.com/inkbase/)
 - 👀 [A.N. Lucas's 88x31 button Collection](https://anlucas.neocities.org/88x31Buttons.html)
-- 👀 [Simone's Computer](https://simone.computer/#/webdesktops)
 
 
 # Books and comics I am reading
