@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
+- 👀 [Button it. – Present&Correct](http://blog.presentandcorrect.com/27986-2)
+- 👀 [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work)
+- 👀 [🔐 Portable Secret | portable-secret](https://mprimi.github.io/portable-secret/)
 - 👀 [MAKE GAMES WITH DEREK](https://derekyu.com/makegames/)
 - 👀 [How I am / How I roll – Remote Team Ice Breaker – When I Have Time by Sara Rosso](https://whenihavetime.com/2019/11/05/how-i-am-how-i-roll-remote-team-ice-breaker/)
 - 👀 [Super Useful CSS Resources 🌈 - DEV Community 👩‍💻👨‍💻](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 - 👀 [AI Homework – Stratechery by Ben Thompson](https://stratechery.com/2022/ai-homework/)
-- 👀 [Introduction - React Email](https://react.email/docs/introduction)
-- 👀 [Visual Journal – Branding, Editorial and Graphic Design](https://visualjournal.it/page:6)
-- 👀 [Inkbase: Programmable Ink](https://www.inkandswitch.com/inkbase/)
-- 👀 [A.N. Lucas's 88x31 button Collection](https://anlucas.neocities.org/88x31Buttons.html)
 
 
 # Books and comics I am reading
