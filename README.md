@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [The Cartographers](https://www.goodreads.com/book/show/56224531) by Peng Shepherd
 - 📘 [Animal Farm](https://www.goodreads.com/book/show/8349198) by George Orwell
 - 📘 [Nat Enough](https://www.goodreads.com/book/show/45714795) by Maria Scrivan
 - 📘 [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43851501) by Randall Munroe
-- 📘 [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/58103132) by Shane Parrish
 
