@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [To Be Productive, Be Prepared](https://martinrue.com/to-be-productive-be-prepared/)
+- 👀 [Lessons Learned from the Book 'Effective Remote Work'](https://phauer.com/2022/book-remote-work-lessons-learned/)
 - 👀 [Mafs: React components for interactive math](https://mafs.dev/)
 - 👀 [Alexander Obenauer](https://alexanderobenauer.com/)
 - 👀 [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 - 👀 [Button it. – Present&Correct](http://blog.presentandcorrect.com/27986-2)
 - 👀 [11 Laws of Software Estimation for Complex Work](https://mdalmijn.com/p/11-laws-of-software-estimation-for-complex-work)
 - 👀 [🔐 Portable Secret | portable-secret](https://mprimi.github.io/portable-secret/)
-- 👀 [MAKE GAMES WITH DEREK](https://derekyu.com/makegames/)
-- 👀 [How I am / How I roll – Remote Team Ice Breaker – When I Have Time by Sara Rosso](https://whenihavetime.com/2019/11/05/how-i-am-how-i-roll-remote-team-ice-breaker/)
 
 
 # Books and comics I am reading
