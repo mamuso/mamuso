@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Kelli Anderson - Book-like things, Paper devices](https://www.kellianderson.com/books/)
 - 👀 [ZIGSAM - THE AUSTRIAN CIGARETTE COLLECTION](http://www.zigsam.at/index.html)
 - 👀 [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought)
 - 👀 [Small teams](https://stevepulec.com/posts/small/)
@@ -14,7 +15,6 @@
 - 👀 [Lessons Learned from the Book 'Effective Remote Work'](https://phauer.com/2022/book-remote-work-lessons-learned/)
 - 👀 [Mafs: React components for interactive math](https://mafs.dev/)
 - 👀 [Alexander Obenauer](https://alexanderobenauer.com/)
-- 👀 [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
 
 
 # Books and comics I am reading
