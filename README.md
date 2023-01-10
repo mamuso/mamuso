@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Gantri All Lights | Gantri®](https://www.gantri.com/shop/all-lights)
+- 👀 [What explains recent tech layoffs, and why should we be worried? | Stanford News](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
 - 👀 [Kelli Anderson - Book-like things, Paper devices](https://www.kellianderson.com/books/)
 - 👀 [ZIGSAM - THE AUSTRIAN CIGARETTE COLLECTION](http://www.zigsam.at/index.html)
 - 👀 [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought)
 - 👀 [Small teams](https://stevepulec.com/posts/small/)
 - 👀 [To Be Productive, Be Prepared](https://martinrue.com/to-be-productive-be-prepared/)
 - 👀 [Lessons Learned from the Book 'Effective Remote Work'](https://phauer.com/2022/book-remote-work-lessons-learned/)
-- 👀 [Mafs: React components for interactive math](https://mafs.dev/)
-- 👀 [Alexander Obenauer](https://alexanderobenauer.com/)
 
 
 # Books and comics I am reading
