@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Product-led growth and profitability: What’s going on? | TechCrunch](https://techcrunch.com/2023/01/02/product-led-growth-and-profitability-whats-going-on/)
 - 👀 [Why is open source software so badly designed? | Koos Looijesteijn](https://www.kooslooijesteijn.net/blog/why-is-free-open-source-software-badly-designed)
 - 👀 [Gantri All Lights | Gantri®](https://www.gantri.com/shop/all-lights)
 - 👀 [What explains recent tech layoffs, and why should we be worried? | Stanford News](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
@@ -14,7 +15,6 @@
 - 👀 [ZIGSAM - THE AUSTRIAN CIGARETTE COLLECTION](http://www.zigsam.at/index.html)
 - 👀 [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought)
 - 👀 [Small teams](https://stevepulec.com/posts/small/)
-- 👀 [To Be Productive, Be Prepared](https://martinrue.com/to-be-productive-be-prepared/)
 
 
 # Books and comics I am reading
