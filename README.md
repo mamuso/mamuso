@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Grila - Calendar for keyboard addicts](https://lowtechguys.com/grila/)
+- 👀 [Introduction | The Computer Science Book](https://thecomputersciencebook.com/book/)
+- 👀 [HTML with Superpowers | HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/)
+- 👀 [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 - 👀 [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
 - 👀 [Product-led growth and profitability: What’s going on? | TechCrunch](https://techcrunch.com/2023/01/02/product-led-growth-and-profitability-whats-going-on/)
 - 👀 [Why is open source software so badly designed? | Koos Looijesteijn](https://www.kooslooijesteijn.net/blog/why-is-free-open-source-software-badly-designed)
 - 👀 [Gantri All Lights | Gantri®](https://www.gantri.com/shop/all-lights)
-- 👀 [What explains recent tech layoffs, and why should we be worried? | Stanford News](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/)
-- 👀 [Kelli Anderson - Book-like things, Paper devices](https://www.kellianderson.com/books/)
-- 👀 [ZIGSAM - THE AUSTRIAN CIGARETTE COLLECTION](http://www.zigsam.at/index.html)
-- 👀 [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought)
 
 
 # Books and comics I am reading
