@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Super Patience](https://superpatience.com/)
+- 👀 [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
 - 👀 [Our Fonts – CoType Foundry](https://cotypefoundry.com/)
 - 👀 [COUNTER-PRINT](https://www.counter-print.co.uk/)
 - 👀 [Luis Mendo ⊙⟀⊙ Luis Mendo / Illustrator](https://www.luismendo.com/links)
 - 👀 [Grila - Calendar for keyboard addicts](https://lowtechguys.com/grila/)
 - 👀 [Introduction | The Computer Science Book](https://thecomputersciencebook.com/book/)
 - 👀 [HTML with Superpowers | HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/)
-- 👀 [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
-- 👀 [3D in CSS](https://garden.bradwoods.io/notes/css/3d)
 
 
 # Books and comics I am reading
