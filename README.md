@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [GPT-3 Is the Best Journal I've Ever Used - Superorganizers - Every](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
+- 👀 [How to draw ideas - Ralph Ammer](https://ralphammer.com/how-to-draw-ideas/)
 - 👀 [Super Patience](https://superpatience.com/)
 - 👀 [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
 - 👀 [Our Fonts – CoType Foundry](https://cotypefoundry.com/)
 - 👀 [COUNTER-PRINT](https://www.counter-print.co.uk/)
 - 👀 [Luis Mendo ⊙⟀⊙ Luis Mendo / Illustrator](https://www.luismendo.com/links)
 - 👀 [Grila - Calendar for keyboard addicts](https://lowtechguys.com/grila/)
-- 👀 [Introduction | The Computer Science Book](https://thecomputersciencebook.com/book/)
-- 👀 [HTML with Superpowers | HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/)
 
 
 # Books and comics I am reading
