@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html)
+- 👀 [ScrollyVideo.js](https://scrollyvideo.js.org/)
+- 👀 [Dijkstra Maps Visualized - RogueBasin](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
+- 👀 [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+- 👀 [Printable Puzzle Project](https://www.puzzlehub.org/)
+- 👀 [Conditional CSS - Ahmad Shadeed](https://ishadeed.com/article/conditional-css/)
 - 👀 [GPT-3 Is the Best Journal I've Ever Used - Superorganizers - Every](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
 - 👀 [How to draw ideas - Ralph Ammer](https://ralphammer.com/how-to-draw-ideas/)
-- 👀 [Super Patience](https://superpatience.com/)
-- 👀 [Music Theory Cheat Sheet: Keys, Scales, Chords, Notes & Intervals](https://muted.io/cheat-sheet/)
-- 👀 [Our Fonts – CoType Foundry](https://cotypefoundry.com/)
-- 👀 [COUNTER-PRINT](https://www.counter-print.co.uk/)
-- 👀 [Luis Mendo ⊙⟀⊙ Luis Mendo / Illustrator](https://www.luismendo.com/links)
-- 👀 [Grila - Calendar for keyboard addicts](https://lowtechguys.com/grila/)
 
 
 # Books and comics I am reading
