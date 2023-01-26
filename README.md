@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Les Impressions du Futur – Les impressions du futur](https://www.riadsattouf.com/en)
+- 👀 [Box ONE by Neil Patrick Harris | theory11](https://store.theory11.com/products/boxone)
+- 👀 [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
 - 👀 [▶ Process 2023 - Process 2023](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/Process-2023?page-id=0%3A1&node-id=1%3A3&viewport=478%2C160%2C0.07&scaling=containn)
 - 👀 [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html)
 - 👀 [ScrollyVideo.js](https://scrollyvideo.js.org/)
 - 👀 [Dijkstra Maps Visualized - RogueBasin](http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized)
 - 👀 [🎙️ MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
-- 👀 [Printable Puzzle Project](https://www.puzzlehub.org/)
-- 👀 [Conditional CSS - Ahmad Shadeed](https://ishadeed.com/article/conditional-css/)
-- 👀 [GPT-3 Is the Best Journal I've Ever Used - Superorganizers - Every](https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used)
 
 
 # Books and comics I am reading
