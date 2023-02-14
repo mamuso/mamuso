@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Sweden sans – So Type](https://so-type.com/custom/sweden-sans/)
 - 👀 [Filmbox – Motion picture film emulation. For DaVinci Resolve.](https://videovillage.co/filmbox/)
 - 👀 [Shop – Tagged "Posters" – Fifty-Nine Parks](https://59parks.net/collections/all/posters)
 - 👀 [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
@@ -14,7 +15,6 @@
 - 👀 [Box ONE by Neil Patrick Harris | theory11](https://store.theory11.com/products/boxone)
 - 👀 [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
 - 👀 [▶ Process 2023 - Process 2023](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/Process-2023?page-id=0%3A1&node-id=1%3A3&viewport=478%2C160%2C0.07&scaling=containn)
-- 👀 [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html)
 
 
 # Books and comics I am reading
