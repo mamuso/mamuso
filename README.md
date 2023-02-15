@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Struggle To Be Human - by Ian Leslie - The Ruffian](https://ianleslie.substack.com/p/the-struggle-to-be-human)
 - 👀 [Sweden sans – So Type](https://so-type.com/custom/sweden-sans/)
 - 👀 [Filmbox – Motion picture film emulation. For DaVinci Resolve.](https://videovillage.co/filmbox/)
 - 👀 [Shop – Tagged "Posters" – Fifty-Nine Parks](https://59parks.net/collections/all/posters)
@@ -14,7 +15,6 @@
 - 👀 [Les Impressions du Futur – Les impressions du futur](https://www.riadsattouf.com/en)
 - 👀 [Box ONE by Neil Patrick Harris | theory11](https://store.theory11.com/products/boxone)
 - 👀 [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
-- 👀 [▶ Process 2023 - Process 2023](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/Process-2023?page-id=0%3A1&node-id=1%3A3&viewport=478%2C160%2C0.07&scaling=containn)
 
 
 # Books and comics I am reading
