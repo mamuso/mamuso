@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
+- 👀 [Janik Baumgartner](https://kinaj.com/)
 - 👀 [The Struggle To Be Human - by Ian Leslie - The Ruffian](https://ianleslie.substack.com/p/the-struggle-to-be-human)
 - 👀 [Sweden sans – So Type](https://so-type.com/custom/sweden-sans/)
 - 👀 [Filmbox – Motion picture film emulation. For DaVinci Resolve.](https://videovillage.co/filmbox/)
 - 👀 [Shop – Tagged "Posters" – Fifty-Nine Parks](https://59parks.net/collections/all/posters)
 - 👀 [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
 - 👀 [Les Impressions du Futur – Les impressions du futur](https://www.riadsattouf.com/en)
-- 👀 [Box ONE by Neil Patrick Harris | theory11](https://store.theory11.com/products/boxone)
-- 👀 [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
 
 
 # Books and comics I am reading
