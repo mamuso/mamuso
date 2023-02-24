@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Peel — Drum machine in your browser](https://peel.fm/)
+- 👀 [The Stack: Every Layout](https://every-layout.dev/layouts/stack/)
+- 👀 [My favourite 3 lines of CSS | Andy Bell](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
+- 👀 [Brian Chorski](https://brianchorski.com/)
 - 👀 [The Programmer's Assistant: Conversational Interaction with a Large Language Model for Software Development](https://arxiv.org/pdf/2302.07080.pdf)
 - 👀 [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 - 👀 [Janik Baumgartner](https://kinaj.com/)
 - 👀 [The Struggle To Be Human - by Ian Leslie - The Ruffian](https://ianleslie.substack.com/p/the-struggle-to-be-human)
-- 👀 [Sweden sans – So Type](https://so-type.com/custom/sweden-sans/)
-- 👀 [Filmbox – Motion picture film emulation. For DaVinci Resolve.](https://videovillage.co/filmbox/)
-- 👀 [Shop – Tagged "Posters" – Fifty-Nine Parks](https://59parks.net/collections/all/posters)
-- 👀 [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/)
 
 
 # Books and comics I am reading
