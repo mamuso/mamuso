@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Le Puzz - Jigsaw Puzzles](https://lepuzz.com/)
+- 👀 [Curators Are the New Creators. The Business Model of Good Taste | by Gaby Goldberg | Medium](https://gabygoldberg.medium.com/curators-are-the-new-creators-the-business-model-of-good-taste-5852727d4b54)
 - 👀 [Web Interface Guidelines](https://rauno.me/interfaces)
 - 👀 [How much computer code has been written? | by Sage McEnery | Modern Stack | Medium](https://medium.com/modern-stack/how-much-computer-code-has-been-written-c8c03100f459)
 - 👀 [Peel — Drum machine in your browser](https://peel.fm/)
 - 👀 [The Stack: Every Layout](https://every-layout.dev/layouts/stack/)
 - 👀 [My favourite 3 lines of CSS | Andy Bell](https://andy-bell.co.uk/my-favourite-3-lines-of-css/)
 - 👀 [Brian Chorski](https://brianchorski.com/)
-- 👀 [The Programmer's Assistant: Conversational Interaction with a Large Language Model for Software Development](https://arxiv.org/pdf/2302.07080.pdf)
-- 👀 [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
 
 # Books and comics I am reading
