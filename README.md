@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Kindle Displays - Google Docs](https://docs.google.com/document/d/1efF6TXezl_2qaeZ6pHMScXSmOJ4cs2WRLA-s90eySSA/preview)
 - 👀 [Unfolder for Mac - Create papercraft easily](https://www.unfolder.app/)
 - 👀 [The cursed universes of Dana Sibera](https://newsletter.shifthappens.site/archive/the-cursed-universes-of-dana-sibera/)
 - 👀 [Help, is this عربي?](https://isthisarabic.com/)
@@ -14,7 +15,6 @@
 - 👀 [Le Puzz - Jigsaw Puzzles](https://lepuzz.com/)
 - 👀 [Curators Are the New Creators. The Business Model of Good Taste | by Gaby Goldberg | Medium](https://gabygoldberg.medium.com/curators-are-the-new-creators-the-business-model-of-good-taste-5852727d4b54)
 - 👀 [Web Interface Guidelines](https://rauno.me/interfaces)
-- 👀 [How much computer code has been written? | by Sage McEnery | Modern Stack | Medium](https://medium.com/modern-stack/how-much-computer-code-has-been-written-c8c03100f459)
 
 
 # Books and comics I am reading
