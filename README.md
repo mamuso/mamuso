@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [bloop | Find Code. Fast.](https://bloop.ai/)
 - 👀 [Modern Font Stacks](https://modernfontstacks.com/)
 - 👀 [@unpic/react – Unpic](https://unpic.pics/img/react/#unpic-for-nextjs)
 - 👀 [Scrollbar](https://scrollbar.app/)
@@ -14,7 +15,6 @@
 - 👀 [How to use the en dash, em dash and hyphen (also ndash, mdash)](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
 - 👀 [Thought & Craft](https://thoughtandcraft.com/)
 - 👀 [Second Home](https://www.second.dev/)
-- 👀 [Kindle Displays - Google Docs](https://docs.google.com/document/d/1efF6TXezl_2qaeZ6pHMScXSmOJ4cs2WRLA-s90eySSA/preview)
 
 
 # Books and comics I am reading
