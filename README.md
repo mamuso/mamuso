@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Minimal Gallery – Website inspiration](https://minimal.gallery/)
 - 👀 [bloop | Find Code. Fast.](https://bloop.ai/)
 - 👀 [Modern Font Stacks](https://modernfontstacks.com/)
 - 👀 [@unpic/react – Unpic](https://unpic.pics/img/react/#unpic-for-nextjs)
@@ -14,7 +15,6 @@
 - 👀 [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/)
 - 👀 [How to use the en dash, em dash and hyphen (also ndash, mdash)](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
 - 👀 [Thought & Craft](https://thoughtandcraft.com/)
-- 👀 [Second Home](https://www.second.dev/)
 
 
 # Books and comics I am reading
