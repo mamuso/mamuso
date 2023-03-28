@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Markprompt | Open Source GPT-4 platform for Markdown](https://markprompt.com/)
+- 👀 [Juice](https://garden.bradwoods.io/notes/design/juice)
+- 👀 [The UX Cookbook](https://theuxcookbook.com/)
 - 👀 [Minimal Gallery – Website inspiration](https://minimal.gallery/)
 - 👀 [bloop | Find Code. Fast.](https://bloop.ai/)
 - 👀 [Modern Font Stacks](https://modernfontstacks.com/)
 - 👀 [@unpic/react – Unpic](https://unpic.pics/img/react/#unpic-for-nextjs)
 - 👀 [Scrollbar](https://scrollbar.app/)
-- 👀 [Monkeytype | A minimalistic, customizable typing test](https://monkeytype.com/)
-- 👀 [How to use the en dash, em dash and hyphen (also ndash, mdash)](https://www.punctuationmatters.com/en-dash-em-dash-hyphen/)
-- 👀 [Thought & Craft](https://thoughtandcraft.com/)
 
 
 # Books and comics I am reading
