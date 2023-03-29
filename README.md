@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Cost of Craft - by George Kedenburg III - gk3.fyi](https://gk3fyi.substack.com/p/the-cost-of-craft)
 - 👀 [Markprompt | Open Source GPT-4 platform for Markdown](https://markprompt.com/)
 - 👀 [Juice](https://garden.bradwoods.io/notes/design/juice)
 - 👀 [The UX Cookbook](https://theuxcookbook.com/)
@@ -14,7 +15,6 @@
 - 👀 [bloop | Find Code. Fast.](https://bloop.ai/)
 - 👀 [Modern Font Stacks](https://modernfontstacks.com/)
 - 👀 [@unpic/react – Unpic](https://unpic.pics/img/react/#unpic-for-nextjs)
-- 👀 [Scrollbar](https://scrollbar.app/)
 
 
 # Books and comics I am reading
