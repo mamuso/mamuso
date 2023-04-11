@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Amazing Portfolios](https://raindrop.io/enour/amazing-portfolios-21041730/sort=-sort&perpage=30&page=0)
 - 👀 [x0y0pxFreeFont](http://www17.plala.or.jp/xxxxxxx/00ff/)
 - 👀 [The Cost of Craft - by George Kedenburg III - gk3.fyi](https://gk3fyi.substack.com/p/the-cost-of-craft)
 - 👀 [Markprompt | Open Source GPT-4 platform for Markdown](https://markprompt.com/)
@@ -14,7 +15,6 @@
 - 👀 [The UX Cookbook](https://theuxcookbook.com/)
 - 👀 [Minimal Gallery – Website inspiration](https://minimal.gallery/)
 - 👀 [bloop | Find Code. Fast.](https://bloop.ai/)
-- 👀 [Modern Font Stacks](https://modernfontstacks.com/)
 
 
 # Books and comics I am reading
