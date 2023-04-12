@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rss-parser": "^3.10.0",
+    "rss-parser": "^3.13.0",
     "string-template": "^1.0.0"
   }
 }
