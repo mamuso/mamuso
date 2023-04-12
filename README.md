@@ -7,20 +7,20 @@
 
 # Recent bookmarks
 
+- 👀 [The age of average — Alex Murrell](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+- 👀 [How to be consistent](https://csprimer.com/articles/consistency/)
 - 👀 [Amazing Portfolios](https://raindrop.io/enour/amazing-portfolios-21041730/sort=-sort&perpage=30&page=0)
 - 👀 [x0y0pxFreeFont](http://www17.plala.or.jp/xxxxxxx/00ff/)
 - 👀 [The Cost of Craft - by George Kedenburg III - gk3.fyi](https://gk3fyi.substack.com/p/the-cost-of-craft)
 - 👀 [Markprompt | Open Source GPT-4 platform for Markdown](https://markprompt.com/)
 - 👀 [Juice](https://garden.bradwoods.io/notes/design/juice)
 - 👀 [The UX Cookbook](https://theuxcookbook.com/)
-- 👀 [Minimal Gallery – Website inspiration](https://minimal.gallery/)
-- 👀 [bloop | Find Code. Fast.](https://bloop.ai/)
 
 
 # Books and comics I am reading
 
 - 📘 [The Cartographers](https://www.goodreads.com/book/show/56224531) by Peng Shepherd
 - 📘 [Animal Farm](https://www.goodreads.com/book/show/8349198) by George Orwell
-- 📘 [Nat Enough](https://www.goodreads.com/book/show/45714795) by Maria Scrivan
+- 📘 [Nat Enough: A Graphic Novel (Nat Enough #1)](https://www.goodreads.com/book/show/45714795) by Maria Scrivan
 - 📘 [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43851501) by Randall Munroe
 
