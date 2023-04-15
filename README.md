@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Kissa by Kissa (4th ed.) – SPECIAL PROJECTS (craigmod.com)](https://shop.specialprojects.jp/products/kissa-by-kissa-4th-ed)
+- 👀 [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
+- 👀 [p5.riso](https://antiboredom.github.io/p5.riso/)
 - 👀 [Lerp](https://rachsmith.com/lerp/)
 - 👀 [50 Ideas That Changed My Life - David Perell](https://perell.com/essay/50-ideas-that-changed-my-life/)
 - 👀 [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 - 👀 [The age of average — Alex Murrell](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 - 👀 [How to be consistent](https://csprimer.com/articles/consistency/)
-- 👀 [Amazing Portfolios](https://raindrop.io/enour/amazing-portfolios-21041730/sort=-sort&perpage=30&page=0)
-- 👀 [x0y0pxFreeFont](http://www17.plala.or.jp/xxxxxxx/00ff/)
-- 👀 [The Cost of Craft - by George Kedenburg III - gk3.fyi](https://gk3fyi.substack.com/p/the-cost-of-craft)
 
 
 # Books and comics I am reading
