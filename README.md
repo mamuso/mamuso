@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [(9) “Wartime” vs “Peacetime” at Tech Companies](https://newsletter.pragmaticengineer.com/p/wartime-vs-peacetime?r=2c6z4m)
 - 👀 [Kissa by Kissa (4th ed.) – SPECIAL PROJECTS (craigmod.com)](https://shop.specialprojects.jp/products/kissa-by-kissa-4th-ed)
 - 👀 [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
 - 👀 [p5.riso](https://antiboredom.github.io/p5.riso/)
@@ -14,7 +15,6 @@
 - 👀 [50 Ideas That Changed My Life - David Perell](https://perell.com/essay/50-ideas-that-changed-my-life/)
 - 👀 [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 - 👀 [The age of average — Alex Murrell](https://www.alexmurrell.co.uk/articles/the-age-of-average)
-- 👀 [How to be consistent](https://csprimer.com/articles/consistency/)
 
 
 # Books and comics I am reading
