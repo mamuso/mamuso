@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Crafting the Next.js Website](https://rauno.me/craft/nextjs)
+- 👀 [Observable Plot | The JavaScript library for exploratory data visualization](https://observablehq.com/plot/)
+- 👀 [Some mistakes I made as a new manager | benkuhn.net](https://www.benkuhn.net/newmgr/)
 - 👀 [Read-Only Memory](https://readonlymemory.vg/)
 - 👀 [(9) “Wartime” vs “Peacetime” at Tech Companies](https://newsletter.pragmaticengineer.com/p/wartime-vs-peacetime?r=2c6z4m)
 - 👀 [Kissa by Kissa (4th ed.) – SPECIAL PROJECTS (craigmod.com)](https://shop.specialprojects.jp/products/kissa-by-kissa-4th-ed)
 - 👀 [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
 - 👀 [p5.riso](https://antiboredom.github.io/p5.riso/)
-- 👀 [Lerp](https://rachsmith.com/lerp/)
-- 👀 [50 Ideas That Changed My Life - David Perell](https://perell.com/essay/50-ideas-that-changed-my-life/)
-- 👀 [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
 
 
 # Books and comics I am reading
