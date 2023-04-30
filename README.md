@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [HuggingChat](https://huggingface.co/chat/)
 - 👀 [Crafting the Next.js Website](https://rauno.me/craft/nextjs)
 - 👀 [Observable Plot | The JavaScript library for exploratory data visualization](https://observablehq.com/plot/)
 - 👀 [Some mistakes I made as a new manager | benkuhn.net](https://www.benkuhn.net/newmgr/)
@@ -14,7 +15,6 @@
 - 👀 [(9) “Wartime” vs “Peacetime” at Tech Companies](https://newsletter.pragmaticengineer.com/p/wartime-vs-peacetime?r=2c6z4m)
 - 👀 [Kissa by Kissa (4th ed.) – SPECIAL PROJECTS (craigmod.com)](https://shop.specialprojects.jp/products/kissa-by-kissa-4th-ed)
 - 👀 [Shottr – Screenshot Annotation App For Mac](https://shottr.cc/)
-- 👀 [p5.riso](https://antiboredom.github.io/p5.riso/)
 
 
 # Books and comics I am reading
