@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Braun font](https://www.iconwerk.com/braun-font.html)
 - 👀 [Eyecandy - Visual Technique Library](https://eycndy.com/)
 - 👀 [Startup Playbook](https://playbook.samaltman.com/)
 - 👀 [HuggingChat](https://huggingface.co/chat/)
@@ -14,7 +15,6 @@
 - 👀 [Observable Plot | The JavaScript library for exploratory data visualization](https://observablehq.com/plot/)
 - 👀 [Some mistakes I made as a new manager | benkuhn.net](https://www.benkuhn.net/newmgr/)
 - 👀 [Read-Only Memory](https://readonlymemory.vg/)
-- 👀 [(9) “Wartime” vs “Peacetime” at Tech Companies](https://newsletter.pragmaticengineer.com/p/wartime-vs-peacetime?r=2c6z4m)
 
 
 # Books and comics I am reading
