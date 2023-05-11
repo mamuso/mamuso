@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Street Fighter II, paper trails](https://fabiensanglard.net/sf2_sheets/index.html)
 - 👀 [Fixel Font](https://fixel.macpaw.com/)
 - 👀 [Braun font](https://www.iconwerk.com/braun-font.html)
 - 👀 [Eyecandy - Visual Technique Library](https://eycndy.com/)
@@ -14,7 +15,6 @@
 - 👀 [HuggingChat](https://huggingface.co/chat/)
 - 👀 [Crafting the Next.js Website](https://rauno.me/craft/nextjs)
 - 👀 [Observable Plot | The JavaScript library for exploratory data visualization](https://observablehq.com/plot/)
-- 👀 [Some mistakes I made as a new manager | benkuhn.net](https://www.benkuhn.net/newmgr/)
 
 
 # Books and comics I am reading
