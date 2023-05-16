@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [GRID WORLD by Alexander Miller](https://alex.miller.garden/grid-world/)
 - 👀 [Street Fighter II, paper trails](https://fabiensanglard.net/sf2_sheets/index.html)
 - 👀 [Fixel Font](https://fixel.macpaw.com/)
 - 👀 [Braun font](https://www.iconwerk.com/braun-font.html)
@@ -14,7 +15,6 @@
 - 👀 [Startup Playbook](https://playbook.samaltman.com/)
 - 👀 [HuggingChat](https://huggingface.co/chat/)
 - 👀 [Crafting the Next.js Website](https://rauno.me/craft/nextjs)
-- 👀 [Observable Plot | The JavaScript library for exploratory data visualization](https://observablehq.com/plot/)
 
 
 # Books and comics I am reading
