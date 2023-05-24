@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Why Japan Became the Global Source of Perfection — Paynter Jacket Co.](https://paynter.co.uk/blogs/stories/why-japan-became-global-source-of-perfection)
+- 👀 [Type Scale - A Visual Calculator](https://typescale.com/)
 - 👀 [GRID WORLD by Alexander Miller](https://alex.miller.garden/grid-world/)
 - 👀 [Street Fighter II, paper trails](https://fabiensanglard.net/sf2_sheets/index.html)
 - 👀 [Fixel Font](https://fixel.macpaw.com/)
 - 👀 [Braun font](https://www.iconwerk.com/braun-font.html)
 - 👀 [Eyecandy - Visual Technique Library](https://eycndy.com/)
 - 👀 [Startup Playbook](https://playbook.samaltman.com/)
-- 👀 [HuggingChat](https://huggingface.co/chat/)
-- 👀 [Crafting the Next.js Website](https://rauno.me/craft/nextjs)
 
 
 # Books and comics I am reading
