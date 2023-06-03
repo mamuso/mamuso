@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Paragraphica - Bjørn Karmann](https://bjoernkarmann.dk/project/paragraphica)
+- 👀 [useHooks – The React Hooks Library](https://usehooks.com/)
 - 👀 [Recraft](https://www.recraft.ai/)
 - 👀 [Most Popular AI Websites (Sorted by Monthly Traffic from High to Low)](https://www.ilib.com/ai-websites)
 - 👀 [Cap Watkins – The Sliding Scale of Giving a Fuck](https://capwatkins.com/blog/the-sliding-scale-of-giving-a-fuck)
 - 👀 [Fly.io Distributed Systems Challenge · Fly Docs](https://fly.io/dist-sys/)
 - 👀 [Coordination Headwind - How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
 - 👀 [Reflections on Business, Design, and Value | by Andrea Mignolo | The Design of Things | Medium](https://medium.com/the-design-of-things/reflections-on-business-design-and-value-bb398cada721)
-- 👀 [Why Japan Became the Global Source of Perfection — Paynter Jacket Co.](https://paynter.co.uk/blogs/stories/why-japan-became-global-source-of-perfection)
-- 👀 [Type Scale - A Visual Calculator](https://typescale.com/)
 
 
 # Books and comics I am reading
