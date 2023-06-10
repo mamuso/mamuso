@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Modern CSS in Real Life - Chris Coyier](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
+- 👀 [NSKYC - The average color of the New York sky](https://nskyc.com/)
 - 👀 [Paragraphica - Bjørn Karmann](https://bjoernkarmann.dk/project/paragraphica)
 - 👀 [useHooks – The React Hooks Library](https://usehooks.com/)
 - 👀 [Recraft](https://www.recraft.ai/)
 - 👀 [Most Popular AI Websites (Sorted by Monthly Traffic from High to Low)](https://www.ilib.com/ai-websites)
 - 👀 [Cap Watkins – The Sliding Scale of Giving a Fuck](https://capwatkins.com/blog/the-sliding-scale-of-giving-a-fuck)
 - 👀 [Fly.io Distributed Systems Challenge · Fly Docs](https://fly.io/dist-sys/)
-- 👀 [Coordination Headwind - How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
-- 👀 [Reflections on Business, Design, and Value | by Andrea Mignolo | The Design of Things | Medium](https://medium.com/the-design-of-things/reflections-on-business-design-and-value-bb398cada721)
 
 
 # Books and comics I am reading
