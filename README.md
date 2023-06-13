@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Reinventing Adobe Spectrum’s colors](https://adobe.design/stories/design-for-scale/reinventing-adobe-spectrum-s-colors)
+- 👀 [Language Model Sketchbook, or Why I Hate Chatbots](https://maggieappleton.com/lm-sketchbook)
+- 👀 [Infinite Mac](https://infinitemac.org/)
 - 👀 [Modern CSS in Real Life - Chris Coyier](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
 - 👀 [NSKYC - The average color of the New York sky](https://nskyc.com/)
 - 👀 [Paragraphica - Bjørn Karmann](https://bjoernkarmann.dk/project/paragraphica)
 - 👀 [useHooks – The React Hooks Library](https://usehooks.com/)
 - 👀 [Recraft](https://www.recraft.ai/)
-- 👀 [Most Popular AI Websites (Sorted by Monthly Traffic from High to Low)](https://www.ilib.com/ai-websites)
-- 👀 [Cap Watkins – The Sliding Scale of Giving a Fuck](https://capwatkins.com/blog/the-sliding-scale-of-giving-a-fuck)
-- 👀 [Fly.io Distributed Systems Challenge · Fly Docs](https://fly.io/dist-sys/)
 
 
 # Books and comics I am reading
