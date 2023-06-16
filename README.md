@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Obsidian-Copilot: A Prototype Assistant for Writing & Reflecting](https://eugeneyan.com/writing/obsidian-copilot/)
+- 👀 [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+- 👀 [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/)
+- 👀 [DevToys - A Swiss Army knife for developers](https://devtoys.app/)
 - 👀 [Reinventing Adobe Spectrum’s colors](https://adobe.design/stories/design-for-scale/reinventing-adobe-spectrum-s-colors)
 - 👀 [Language Model Sketchbook, or Why I Hate Chatbots](https://maggieappleton.com/lm-sketchbook)
 - 👀 [Infinite Mac](https://infinitemac.org/)
 - 👀 [Modern CSS in Real Life - Chris Coyier](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)
-- 👀 [NSKYC - The average color of the New York sky](https://nskyc.com/)
-- 👀 [Paragraphica - Bjørn Karmann](https://bjoernkarmann.dk/project/paragraphica)
-- 👀 [useHooks – The React Hooks Library](https://usehooks.com/)
-- 👀 [Recraft](https://www.recraft.ai/)
 
 
 # Books and comics I am reading
