@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Eyecandy - Visual Technique Library](https://eycndy.co/)
+- 👀 [First Team Mindset 101: Why You&#8217;re Prioritizing the Wrong People | Ivy Exec](https://ivyexec.com/career-advice/2021/first-team-mindset-101-why-youre-prioritizing-the-wrong-people/)
 - 👀 [Plain Text Journaling · peppe.rs](https://peppe.rs/posts/plain_text_journaling/)
 - 👀 [Obsidian-Copilot: A Prototype Assistant for Writing & Reflecting](https://eugeneyan.com/writing/obsidian-copilot/)
 - 👀 [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - 👀 [The Ultimate Deliberate Practice Guide: How to Be the Best](https://fs.blog/deliberate-practice-guide/)
 - 👀 [DevToys - A Swiss Army knife for developers](https://devtoys.app/)
 - 👀 [Reinventing Adobe Spectrum’s colors](https://adobe.design/stories/design-for-scale/reinventing-adobe-spectrum-s-colors)
-- 👀 [Language Model Sketchbook, or Why I Hate Chatbots](https://maggieappleton.com/lm-sketchbook)
-- 👀 [Infinite Mac](https://infinitemac.org/)
 
 
 # Books and comics I am reading
