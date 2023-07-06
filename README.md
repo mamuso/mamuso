@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [bb-bureau — Benoît Bodhuin – visual research, type design and teaching](https://www.bb-bureau.fr/)
 - 👀 [Slow Software](https://www.inkandswitch.com/slow-software/)
 - 👀 [[untitled]](https://untitled.stream/)
 - 👀 [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
@@ -14,7 +15,6 @@
 - 👀 [Mofi - Content-aware fill and trim for music!](https://mofi.loud.red/)
 - 👀 [Advanced macOS Commands - saurabhs.org](https://saurabhs.org/advanced-macos-commands)
 - 👀 [Eyecandy - Visual Technique Library](https://eycndy.co/)
-- 👀 [First Team Mindset 101: Why You&#8217;re Prioritizing the Wrong People | Ivy Exec](https://ivyexec.com/career-advice/2021/first-team-mindset-101-why-youre-prioritizing-the-wrong-people/)
 
 
 # Books and comics I am reading
