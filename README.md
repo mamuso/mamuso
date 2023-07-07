@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Multi-layered calendars « julian.digital](https://julian.digital/2023/07/06/multi-layered-calendars/)
+- 👀 [Fast · Patrick Collison](https://patrickcollison.com/fast)
+- 👀 [PartyKit: an open source platform for collaborative applications](https://partykit.io/)
 - 👀 [bb-bureau — Benoît Bodhuin – visual research, type design and teaching](https://www.bb-bureau.fr/)
 - 👀 [Slow Software](https://www.inkandswitch.com/slow-software/)
 - 👀 [[untitled]](https://untitled.stream/)
 - 👀 [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 - 👀 [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/)
-- 👀 [Mofi - Content-aware fill and trim for music!](https://mofi.loud.red/)
-- 👀 [Advanced macOS Commands - saurabhs.org](https://saurabhs.org/advanced-macos-commands)
-- 👀 [Eyecandy - Visual Technique Library](https://eycndy.co/)
 
 
 # Books and comics I am reading
