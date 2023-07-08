@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [TwinSpark](https://twinspark.js.org/)
 - 👀 [Multi-layered calendars « julian.digital](https://julian.digital/2023/07/06/multi-layered-calendars/)
 - 👀 [Fast · Patrick Collison](https://patrickcollison.com/fast)
 - 👀 [PartyKit: an open source platform for collaborative applications](https://partykit.io/)
@@ -14,7 +15,6 @@
 - 👀 [Slow Software](https://www.inkandswitch.com/slow-software/)
 - 👀 [[untitled]](https://untitled.stream/)
 - 👀 [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
-- 👀 [LLM Powered Autonomous Agents | Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 
 # Books and comics I am reading
