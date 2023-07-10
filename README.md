@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Early Computer Art in the 50’s & 60’s — Amy Goodchild](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 - 👀 [TwinSpark](https://twinspark.js.org/)
 - 👀 [Multi-layered calendars « julian.digital](https://julian.digital/2023/07/06/multi-layered-calendars/)
 - 👀 [Fast · Patrick Collison](https://patrickcollison.com/fast)
@@ -14,7 +15,6 @@
 - 👀 [bb-bureau — Benoît Bodhuin – visual research, type design and teaching](https://www.bb-bureau.fr/)
 - 👀 [Slow Software](https://www.inkandswitch.com/slow-software/)
 - 👀 [[untitled]](https://untitled.stream/)
-- 👀 [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 
 
 # Books and comics I am reading
