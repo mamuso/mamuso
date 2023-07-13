@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Throwboy](https://throwboy.com/)
 - 👀 [LiebeHeide Font Family by LiebeFonts - Fontspring](https://www.fontspring.com/fonts/liebefonts/liebeheide)
 - 👀 [Biró Script: the ball point pen handwriting by ingoFonts](https://www.ingofonts.de/ingofonts/en/iF_BiroScript/iF_BiroScript.html)
 - 👀 [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
@@ -14,7 +15,6 @@
 - 👀 [TwinSpark](https://twinspark.js.org/)
 - 👀 [Multi-layered calendars « julian.digital](https://julian.digital/2023/07/06/multi-layered-calendars/)
 - 👀 [Fast · Patrick Collison](https://patrickcollison.com/fast)
-- 👀 [PartyKit: an open source platform for collaborative applications](https://partykit.io/)
 
 
 # Books and comics I am reading
