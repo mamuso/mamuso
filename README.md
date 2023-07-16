@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Driver.js](https://driverjs.com/)
+- 👀 [Home | Laws of UX](https://lawsofux.com/)
 - 👀 [Throwboy](https://throwboy.com/)
 - 👀 [LiebeHeide Font Family by LiebeFonts - Fontspring](https://www.fontspring.com/fonts/liebefonts/liebeheide)
 - 👀 [Biró Script: the ball point pen handwriting by ingoFonts](https://www.ingofonts.de/ingofonts/en/iF_BiroScript/iF_BiroScript.html)
 - 👀 [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 - 👀 [Early Computer Art in the 50’s & 60’s — Amy Goodchild](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 - 👀 [TwinSpark](https://twinspark.js.org/)
-- 👀 [Multi-layered calendars « julian.digital](https://julian.digital/2023/07/06/multi-layered-calendars/)
-- 👀 [Fast · Patrick Collison](https://patrickcollison.com/fast)
 
 
 # Books and comics I am reading
