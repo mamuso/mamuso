@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Storiaolivettti - Architetture](https://www.storiaolivetti.it/tema/architetture/)
 - 👀 [Patreon - Aaron Shapiro](https://www.aaron.mn/work/patreon)
 - 👀 [Free Faces](https://www.freefaces.gallery/)
 - 👀 [archives.design](https://archives.design/)
@@ -14,7 +15,6 @@
 - 👀 [Typography | Sweden](https://identity.sweden.se/en/design-elements/typography)
 - 👀 [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 - 👀 [Compounding Optimism · Collab Fund](https://collabfund.com/blog/compounding-optimism/)
-- 👀 [Driver.js](https://driverjs.com/)
 
 
 # Books and comics I am reading
