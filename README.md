@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [khoj-ai/khoj: An AI personal assistant for your digital brain](https://github.com/khoj-ai/khoj)
+- 👀 [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 - 👀 [Bree Lundberg](https://breelundberg.com/)
 - 👀 [Storiaolivettti - Architetture](https://www.storiaolivetti.it/tema/architetture/)
 - 👀 [Patreon - Aaron Shapiro](https://www.aaron.mn/work/patreon)
 - 👀 [Free Faces](https://www.freefaces.gallery/)
 - 👀 [archives.design](https://archives.design/)
 - 👀 [DamnGood.Tools](https://damngood.tools/)
-- 👀 [Typography | Sweden](https://identity.sweden.se/en/design-elements/typography)
-- 👀 [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 
 
 # Books and comics I am reading
