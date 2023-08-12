@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Randomness in CSS using trigonometry](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/)
 - 👀 [Proto Mono — Supply.Family — Mockups, Fonts, Graphics, Templates & more](https://supply.family/shop/proto-mono/)
 - 👀 [Rive - Build interactive animations that run anywhere](https://rive.app/)
 - 👀 [khoj-ai/khoj: An AI personal assistant for your digital brain](https://github.com/khoj-ai/khoj)
@@ -14,7 +15,6 @@
 - 👀 [Bree Lundberg](https://breelundberg.com/)
 - 👀 [Storiaolivettti - Architetture](https://www.storiaolivetti.it/tema/architetture/)
 - 👀 [Patreon - Aaron Shapiro](https://www.aaron.mn/work/patreon)
-- 👀 [Free Faces](https://www.freefaces.gallery/)
 
 
 # Books and comics I am reading
