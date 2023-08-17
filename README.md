@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [ElevenLabs - Generative AI Text to Speech & Voice Cloning](https://elevenlabs.io/)
 - 👀 [Randomness in CSS using trigonometry](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/)
 - 👀 [Proto Mono — Supply.Family — Mockups, Fonts, Graphics, Templates & more](https://supply.family/shop/proto-mono/)
 - 👀 [Rive - Build interactive animations that run anywhere](https://rive.app/)
@@ -14,7 +15,6 @@
 - 👀 [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 - 👀 [Bree Lundberg](https://breelundberg.com/)
 - 👀 [Storiaolivettti - Architetture](https://www.storiaolivetti.it/tema/architetture/)
-- 👀 [Patreon - Aaron Shapiro](https://www.aaron.mn/work/patreon)
 
 
 # Books and comics I am reading
