@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Urban Erosion - Maarten Vromans Photography](https://maarten-vromans.format.com/urbanerosion)
 - 👀 [ElevenLabs - Generative AI Text to Speech & Voice Cloning](https://elevenlabs.io/)
 - 👀 [Randomness in CSS using trigonometry](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/)
 - 👀 [Proto Mono — Supply.Family — Mockups, Fonts, Graphics, Templates & more](https://supply.family/shop/proto-mono/)
@@ -14,7 +15,6 @@
 - 👀 [khoj-ai/khoj: An AI personal assistant for your digital brain](https://github.com/khoj-ai/khoj)
 - 👀 [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
 - 👀 [Bree Lundberg](https://breelundberg.com/)
-- 👀 [Storiaolivettti - Architetture](https://www.storiaolivetti.it/tema/architetture/)
 
 
 # Books and comics I am reading
