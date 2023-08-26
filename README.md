@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The Young Jerks](https://youngjerks.com/)
+- 👀 [Bricolage Grotesque — Free & Open Source Variable Font](https://ateliertriay.github.io/bricolage/)
+- 👀 [(8) Broken Ownership - Alex Ewerlöf Notes](https://blog.alexewerlof.com/p/broken-ownership)
+- 👀 [Godly — Astronomically good web design inspiration](https://godly.website/)
 - 👀 [Urban Erosion - Maarten Vromans Photography](https://maarten-vromans.format.com/urbanerosion)
 - 👀 [ElevenLabs - Generative AI Text to Speech & Voice Cloning](https://elevenlabs.io/)
 - 👀 [Randomness in CSS using trigonometry](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/)
 - 👀 [Proto Mono — Supply.Family — Mockups, Fonts, Graphics, Templates & more](https://supply.family/shop/proto-mono/)
-- 👀 [Rive - Build interactive animations that run anywhere](https://rive.app/)
-- 👀 [khoj-ai/khoj: An AI personal assistant for your digital brain](https://github.com/khoj-ai/khoj)
-- 👀 [A jargon-free explanation of how AI large language models work | Ars Technica](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/)
-- 👀 [Bree Lundberg](https://breelundberg.com/)
 
 
 # Books and comics I am reading
