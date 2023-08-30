@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [GT Pressura typeface exclusively at Grilli Type — Download Free Trial Fonts](https://www.gt-pressura.com/)
+- 👀 [Montaigne](https://montaigne.io/)
+- 👀 [Playbook for universal design – Universal design methods for more inclusive solutions](https://universaldesignguide.com/)
+- 👀 [Sidewalk Garden - Zach Klein](https://zachklein.com/Sidewalk+Garden)
 - 👀 [The Young Jerks](https://youngjerks.com/)
 - 👀 [Bricolage Grotesque — Free & Open Source Variable Font](https://ateliertriay.github.io/bricolage/)
 - 👀 [(8) Broken Ownership - Alex Ewerlöf Notes](https://blog.alexewerlof.com/p/broken-ownership)
 - 👀 [Godly — Astronomically good web design inspiration](https://godly.website/)
-- 👀 [Urban Erosion - Maarten Vromans Photography](https://maarten-vromans.format.com/urbanerosion)
-- 👀 [ElevenLabs - Generative AI Text to Speech & Voice Cloning](https://elevenlabs.io/)
-- 👀 [Randomness in CSS using trigonometry](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/)
-- 👀 [Proto Mono — Supply.Family — Mockups, Fonts, Graphics, Templates & more](https://supply.family/shop/proto-mono/)
 
 
 # Books and comics I am reading
