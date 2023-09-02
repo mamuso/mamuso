@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Being Glue — No Idea Blog](https://noidea.dog/glue)
 - 👀 [GT Pressura typeface exclusively at Grilli Type — Download Free Trial Fonts](https://www.gt-pressura.com/)
 - 👀 [Montaigne](https://montaigne.io/)
 - 👀 [Playbook for universal design – Universal design methods for more inclusive solutions](https://universaldesignguide.com/)
@@ -14,7 +15,6 @@
 - 👀 [The Young Jerks](https://youngjerks.com/)
 - 👀 [Bricolage Grotesque — Free & Open Source Variable Font](https://ateliertriay.github.io/bricolage/)
 - 👀 [(8) Broken Ownership - Alex Ewerlöf Notes](https://blog.alexewerlof.com/p/broken-ownership)
-- 👀 [Godly — Astronomically good web design inspiration](https://godly.website/)
 
 
 # Books and comics I am reading
