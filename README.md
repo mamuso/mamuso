@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [How Might We Help Designers Understand Systems? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405872623000357)
 - 👀 [Being Glue — No Idea Blog](https://noidea.dog/glue)
 - 👀 [GT Pressura typeface exclusively at Grilli Type — Download Free Trial Fonts](https://www.gt-pressura.com/)
 - 👀 [Montaigne](https://montaigne.io/)
@@ -14,7 +15,6 @@
 - 👀 [Sidewalk Garden - Zach Klein](https://zachklein.com/Sidewalk+Garden)
 - 👀 [The Young Jerks](https://youngjerks.com/)
 - 👀 [Bricolage Grotesque — Free & Open Source Variable Font](https://ateliertriay.github.io/bricolage/)
-- 👀 [(8) Broken Ownership - Alex Ewerlöf Notes](https://blog.alexewerlof.com/p/broken-ownership)
 
 
 # Books and comics I am reading
