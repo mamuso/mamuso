@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [helloMuller_Credentials.pdf](https://www.dropbox.com/s/qs2rn6wrx23s56q/helloMuller_Credentials.pdf?dl=0)
 - 👀 [How Might We Help Designers Understand Systems? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405872623000357)
 - 👀 [Being Glue — No Idea Blog](https://noidea.dog/glue)
 - 👀 [GT Pressura typeface exclusively at Grilli Type — Download Free Trial Fonts](https://www.gt-pressura.com/)
@@ -14,7 +15,6 @@
 - 👀 [Playbook for universal design – Universal design methods for more inclusive solutions](https://universaldesignguide.com/)
 - 👀 [Sidewalk Garden - Zach Klein](https://zachklein.com/Sidewalk+Garden)
 - 👀 [The Young Jerks](https://youngjerks.com/)
-- 👀 [Bricolage Grotesque — Free & Open Source Variable Font](https://ateliertriay.github.io/bricolage/)
 
 
 # Books and comics I am reading
