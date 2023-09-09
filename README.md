@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Product You Want to Build vs The Product You Can Build](https://jonlax.framer.ai/writing/the-product-you-want-to-build-vs-the-product-you-can-build)
 - 👀 [helloMuller_Credentials.pdf](https://www.dropbox.com/s/qs2rn6wrx23s56q/helloMuller_Credentials.pdf?dl=0)
 - 👀 [How Might We Help Designers Understand Systems? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405872623000357)
 - 👀 [Being Glue — No Idea Blog](https://noidea.dog/glue)
@@ -14,7 +15,6 @@
 - 👀 [Montaigne](https://montaigne.io/)
 - 👀 [Playbook for universal design – Universal design methods for more inclusive solutions](https://universaldesignguide.com/)
 - 👀 [Sidewalk Garden - Zach Klein](https://zachklein.com/Sidewalk+Garden)
-- 👀 [The Young Jerks](https://youngjerks.com/)
 
 
 # Books and comics I am reading
