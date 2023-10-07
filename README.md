@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Color for the Color-challenged. Read this if you suck at picking colors | by Ferdy Christant | Ferdy Christant](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56)
+- 👀 [Building a DIY Pen Plotter ‒ Szymon Kaliski](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/#electronics)
+- 👀 [macOS web apps | @mdo](https://markdotto.com/2023/10/01/macos-web-apps/)
+- 👀 [A (more) Modern CSS Reset - Andy Bell](https://andy-bell.co.uk/a-more-modern-css-reset/)
+- 👀 [Picking a vector database: a comparison and guide for 2023](https://benchmark.vectorview.ai/vectordbs.html)
+- 👀 [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!) @ tonsky.me](https://tonsky.me/blog/unicode/)
 - 👀 [Anglepoise Lamps | Wall, Ceiling & Table Lamps | Anglepoise USA](https://www.anglepoise.com/usa/)
 - 👀 [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
-- 👀 [The Product You Want to Build vs The Product You Can Build](https://jonlax.framer.ai/writing/the-product-you-want-to-build-vs-the-product-you-can-build)
-- 👀 [helloMuller_Credentials.pdf](https://www.dropbox.com/s/qs2rn6wrx23s56q/helloMuller_Credentials.pdf?dl=0)
-- 👀 [How Might We Help Designers Understand Systems? - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2405872623000357)
-- 👀 [Being Glue — No Idea Blog](https://noidea.dog/glue)
-- 👀 [GT Pressura typeface exclusively at Grilli Type — Download Free Trial Fonts](https://www.gt-pressura.com/)
-- 👀 [Montaigne](https://montaigne.io/)
 
 
 # Books and comics I am reading
