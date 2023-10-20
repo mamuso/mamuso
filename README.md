@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [App Motion](https://appmotion.design/#offset=0)
+- 👀 [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/)
 - 👀 [Naming Variables In CSS](https://jwdallas.com/posts/namingcssvariables/)
 - 👀 [arrowtype.com/name-sans](https://www.arrowtype.com/name-sans)
 - 👀 [Whole Earth Index](https://wholeearth.info/)
 - 👀 [Color for the Color-challenged. Read this if you suck at picking colors | by Ferdy Christant | Ferdy Christant](https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56)
 - 👀 [Building a DIY Pen Plotter ‒ Szymon Kaliski](https://szymonkaliski.com/writing/2023-10-02-building-a-diy-pen-plotter/#electronics)
 - 👀 [macOS web apps | @mdo](https://markdotto.com/2023/10/01/macos-web-apps/)
-- 👀 [A (more) Modern CSS Reset - Andy Bell](https://andy-bell.co.uk/a-more-modern-css-reset/)
-- 👀 [Picking a vector database: a comparison and guide for 2023](https://benchmark.vectorview.ai/vectordbs.html)
 
 
 # Books and comics I am reading
