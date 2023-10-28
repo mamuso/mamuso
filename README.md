@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Chesterton's fence - Sketchplanations](https://sketchplanations.com/chestertons-fence)
 - 👀 [Protomaps | A free and open source map of the world](https://protomaps.com/)
 - 👀 [pnewman.org/engineering_mgmt_checklist.txt](https://pnewman.org/engineering_mgmt_checklist.txt)
 - 👀 [It's 2023, here is why your web design sucks.](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
@@ -14,7 +15,6 @@
 - 👀 [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/)
 - 👀 [Naming Variables In CSS](https://jwdallas.com/posts/namingcssvariables/)
 - 👀 [arrowtype.com/name-sans](https://www.arrowtype.com/name-sans)
-- 👀 [Whole Earth Index](https://wholeearth.info/)
 
 
 # Books and comics I am reading
