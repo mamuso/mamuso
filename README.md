@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Let It Fail - Max Countryman](https://www.maxcountryman.com/articles/let-it-fail)
 - 👀 [Chesterton's fence - Sketchplanations](https://sketchplanations.com/chestertons-fence)
 - 👀 [Protomaps | A free and open source map of the world](https://protomaps.com/)
 - 👀 [pnewman.org/engineering_mgmt_checklist.txt](https://pnewman.org/engineering_mgmt_checklist.txt)
@@ -14,7 +15,6 @@
 - 👀 [App Motion](https://appmotion.design/#offset=0)
 - 👀 [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/)
 - 👀 [Naming Variables In CSS](https://jwdallas.com/posts/namingcssvariables/)
-- 👀 [arrowtype.com/name-sans](https://www.arrowtype.com/name-sans)
 
 
 # Books and comics I am reading
