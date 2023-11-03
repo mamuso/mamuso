@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [An Extremely Detailed Map of New York City Neighborhoods - The New York Times](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)
 - 👀 [Let It Fail - Max Countryman](https://www.maxcountryman.com/articles/let-it-fail)
 - 👀 [Chesterton's fence - Sketchplanations](https://sketchplanations.com/chestertons-fence)
 - 👀 [Protomaps | A free and open source map of the world](https://protomaps.com/)
@@ -14,7 +15,6 @@
 - 👀 [It's 2023, here is why your web design sucks.](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
 - 👀 [App Motion](https://appmotion.design/#offset=0)
 - 👀 [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/)
-- 👀 [Naming Variables In CSS](https://jwdallas.com/posts/namingcssvariables/)
 
 
 # Books and comics I am reading
