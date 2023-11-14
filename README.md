@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Olympic-Brand-Guidelines.pdf](https://stillmed.olympics.com/media/Documents/International-Olympic-Committee/Olympic-brand/Olympic-Brand-Guidelines.pdf?&#page=25&_ga=2.225473562.1897191244.1692972346-1385183957.1689703220)
 - 👀 [An Extremely Detailed Map of New York City Neighborhoods - The New York Times](https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html)
 - 👀 [Let It Fail - Max Countryman](https://www.maxcountryman.com/articles/let-it-fail)
 - 👀 [Chesterton's fence - Sketchplanations](https://sketchplanations.com/chestertons-fence)
@@ -14,7 +15,6 @@
 - 👀 [pnewman.org/engineering_mgmt_checklist.txt](https://pnewman.org/engineering_mgmt_checklist.txt)
 - 👀 [It's 2023, here is why your web design sucks.](https://heather-buchel.com/blog/2023/10/why-your-web-design-sucks/)
 - 👀 [App Motion](https://appmotion.design/#offset=0)
-- 👀 [Dashboard Design Patterns](https://dashboarddesignpatterns.github.io/)
 
 
 # Books and comics I am reading
