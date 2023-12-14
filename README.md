@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Julius AI | Your AI Data Analyst](https://julius.ai/)
 - 👀 [Making noisy SVGs — Daniel Immke](https://daniel.do/article/making-noisy-svgs/)
 - 👀 [Examples of Great URL Design - Jim Nielsen’s Blog](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 - 👀 [The Frugal Architect](https://thefrugalarchitect.com/)
@@ -14,7 +15,6 @@
 - 👀 [You don't need JavaScript for that - HTMHell](https://www.htmhell.dev/adventcalendar/2023/2/)
 - 👀 [Chroma](https://www.trychroma.com/)
 - 👀 [aaronpk/Overland-iOS: 📌 GPS logger for iOS devices](https://github.com/aaronpk/Overland-iOS)
-- 👀 [Modern react data grid component - Glide Data Grid](https://grid.glideapps.com/)
 
 
 # Books and comics I am reading
