@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [RAG to Riches](https://about.sourcegraph.com/blog/rag-to-riches)
+- 👀 [A beautiful library with SVG logos - Svgl](https://svgl.vercel.app/)
+- 👀 [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 - 👀 [Julius AI | Your AI Data Analyst](https://julius.ai/)
 - 👀 [Making noisy SVGs — Daniel Immke](https://daniel.do/article/making-noisy-svgs/)
 - 👀 [Examples of Great URL Design - Jim Nielsen’s Blog](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 - 👀 [The Frugal Architect](https://thefrugalarchitect.com/)
 - 👀 [abracadabra: How does Shazam work? - Cameron MacLeod](https://www.cameronmacleod.com/blog/how-does-shazam-work)
-- 👀 [You don't need JavaScript for that - HTMHell](https://www.htmhell.dev/adventcalendar/2023/2/)
-- 👀 [Chroma](https://www.trychroma.com/)
-- 👀 [aaronpk/Overland-iOS: 📌 GPS logger for iOS devices](https://github.com/aaronpk/Overland-iOS)
 
 
 # Books and comics I am reading
