@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [2023, year of open LLMs](https://huggingface.co/blog/2023-in-llms)
 - 👀 [RAG to Riches](https://about.sourcegraph.com/blog/rag-to-riches)
 - 👀 [A beautiful library with SVG logos - Svgl](https://svgl.vercel.app/)
 - 👀 [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
@@ -14,7 +15,6 @@
 - 👀 [Making noisy SVGs — Daniel Immke](https://daniel.do/article/making-noisy-svgs/)
 - 👀 [Examples of Great URL Design - Jim Nielsen’s Blog](https://blog.jim-nielsen.com/2023/examples-of-great-urls/)
 - 👀 [The Frugal Architect](https://thefrugalarchitect.com/)
-- 👀 [abracadabra: How does Shazam work? - Cameron MacLeod](https://www.cameronmacleod.com/blog/how-does-shazam-work)
 
 
 # Books and comics I am reading
