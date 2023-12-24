@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [VGMusic.com - Gameboy Music](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 - 👀 [Visit Wendy's Ko-fi Shop! - Ko-fi ❤️ Where creators get support from fans through donations, memberships, shop sales and more! The original 'Buy Me a Coffee' Page.](https://ko-fi.com/artofwendyxu/shop)
 - 👀 [11.01 Introduction║J•D](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 - 👀 [2023, year of open LLMs](https://huggingface.co/blog/2023-in-llms)
@@ -14,7 +15,6 @@
 - 👀 [A beautiful library with SVG logos - Svgl](https://svgl.vercel.app/)
 - 👀 [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 - 👀 [Julius AI | Your AI Data Analyst](https://julius.ai/)
-- 👀 [Making noisy SVGs — Daniel Immke](https://daniel.do/article/making-noisy-svgs/)
 
 
 # Books and comics I am reading
