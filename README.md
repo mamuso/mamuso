@@ -7,20 +7,20 @@
 
 # Recent bookmarks
 
+- 👀 [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023? | Hacker News](https://news.ycombinator.com/item?id=38759877)
+- 👀 [100 Little Ideas · Collab Fund](https://collabfund.com/blog/100-little-ideas/)
+- 👀 [The roadmap to Product/Market Fit… maybe](https://longform.asmartbear.com/product-market-fit-formula/)
+- 👀 [Fake It ’Til You Fake It – Pixel Envy](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
+- 👀 [Amelia Wattenberger](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
+- 👀 [BrandGuide](https://brandguide.page/)
 - 👀 [VGMusic.com - Gameboy Music](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 - 👀 [Visit Wendy's Ko-fi Shop! - Ko-fi ❤️ Where creators get support from fans through donations, memberships, shop sales and more! The original 'Buy Me a Coffee' Page.](https://ko-fi.com/artofwendyxu/shop)
-- 👀 [11.01 Introduction║J•D](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
-- 👀 [2023, year of open LLMs](https://huggingface.co/blog/2023-in-llms)
-- 👀 [RAG to Riches](https://about.sourcegraph.com/blog/rag-to-riches)
-- 👀 [A beautiful library with SVG logos - Svgl](https://svgl.vercel.app/)
-- 👀 [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
-- 👀 [Julius AI | Your AI Data Analyst](https://julius.ai/)
 
 
 # Books and comics I am reading
 
+- 📘 [Tiny Habits: The Small Changes That Change Everything](https://www.goodreads.com/book/show/43305818) by B.J.  Fogg
+- 📘 [Al final siempre ganan los monstruos (Spanish Edition)](https://www.goodreads.com/book/show/58664090) by Juarma
 - 📘 [The Cartographers](https://www.goodreads.com/book/show/56224531) by Peng Shepherd
 - 📘 [Animal Farm](https://www.goodreads.com/book/show/8349198) by George Orwell
-- 📘 [Nat Enough: A Graphic Novel (Nat Enough #1)](https://www.goodreads.com/book/show/45714795) by Maria Scrivan
-- 📘 [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/book/show/43851501) by Randall Munroe
 
