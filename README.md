@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [CompressX](https://hieudinh.com/compressx)
 - 👀 [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023? | Hacker News](https://news.ycombinator.com/item?id=38759877)
 - 👀 [100 Little Ideas · Collab Fund](https://collabfund.com/blog/100-little-ideas/)
 - 👀 [The roadmap to Product/Market Fit… maybe](https://longform.asmartbear.com/product-market-fit-formula/)
@@ -14,7 +15,6 @@
 - 👀 [Amelia Wattenberger](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
 - 👀 [BrandGuide](https://brandguide.page/)
 - 👀 [VGMusic.com - Gameboy Music](https://www.vgmusic.com/music/console/nintendo/gameboy/)
-- 👀 [Visit Wendy's Ko-fi Shop! - Ko-fi ❤️ Where creators get support from fans through donations, memberships, shop sales and more! The original 'Buy Me a Coffee' Page.](https://ko-fi.com/artofwendyxu/shop)
 
 
 # Books and comics I am reading
