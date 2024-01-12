@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [LibSQL: SQLite for Modern Applications](https://turso.tech/libsql)
 - 👀 [CompressX](https://hieudinh.com/compressx)
 - 👀 [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023? | Hacker News](https://news.ycombinator.com/item?id=38759877)
 - 👀 [100 Little Ideas · Collab Fund](https://collabfund.com/blog/100-little-ideas/)
@@ -14,7 +15,6 @@
 - 👀 [Fake It ’Til You Fake It – Pixel Envy](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
 - 👀 [Amelia Wattenberger](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
 - 👀 [BrandGuide](https://brandguide.page/)
-- 👀 [VGMusic.com - Gameboy Music](https://www.vgmusic.com/music/console/nintendo/gameboy/)
 
 
 # Books and comics I am reading
