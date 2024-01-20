@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Designing better target sizes](https://ishadeed.com/article/target-size)
 - 👀 [LibSQL: SQLite for Modern Applications](https://turso.tech/libsql)
 - 👀 [CompressX](https://hieudinh.com/compressx)
 - 👀 [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023? | Hacker News](https://news.ycombinator.com/item?id=38759877)
@@ -14,7 +15,6 @@
 - 👀 [The roadmap to Product/Market Fit… maybe](https://longform.asmartbear.com/product-market-fit-formula/)
 - 👀 [Fake It ’Til You Fake It – Pixel Envy](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
 - 👀 [Amelia Wattenberger](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
-- 👀 [BrandGuide](https://brandguide.page/)
 
 
 # Books and comics I am reading
