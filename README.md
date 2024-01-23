@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Loadership](https://www.loadership.com/)
 - 👀 [Designing better target sizes](https://ishadeed.com/article/target-size)
 - 👀 [LibSQL: SQLite for Modern Applications](https://turso.tech/libsql)
 - 👀 [CompressX](https://hieudinh.com/compressx)
@@ -14,7 +15,6 @@
 - 👀 [100 Little Ideas · Collab Fund](https://collabfund.com/blog/100-little-ideas/)
 - 👀 [The roadmap to Product/Market Fit… maybe](https://longform.asmartbear.com/product-market-fit-formula/)
 - 👀 [Fake It ’Til You Fake It – Pixel Envy](https://pxlnv.com/blog/fake-it-til-you-fake-it/)
-- 👀 [Amelia Wattenberger](https://wattenberger.com/thoughts/evolving-the-infinite-canvas)
 
 
 # Books and comics I am reading
