@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Kenneth P. Green, Sr. Photography Archive](https://www.kennethpgreenphotography.org/)
 - 👀 [XState by Example](https://xstatebyexample.com/)
 - 👀 [Old Mac Software Archive - Macintosh Repository](https://www.macintoshrepository.org/)
 - 👀 [Loadership](https://www.loadership.com/)
@@ -14,7 +15,6 @@
 - 👀 [LibSQL: SQLite for Modern Applications](https://turso.tech/libsql)
 - 👀 [CompressX](https://hieudinh.com/compressx)
 - 👀 [Ask HN: How do I train a custom LLM/ChatGPT on my own documents in Dec 2023? | Hacker News](https://news.ycombinator.com/item?id=38759877)
-- 👀 [100 Little Ideas · Collab Fund](https://collabfund.com/blog/100-little-ideas/)
 
 
 # Books and comics I am reading
