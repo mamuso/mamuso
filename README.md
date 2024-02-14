@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Opportunities for AI in Accessibility – A List Apart](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)
+- 👀 [HOW TO STUDY](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 - 👀 [My favorite decision making frameworks - by Lenny Rachitsky](https://www.lennysnewsletter.com/p/my-favorite-decision-making-frameworks)
 - 👀 [Williamsburg, Brooklyn: A Historical Timeline of the NYC Neighborhood - The New York Times](https://www.nytimes.com/interactive/2024/01/29/style/williamsburg-brooklyn-history-timeline.html#_1993-2001)
 - 👀 [How (and why) to run SQLite in production | Fractaled Mind](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
 - 👀 [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 - 👀 [12 Modern CSS One-Line Upgrades | Modern CSS Solutions](https://moderncss.dev/12-modern-css-one-line-upgrades/)
 - 👀 [OGimage.gallery | The finest hand-picked OG Images ✨](https://www.ogimage.gallery/)
-- 👀 [The Kenneth P. Green, Sr. Photography Archive](https://www.kennethpgreenphotography.org/)
-- 👀 [XState by Example](https://xstatebyexample.com/)
 
 
 # Books and comics I am reading
