@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Communication is The Job](https://boz.com/articles/communication-is-the-job)
 - 👀 [Design talent is a distraction - by Scott Berkun](https://whydesignishard.substack.com/p/design-talent-is-a-distraction)
 - 👀 [Multi Love - Productes](https://multilove.es/productes/page/3)
 - 👀 [No va a quedar nada de todo esto | CentroCentro](https://www.centrocentro.org/exposicion/no-va-quedar-nada-de-todo-esto)
@@ -14,7 +15,6 @@
 - 👀 [HOW TO STUDY](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 - 👀 [My favorite decision making frameworks - by Lenny Rachitsky](https://www.lennysnewsletter.com/p/my-favorite-decision-making-frameworks)
 - 👀 [Williamsburg, Brooklyn: A Historical Timeline of the NYC Neighborhood - The New York Times](https://www.nytimes.com/interactive/2024/01/29/style/williamsburg-brooklyn-history-timeline.html#_1993-2001)
-- 👀 [How (and why) to run SQLite in production | Fractaled Mind](https://fractaledmind.github.io/2023/12/23/rubyconftw/)
 
 
 # Books and comics I am reading
