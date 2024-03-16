@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [reboot](https://reboot.studio/)
 - 👀 [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 - 👀 [Full of Themselves: An analysis of title drops in movies](https://www.titledrops.net/)
 - 👀 [Communication is The Job](https://boz.com/articles/communication-is-the-job)
@@ -14,7 +15,6 @@
 - 👀 [Multi Love - Productes](https://multilove.es/productes/page/3)
 - 👀 [No va a quedar nada de todo esto | CentroCentro](https://www.centrocentro.org/exposicion/no-va-quedar-nada-de-todo-esto)
 - 👀 [Opportunities for AI in Accessibility – A List Apart](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)
-- 👀 [HOW TO STUDY](https://cse.buffalo.edu/~rapaport/howtostudy.html)
 
 
 # Books and comics I am reading
