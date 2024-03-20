@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Monodraw for macOS — Helftone](https://monodraw.helftone.com/)
+- 👀 [Oh Sh*t, My App is Successful and I Didn’t Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 - 👀 [reboot](https://reboot.studio/)
 - 👀 [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 - 👀 [Full of Themselves: An analysis of title drops in movies](https://www.titledrops.net/)
 - 👀 [Communication is The Job](https://boz.com/articles/communication-is-the-job)
 - 👀 [Design talent is a distraction - by Scott Berkun](https://whydesignishard.substack.com/p/design-talent-is-a-distraction)
 - 👀 [Multi Love - Productes](https://multilove.es/productes/page/3)
-- 👀 [No va a quedar nada de todo esto | CentroCentro](https://www.centrocentro.org/exposicion/no-va-quedar-nada-de-todo-esto)
-- 👀 [Opportunities for AI in Accessibility – A List Apart](https://alistapart.com/article/opportunities-for-ai-in-accessibility/)
 
 
 # Books and comics I am reading
