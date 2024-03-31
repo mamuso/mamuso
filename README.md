@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [Diper Överlöde (Diary of a Wimpy Kid, #17)](https://www.goodreads.com/book/show/60541760) by Jeff Kinney
+- 📘 [Big Shot (Diary of a Wimpy Kid Book 16)](https://www.goodreads.com/book/show/59483519) by Jeff Kinney
+- 📘 [No Brainer (Diary of a Wimpy Kid Book 18)](https://www.goodreads.com/book/show/122993732) by Jeff Kinney
 - 📘 [Tiny Habits: The Small Changes That Change Everything](https://www.goodreads.com/book/show/43305818) by B.J.  Fogg
-- 📘 [Al final siempre ganan los monstruos (Spanish Edition)](https://www.goodreads.com/book/show/58664090) by Juarma
-- 📘 [The Cartographers](https://www.goodreads.com/book/show/56224531) by Peng Shepherd
-- 📘 [Animal Farm](https://www.goodreads.com/book/show/8349198) by George Orwell
 
