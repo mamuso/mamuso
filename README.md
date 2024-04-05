@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [The Deep End (Diary of a Wimpy Kid, #15)](https://www.goodreads.com/book/show/51468119) by Jeff Kinney
+- 📘 [The Getaway](https://www.goodreads.com/book/show/34803142) by Jeff Kinney
 - 📘 [Diper Överlöde (Diary of a Wimpy Kid, #17)](https://www.goodreads.com/book/show/60541760) by Jeff Kinney
 - 📘 [Big Shot (Diary of a Wimpy Kid Book 16)](https://www.goodreads.com/book/show/59483519) by Jeff Kinney
-- 📘 [No Brainer (Diary of a Wimpy Kid Book 18)](https://www.goodreads.com/book/show/122993732) by Jeff Kinney
-- 📘 [Tiny Habits: The Small Changes That Change Everything](https://www.goodreads.com/book/show/43305818) by B.J.  Fogg
 
