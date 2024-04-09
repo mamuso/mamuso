@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [the Curricula](https://www.thecurricula.com/)
 - 👀 [Inclusive Sans — Olivia King](https://www.oliviaking.com/inclusive-sans)
 - 👀 [Monodraw for macOS — Helftone](https://monodraw.helftone.com/)
 - 👀 [Oh Sh*t, My App is Successful and I Didn’t Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
@@ -14,7 +15,6 @@
 - 👀 [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 - 👀 [Full of Themselves: An analysis of title drops in movies](https://www.titledrops.net/)
 - 👀 [Communication is The Job](https://boz.com/articles/communication-is-the-job)
-- 👀 [Design talent is a distraction - by Scott Berkun](https://whydesignishard.substack.com/p/design-talent-is-a-distraction)
 
 
 # Books and comics I am reading
