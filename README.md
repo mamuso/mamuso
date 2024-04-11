@@ -7,20 +7,20 @@
 
 # Recent bookmarks
 
+- 👀 [How to think about HTML responsive images · Dan Cătălin Burzo](https://danburzo.ro/responsive-images-html/)
+- 👀 [Using ChatGPT to implement Sol LeWitt’s Wall Drawings — Amy Goodchild](https://www.amygoodchild.com/blog/chatgpt-sol-lewitt-wall-drawings)
 - 👀 [Self-Hosted Applications and Alternatives](https://selfh.st/apps/)
 - 👀 [Jeff Triplett's Micro.blog - Python Development on macOS Notes: pyenv and pyenv-virtualenvwrapper](https://micro.webology.dev/2024/02/10/python-development-on.html)
 - 👀 [the Curricula](https://www.thecurricula.com/)
 - 👀 [Inclusive Sans — Olivia King](https://www.oliviaking.com/inclusive-sans)
 - 👀 [Monodraw for macOS — Helftone](https://monodraw.helftone.com/)
 - 👀 [Oh Sh*t, My App is Successful and I Didn’t Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
-- 👀 [reboot](https://reboot.studio/)
-- 👀 [CSS for printing to paper](https://voussoir.net/writing/css_for_printing)
 
 
 # Books and comics I am reading
 
+- 📘 [Spaced Out (Moon Base Alpha Book 2)](https://www.goodreads.com/book/show/26022750) by Stuart Gibbs
 - 📘 [The Deep End (Diary of a Wimpy Kid, #15)](https://www.goodreads.com/book/show/51468119) by Jeff Kinney
 - 📘 [The Getaway](https://www.goodreads.com/book/show/34803142) by Jeff Kinney
 - 📘 [Diper Överlöde (Diary of a Wimpy Kid, #17)](https://www.goodreads.com/book/show/60541760) by Jeff Kinney
-- 📘 [Big Shot (Diary of a Wimpy Kid Book 16)](https://www.goodreads.com/book/show/59483519) by Jeff Kinney
 
