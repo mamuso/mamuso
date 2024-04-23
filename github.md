@@ -1,14 +1,15 @@
-# GitHub 2021
+# GitHub 2024
 
 - Version control
 - Issues vNext
+- Memex Boards
 - PRs
 - Wikis
 - Pages
 - Gist
 - GitHub Actions
 - GitHub Packages
-- Container Registry
+- GitHub Container Registry
 - GitHub Codespaces
 - GitHub Advanced Security
 - GitHub CLI
@@ -17,6 +18,7 @@
 - Discussions
 - Achievements
 - EMUs
-- Notifications
+- Policies
 - Profile Readmes
+- GitHub Copilot
 - ...
