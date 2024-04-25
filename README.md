@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Eyecandy - Visual Technique Library](https://eyecannndy.com/)
 - 👀 [How to think about HTML responsive images · Dan Cătălin Burzo](https://danburzo.ro/responsive-images-html/)
 - 👀 [Using ChatGPT to implement Sol LeWitt’s Wall Drawings — Amy Goodchild](https://www.amygoodchild.com/blog/chatgpt-sol-lewitt-wall-drawings)
 - 👀 [Self-Hosted Applications and Alternatives](https://selfh.st/apps/)
@@ -14,7 +15,6 @@
 - 👀 [the Curricula](https://www.thecurricula.com/)
 - 👀 [Inclusive Sans — Olivia King](https://www.oliviaking.com/inclusive-sans)
 - 👀 [Monodraw for macOS — Helftone](https://monodraw.helftone.com/)
-- 👀 [Oh Sh*t, My App is Successful and I Didn’t Think About Accessibility](https://jacobbartlett.substack.com/p/oh-sht-my-app-is-successful-and-i)
 
 
 # Books and comics I am reading
