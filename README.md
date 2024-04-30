@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Guide - Air Travel Design Guide](https://airtraveldesign.guide/Guide)
 - 👀 [Eyecandy - Visual Technique Library](https://eyecannndy.com/)
 - 👀 [How to think about HTML responsive images · Dan Cătălin Burzo](https://danburzo.ro/responsive-images-html/)
 - 👀 [Using ChatGPT to implement Sol LeWitt’s Wall Drawings — Amy Goodchild](https://www.amygoodchild.com/blog/chatgpt-sol-lewitt-wall-drawings)
@@ -14,7 +15,6 @@
 - 👀 [Jeff Triplett's Micro.blog - Python Development on macOS Notes: pyenv and pyenv-virtualenvwrapper](https://micro.webology.dev/2024/02/10/python-development-on.html)
 - 👀 [the Curricula](https://www.thecurricula.com/)
 - 👀 [Inclusive Sans — Olivia King](https://www.oliviaking.com/inclusive-sans)
-- 👀 [Monodraw for macOS — Helftone](https://monodraw.helftone.com/)
 
 
 # Books and comics I am reading
