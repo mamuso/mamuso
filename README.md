@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Aventuras de un oficinista japonés::Astiberri Ediciones](https://www.astiberri.com/products/aventuras-de-un-oficinista-japones)
 - 👀 [Guide - Air Travel Design Guide](https://airtraveldesign.guide/Guide)
 - 👀 [Eyecandy - Visual Technique Library](https://eyecannndy.com/)
 - 👀 [How to think about HTML responsive images · Dan Cătălin Burzo](https://danburzo.ro/responsive-images-html/)
@@ -14,7 +15,6 @@
 - 👀 [Self-Hosted Applications and Alternatives](https://selfh.st/apps/)
 - 👀 [Jeff Triplett's Micro.blog - Python Development on macOS Notes: pyenv and pyenv-virtualenvwrapper](https://micro.webology.dev/2024/02/10/python-development-on.html)
 - 👀 [the Curricula](https://www.thecurricula.com/)
-- 👀 [Inclusive Sans — Olivia King](https://www.oliviaking.com/inclusive-sans)
 
 
 # Books and comics I am reading
