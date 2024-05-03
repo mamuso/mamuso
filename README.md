@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [BUCK](https://buck.co/)
 - 👀 [Aventuras de un oficinista japonés::Astiberri Ediciones](https://www.astiberri.com/products/aventuras-de-un-oficinista-japones)
 - 👀 [Guide - Air Travel Design Guide](https://airtraveldesign.guide/Guide)
 - 👀 [Eyecandy - Visual Technique Library](https://eyecannndy.com/)
@@ -14,7 +15,6 @@
 - 👀 [Using ChatGPT to implement Sol LeWitt’s Wall Drawings — Amy Goodchild](https://www.amygoodchild.com/blog/chatgpt-sol-lewitt-wall-drawings)
 - 👀 [Self-Hosted Applications and Alternatives](https://selfh.st/apps/)
 - 👀 [Jeff Triplett's Micro.blog - Python Development on macOS Notes: pyenv and pyenv-virtualenvwrapper](https://micro.webology.dev/2024/02/10/python-development-on.html)
-- 👀 [the Curricula](https://www.thecurricula.com/)
 
 
 # Books and comics I am reading
