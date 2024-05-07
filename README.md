@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/)
+- 👀 [Woodworking as an escape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 - 👀 [The polish paradox || Matthew Ström, designer-leader](https://matthewstrom.com/writing/the-polish-paradox/)
 - 👀 [BUCK](https://buck.co/)
 - 👀 [Aventuras de un oficinista japonés::Astiberri Ediciones](https://www.astiberri.com/products/aventuras-de-un-oficinista-japones)
 - 👀 [Guide - Air Travel Design Guide](https://airtraveldesign.guide/Guide)
 - 👀 [Eyecandy - Visual Technique Library](https://eyecannndy.com/)
 - 👀 [How to think about HTML responsive images · Dan Cătălin Burzo](https://danburzo.ro/responsive-images-html/)
-- 👀 [Using ChatGPT to implement Sol LeWitt’s Wall Drawings — Amy Goodchild](https://www.amygoodchild.com/blog/chatgpt-sol-lewitt-wall-drawings)
-- 👀 [Self-Hosted Applications and Alternatives](https://selfh.st/apps/)
 
 
 # Books and comics I am reading
