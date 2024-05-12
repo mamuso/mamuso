@@ -19,7 +19,7 @@
 
 # Books and comics I am reading
 
-- 📘 [Spaced Out (Moon Base Alpha Book 2)](https://www.goodreads.com/book/show/26022750) by Stuart Gibbs
+- 📘 [Spaced Out (Moon Base Alpha #2)](https://www.goodreads.com/book/show/26022750) by Stuart Gibbs
 - 📘 [The Deep End (Diary of a Wimpy Kid, #15)](https://www.goodreads.com/book/show/51468119) by Jeff Kinney
 - 📘 [The Getaway](https://www.goodreads.com/book/show/34803142) by Jeff Kinney
 - 📘 [Diper Överlöde (Diary of a Wimpy Kid, #17)](https://www.goodreads.com/book/show/60541760) by Jeff Kinney
