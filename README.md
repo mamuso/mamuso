@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [A Selection of Fonts That Future-Proof Your Web Design | Codrops](https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/)
+- 👀 [Clusters](https://ventrella.com/Clusters/)
 - 👀 [TimePicker | OpenStatus](https://time.openstatus.dev/)
 - 👀 [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
 - 👀 [Popover API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
 - 👀 [Card Buddy | Card Buddy: The best index cards app for Mac and iOS](https://www.ussherpress.com/cardbuddy/)
 - 👀 [Gauge](https://gauge.onur.dev/)
 - 👀 [Nature of Code](https://natureofcode.com/)
-- 👀 [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/)
-- 👀 [Woodworking as an escape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 
 
 # Books and comics I am reading
