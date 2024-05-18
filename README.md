@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Fifteen Fundamental Properties | Camillo Visini](https://camillovisini.com/writing/fifteen-fundamental-properties)
 - 👀 [The Sound of Software | !Boring](https://www.notboring.software/words/the-sound-of-software)
 - 👀 [Copilot Case Study for Engineering Productivity | Jellyfish Blog](https://jellyfish.co/blog/case-study-does-copilot-make-a-difference-for-engineering-productivity/)
 - 👀 [A Selection of Fonts That Future-Proof Your Web Design | Codrops](https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/)
@@ -14,7 +15,6 @@
 - 👀 [TimePicker | OpenStatus](https://time.openstatus.dev/)
 - 👀 [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
 - 👀 [Popover API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
-- 👀 [Card Buddy | Card Buddy: The best index cards app for Mac and iOS](https://www.ussherpress.com/cardbuddy/)
 
 
 # Books and comics I am reading
