@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
-- 👀 [Fifteen Fundamental Properties | Camillo Visini](https://camillovisini.com/writing/fifteen-fundamental-properties)
-- 👀 [The Sound of Software | !Boring](https://www.notboring.software/words/the-sound-of-software)
-- 👀 [Copilot Case Study for Engineering Productivity | Jellyfish Blog](https://jellyfish.co/blog/case-study-does-copilot-make-a-difference-for-engineering-productivity/)
-- 👀 [A Selection of Fonts That Future-Proof Your Web Design | Codrops](https://tympanus.net/codrops/2024/05/10/a-selection-of-fonts-that-future-proof-your-web-design/)
-- 👀 [Clusters](https://ventrella.com/Clusters/)
-- 👀 [TimePicker | OpenStatus](https://time.openstatus.dev/)
-- 👀 [The SPACE of Developer Productivity - ACM Queue](https://queue.acm.org/detail.cfm?id=3454124)
-- 👀 [Popover API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
+- 👀 [D3 in Depth](https://www.d3indepth.com/)
+- 👀 [Beyond CSS Media Queries — Smashing Magazine](https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/)
+- 👀 [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms)
+- 👀 [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
+- 👀 [NiceGUI](https://nicegui.io/)
+- 👀 [teachyourselfmath](https://teachyourselfmath.app/?page=1&tags=&difficulty=)
+- 👀 [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+- 👀 [Intro & Table of Contents](https://thenameless.net/astral-kit/anthropic-peit-00)
 
 
 # Books and comics I am reading
