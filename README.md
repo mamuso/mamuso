@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Turso — SQLite for Production](https://turso.tech/)
 - 👀 [D3 in Depth](https://www.d3indepth.com/)
 - 👀 [Beyond CSS Media Queries — Smashing Magazine](https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/)
 - 👀 [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms)
@@ -14,7 +15,6 @@
 - 👀 [NiceGUI](https://nicegui.io/)
 - 👀 [teachyourselfmath](https://teachyourselfmath.app/?page=1&tags=&difficulty=)
 - 👀 [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
-- 👀 [Intro & Table of Contents](https://thenameless.net/astral-kit/anthropic-peit-00)
 
 
 # Books and comics I am reading
