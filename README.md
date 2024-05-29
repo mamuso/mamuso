@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Magic UI](https://magicui.design/)
+- 👀 [Old Dogs, new CSS Tricks | Max Böck](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 - 👀 [Turso — SQLite for Production](https://turso.tech/)
 - 👀 [D3 in Depth](https://www.d3indepth.com/)
 - 👀 [Beyond CSS Media Queries — Smashing Magazine](https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/)
 - 👀 [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms)
 - 👀 [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 - 👀 [NiceGUI](https://nicegui.io/)
-- 👀 [teachyourselfmath](https://teachyourselfmath.app/?page=1&tags=&difficulty=)
-- 👀 [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 
 
 # Books and comics I am reading
