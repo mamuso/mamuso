@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [slash pages](https://slashpages.net/)
 - 👀 [Magic UI](https://magicui.design/)
 - 👀 [Old Dogs, new CSS Tricks | Max Böck](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 - 👀 [Turso — SQLite for Production](https://turso.tech/)
@@ -14,13 +15,12 @@
 - 👀 [Beyond CSS Media Queries — Smashing Magazine](https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/)
 - 👀 [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms)
 - 👀 [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
-- 👀 [NiceGUI](https://nicegui.io/)
 
 
 # Books and comics I am reading
 
+- 📘 [Wrecking Ball (Diary of a Wimpy Kid, #14)](https://www.goodreads.com/book/show/44091234) by Jeff Kinney
 - 📘 [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6512869) by Eckhart Tolle
 - 📘 [Spaced Out (Moon Base Alpha #2)](https://www.goodreads.com/book/show/26022750) by Stuart Gibbs
 - 📘 [The Deep End (Diary of a Wimpy Kid, #15)](https://www.goodreads.com/book/show/51468119) by Jeff Kinney
-- 📘 [The Getaway](https://www.goodreads.com/book/show/34803142) by Jeff Kinney
 
