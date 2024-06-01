@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Bring everyone together with data | Hex](https://hex.tech/)
 - 👀 [slash pages](https://slashpages.net/)
 - 👀 [Magic UI](https://magicui.design/)
 - 👀 [Old Dogs, new CSS Tricks | Max Böck](https://mxb.dev/blog/old-dogs-new-css-tricks/)
@@ -14,7 +15,6 @@
 - 👀 [D3 in Depth](https://www.d3indepth.com/)
 - 👀 [Beyond CSS Media Queries — Smashing Magazine](https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/)
 - 👀 [rate limiter – smudge.ai blog](https://smudge.ai/blog/ratelimit-algorithms)
-- 👀 [The Forged Apple Employee Badge – cabel.com](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 
 
 # Books and comics I am reading
