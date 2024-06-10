@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 - 👀 [Against optimization | A Working Library](https://aworkinglibrary.com/writing/against-optimization)
 - 👀 [Bring everyone together with data | Hex](https://hex.tech/)
 - 👀 [slash pages](https://slashpages.net/)
@@ -14,7 +15,6 @@
 - 👀 [Old Dogs, new CSS Tricks | Max Böck](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 - 👀 [Turso — SQLite for Production](https://turso.tech/)
 - 👀 [D3 in Depth](https://www.d3indepth.com/)
-- 👀 [Beyond CSS Media Queries — Smashing Magazine](https://www.smashingmagazine.com/2024/05/beyond-css-media-queries/)
 
 
 # Books and comics I am reading
