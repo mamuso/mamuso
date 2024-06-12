@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Omnivore](https://omnivore.app/)
+- 👀 [Slidev](https://sli.dev/)
 - 👀 [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 - 👀 [Against optimization | A Working Library](https://aworkinglibrary.com/writing/against-optimization)
 - 👀 [Bring everyone together with data | Hex](https://hex.tech/)
 - 👀 [slash pages](https://slashpages.net/)
 - 👀 [Magic UI](https://magicui.design/)
 - 👀 [Old Dogs, new CSS Tricks | Max Böck](https://mxb.dev/blog/old-dogs-new-css-tricks/)
-- 👀 [Turso — SQLite for Production](https://turso.tech/)
-- 👀 [D3 in Depth](https://www.d3indepth.com/)
 
 
 # Books and comics I am reading
