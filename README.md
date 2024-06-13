@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [GenAI Handbook](https://genai-handbook.github.io/)
+- 👀 [Designing a Lego orrery | Marian's Blog](https://marian42.de/article/orrery/)
 - 👀 [Omnivore](https://omnivore.app/)
 - 👀 [Slidev](https://sli.dev/)
 - 👀 [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 - 👀 [Against optimization | A Working Library](https://aworkinglibrary.com/writing/against-optimization)
 - 👀 [Bring everyone together with data | Hex](https://hex.tech/)
 - 👀 [slash pages](https://slashpages.net/)
-- 👀 [Magic UI](https://magicui.design/)
-- 👀 [Old Dogs, new CSS Tricks | Max Böck](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 
 
 # Books and comics I am reading
