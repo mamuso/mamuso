@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Textualize - Home](https://www.textualize.io/)
+- 👀 [Harlequin: The SQL IDE for Your Terminal.](https://harlequin.sh/)
 - 👀 [GenAI Handbook](https://genai-handbook.github.io/)
 - 👀 [Designing a Lego orrery | Marian's Blog](https://marian42.de/article/orrery/)
 - 👀 [Omnivore](https://omnivore.app/)
 - 👀 [Slidev](https://sli.dev/)
 - 👀 [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 - 👀 [Against optimization | A Working Library](https://aworkinglibrary.com/writing/against-optimization)
-- 👀 [Bring everyone together with data | Hex](https://hex.tech/)
-- 👀 [slash pages](https://slashpages.net/)
 
 
 # Books and comics I am reading
