@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Dark Mode App Icons](https://lmnt.me/blog/dark-mode-app-icons.html)
+- 👀 [Sidebar animation performance](https://www.joshuawootonn.com/sidebar-animation-performance)
 - 👀 [Textualize - Home](https://www.textualize.io/)
 - 👀 [Harlequin: The SQL IDE for Your Terminal.](https://harlequin.sh/)
 - 👀 [GenAI Handbook](https://genai-handbook.github.io/)
 - 👀 [Designing a Lego orrery | Marian's Blog](https://marian42.de/article/orrery/)
 - 👀 [Omnivore](https://omnivore.app/)
 - 👀 [Slidev](https://sli.dev/)
-- 👀 [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
-- 👀 [Against optimization | A Working Library](https://aworkinglibrary.com/writing/against-optimization)
 
 
 # Books and comics I am reading
