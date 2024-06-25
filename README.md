@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Handbook · Resend](https://resend.com/handbook)
 - 👀 [Dark Mode App Icons](https://lmnt.me/blog/dark-mode-app-icons.html)
 - 👀 [Sidebar animation performance](https://www.joshuawootonn.com/sidebar-animation-performance)
 - 👀 [Textualize - Home](https://www.textualize.io/)
@@ -14,7 +15,6 @@
 - 👀 [GenAI Handbook](https://genai-handbook.github.io/)
 - 👀 [Designing a Lego orrery | Marian's Blog](https://marian42.de/article/orrery/)
 - 👀 [Omnivore](https://omnivore.app/)
-- 👀 [Slidev](https://sli.dev/)
 
 
 # Books and comics I am reading
