@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Mastering Film UI | Kris Brady | Learn Squared](https://www.learnsquared.com/courses/mastering-film-ui)
 - 👀 [Handbook · Resend](https://resend.com/handbook)
 - 👀 [Dark Mode App Icons](https://lmnt.me/blog/dark-mode-app-icons.html)
 - 👀 [Sidebar animation performance](https://www.joshuawootonn.com/sidebar-animation-performance)
@@ -14,7 +15,6 @@
 - 👀 [Harlequin: The SQL IDE for Your Terminal.](https://harlequin.sh/)
 - 👀 [GenAI Handbook](https://genai-handbook.github.io/)
 - 👀 [Designing a Lego orrery | Marian's Blog](https://marian42.de/article/orrery/)
-- 👀 [Omnivore](https://omnivore.app/)
 
 
 # Books and comics I am reading
