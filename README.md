@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Dungeons & Dragons taught me how to write alt text – Eric Bailey](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
+- 👀 [punkx.org](https://punkx.org/)
+- 👀 [Who killed the world?](https://pudding.cool/2024/07/scifi/)
+- 👀 [Raymond Biesinger Illustration](https://www.fifteen.ca/)
 - 👀 [YARN | Search clips by quote](https://getyarn.io/)
 - 👀 [Mastering Film UI | Kris Brady | Learn Squared](https://www.learnsquared.com/courses/mastering-film-ui)
 - 👀 [Handbook · Resend](https://resend.com/handbook)
 - 👀 [Dark Mode App Icons](https://lmnt.me/blog/dark-mode-app-icons.html)
-- 👀 [Sidebar animation performance](https://www.joshuawootonn.com/sidebar-animation-performance)
-- 👀 [Textualize - Home](https://www.textualize.io/)
-- 👀 [Harlequin: The SQL IDE for Your Terminal.](https://harlequin.sh/)
-- 👀 [GenAI Handbook](https://genai-handbook.github.io/)
 
 
 # Books and comics I am reading
