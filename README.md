@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Copying is the way design works || Matthew Ström: designer & developer](https://matthewstrom.com/writing/copying/)
 - 👀 [Dungeons & Dragons taught me how to write alt text – Eric Bailey](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 - 👀 [punkx.org](https://punkx.org/)
 - 👀 [Who killed the world?](https://pudding.cool/2024/07/scifi/)
@@ -14,7 +15,6 @@
 - 👀 [YARN | Search clips by quote](https://getyarn.io/)
 - 👀 [Mastering Film UI | Kris Brady | Learn Squared](https://www.learnsquared.com/courses/mastering-film-ui)
 - 👀 [Handbook · Resend](https://resend.com/handbook)
-- 👀 [Dark Mode App Icons](https://lmnt.me/blog/dark-mode-app-icons.html)
 
 
 # Books and comics I am reading
