@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Welcome to Quartz 4](https://quartz.jzhao.xyz/)
+- 👀 [Styling Tables the Modern CSS Way - Piccalilli](https://piccalil.li/blog/styling-tables-the-modern-css-way/)
+- 👀 [How to Get the Width/Height of Any Element in Only CSS – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-get-the-width-height-of-any-element-in-only-css/)
+- 👀 [The Many Lives of Null Island | Stamen](https://stamen.com/the-many-lives-of-null-island/)
+- 👀 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
 - 👀 [Copying is the way design works || Matthew Ström: designer & developer](https://matthewstrom.com/writing/copying/)
 - 👀 [Dungeons & Dragons taught me how to write alt text – Eric Bailey](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 - 👀 [punkx.org](https://punkx.org/)
-- 👀 [Who killed the world?](https://pudding.cool/2024/07/scifi/)
-- 👀 [Raymond Biesinger Illustration](https://www.fifteen.ca/)
-- 👀 [YARN | Search clips by quote](https://getyarn.io/)
-- 👀 [Mastering Film UI | Kris Brady | Learn Squared](https://www.learnsquared.com/courses/mastering-film-ui)
-- 👀 [Handbook · Resend](https://resend.com/handbook)
 
 
 # Books and comics I am reading
