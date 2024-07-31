@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Designing Depth](https://rauno.me/craft/depth)
 - 👀 [Welcome to Quartz 4](https://quartz.jzhao.xyz/)
 - 👀 [Styling Tables the Modern CSS Way - Piccalilli](https://piccalil.li/blog/styling-tables-the-modern-css-way/)
 - 👀 [How to Get the Width/Height of Any Element in Only CSS – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-get-the-width-height-of-any-element-in-only-css/)
@@ -14,7 +15,6 @@
 - 👀 [Introduction · Reverse Engineering](https://0xinfection.github.io/reversing/)
 - 👀 [Copying is the way design works || Matthew Ström: designer & developer](https://matthewstrom.com/writing/copying/)
 - 👀 [Dungeons & Dragons taught me how to write alt text – Eric Bailey](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
-- 👀 [punkx.org](https://punkx.org/)
 
 
 # Books and comics I am reading
