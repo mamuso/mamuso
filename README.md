@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Footnotes that work in RSS readers](https://simonwillison.net/2024/Aug/1/footnotes-that-work-in-rss-readers/)
+- 👀 [AIverse for Designers & Innovators](https://aiverse.design/)
 - 👀 [Tulip Creative Computer. Now available](https://tulip.computer/)
 - 👀 [The gymnastics world braces for an AI future](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig)
 - 👀 [Public Work by Cosmos](https://public.work/)
 - 👀 [Designing Depth](https://rauno.me/craft/depth)
 - 👀 [Welcome to Quartz 4](https://quartz.jzhao.xyz/)
 - 👀 [Styling Tables the Modern CSS Way - Piccalilli](https://piccalil.li/blog/styling-tables-the-modern-css-way/)
-- 👀 [How to Get the Width/Height of Any Element in Only CSS – Frontend Masters Boost](https://frontendmasters.com/blog/how-to-get-the-width-height-of-any-element-in-only-css/)
-- 👀 [The Many Lives of Null Island | Stamen](https://stamen.com/the-many-lives-of-null-island/)
 
 
 # Books and comics I am reading
