@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [How to Build Anything Extremely Quickly - Learn How To Learn](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 - 👀 [Footnotes that work in RSS readers](https://simonwillison.net/2024/Aug/1/footnotes-that-work-in-rss-readers/)
 - 👀 [AIverse for Designers & Innovators](https://aiverse.design/)
 - 👀 [Tulip Creative Computer. Now available](https://tulip.computer/)
@@ -14,7 +15,6 @@
 - 👀 [Public Work by Cosmos](https://public.work/)
 - 👀 [Designing Depth](https://rauno.me/craft/depth)
 - 👀 [Welcome to Quartz 4](https://quartz.jzhao.xyz/)
-- 👀 [Styling Tables the Modern CSS Way - Piccalilli](https://piccalil.li/blog/styling-tables-the-modern-css-way/)
 
 
 # Books and comics I am reading
