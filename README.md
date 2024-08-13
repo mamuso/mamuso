@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Server Mono](https://servermono.com/)
 - 👀 [How to open an indie (book)shop - by Jonathan Robinson](https://indieshops.substack.com/p/how-to-open-an-indie-bookshop)
 - 👀 [How to Build Anything Extremely Quickly - Learn How To Learn](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 - 👀 [Footnotes that work in RSS readers](https://simonwillison.net/2024/Aug/1/footnotes-that-work-in-rss-readers/)
@@ -14,7 +15,6 @@
 - 👀 [Tulip Creative Computer. Now available](https://tulip.computer/)
 - 👀 [The gymnastics world braces for an AI future](https://www.theverge.com/c/24182327/olympics-gymnastics-ai-judging-fujitsu-jss-fig)
 - 👀 [Public Work by Cosmos](https://public.work/)
-- 👀 [Designing Depth](https://rauno.me/craft/depth)
 
 
 # Books and comics I am reading
