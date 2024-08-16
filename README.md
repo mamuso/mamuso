@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Mathematics of Machine Learning book](https://tivadardanka.com/books/mathematics-of-machine-learning)
+- 👀 [Athena Playbook Library](https://playbooks.athena.com/)
 - 👀 [Meetup tips – William Viana](https://williamviana.blog/2024/08/12/meetup-tips/)
 - 👀 [Chevy Ray | How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 - 👀 [Subpixel Text Encoding - msarnoff.org](https://www.msarnoff.org/millitext/)
 - 👀 [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 - 👀 [Server Mono](https://servermono.com/)
 - 👀 [How to open an indie (book)shop - by Jonathan Robinson](https://indieshops.substack.com/p/how-to-open-an-indie-bookshop)
-- 👀 [How to Build Anything Extremely Quickly - Learn How To Learn](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
-- 👀 [Footnotes that work in RSS readers](https://simonwillison.net/2024/Aug/1/footnotes-that-work-in-rss-readers/)
 
 
 # Books and comics I am reading
