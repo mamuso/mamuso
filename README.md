@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Building an AI toolbar for text editors | Chris Nicholas | Developer experience at Liveblocks](https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors)
 - 👀 [Mathematics of Machine Learning book](https://tivadardanka.com/books/mathematics-of-machine-learning)
 - 👀 [Athena Playbook Library](https://playbooks.athena.com/)
 - 👀 [Meetup tips – William Viana](https://williamviana.blog/2024/08/12/meetup-tips/)
@@ -14,7 +15,6 @@
 - 👀 [Subpixel Text Encoding - msarnoff.org](https://www.msarnoff.org/millitext/)
 - 👀 [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
 - 👀 [Server Mono](https://servermono.com/)
-- 👀 [How to open an indie (book)shop - by Jonathan Robinson](https://indieshops.substack.com/p/how-to-open-an-indie-bookshop)
 
 
 # Books and comics I am reading
