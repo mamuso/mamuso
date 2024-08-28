@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 - 👀 [Building an AI toolbar for text editors | Chris Nicholas | Developer experience at Liveblocks](https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors)
 - 👀 [Mathematics of Machine Learning book](https://tivadardanka.com/books/mathematics-of-machine-learning)
 - 👀 [Athena Playbook Library](https://playbooks.athena.com/)
@@ -14,7 +15,6 @@
 - 👀 [Chevy Ray | How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 - 👀 [Subpixel Text Encoding - msarnoff.org](https://www.msarnoff.org/millitext/)
 - 👀 [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games)
-- 👀 [Server Mono](https://servermono.com/)
 
 
 # Books and comics I am reading
