@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Leon Denise](https://neondelice.xyz/)
 - 👀 [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 - 👀 [Free Public APIs](https://www.freepublicapis.com/)
 - 👀 [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
@@ -14,7 +15,6 @@
 - 👀 [Mathematics of Machine Learning book](https://tivadardanka.com/books/mathematics-of-machine-learning)
 - 👀 [Athena Playbook Library](https://playbooks.athena.com/)
 - 👀 [Meetup tips – William Viana](https://williamviana.blog/2024/08/12/meetup-tips/)
-- 👀 [Chevy Ray | How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 
 
 # Books and comics I am reading
