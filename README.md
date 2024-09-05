@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Departure Mono](https://departuremono.com/)
 - 👀 [Leon Denise](https://neondelice.xyz/)
 - 👀 [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 - 👀 [Free Public APIs](https://www.freepublicapis.com/)
@@ -14,7 +15,6 @@
 - 👀 [Building an AI toolbar for text editors | Chris Nicholas | Developer experience at Liveblocks](https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors)
 - 👀 [Mathematics of Machine Learning book](https://tivadardanka.com/books/mathematics-of-machine-learning)
 - 👀 [Athena Playbook Library](https://playbooks.athena.com/)
-- 👀 [Meetup tips – William Viana](https://williamviana.blog/2024/08/12/meetup-tips/)
 
 
 # Books and comics I am reading
