@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Three.js Journey — Learn WebGL with Three.js](https://threejs-journey.com/#)
 - 👀 [Departure Mono](https://departuremono.com/)
 - 👀 [Leon Denise](https://neondelice.xyz/)
 - 👀 [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
@@ -14,7 +15,6 @@
 - 👀 [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 - 👀 [Building an AI toolbar for text editors | Chris Nicholas | Developer experience at Liveblocks](https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors)
 - 👀 [Mathematics of Machine Learning book](https://tivadardanka.com/books/mathematics-of-machine-learning)
-- 👀 [Athena Playbook Library](https://playbooks.athena.com/)
 
 
 # Books and comics I am reading
