@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [SIRUI Night Walker T1.2 Super35 Frame Cine Lens Series – SIRUI®Official Store](https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series?variant=45538352267490)
 - 👀 [Three.js Journey — Learn WebGL with Three.js](https://threejs-journey.com/#)
 - 👀 [Departure Mono](https://departuremono.com/)
 - 👀 [Leon Denise](https://neondelice.xyz/)
@@ -14,7 +15,6 @@
 - 👀 [Free Public APIs](https://www.freepublicapis.com/)
 - 👀 [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 - 👀 [Building an AI toolbar for text editors | Chris Nicholas | Developer experience at Liveblocks](https://chrisnicholas.dev/blog/building-an-ai-toolbar-for-text-editors)
-- 👀 [Mathematics of Machine Learning book](https://tivadardanka.com/books/mathematics-of-machine-learning)
 
 
 # Books and comics I am reading
