@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Drawing Machines](https://drawingmachines.org/index.php)
 - 👀 [Comic Mono | comic-mono-font](https://dtinth.github.io/comic-mono-font/)
 - 👀 [SIRUI Night Walker T1.2 Super35 Frame Cine Lens Series – SIRUI®Official Store](https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series?variant=45538352267490)
 - 👀 [Three.js Journey — Learn WebGL with Three.js](https://threejs-journey.com/#)
@@ -14,7 +15,6 @@
 - 👀 [Leon Denise](https://neondelice.xyz/)
 - 👀 [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 - 👀 [Free Public APIs](https://www.freepublicapis.com/)
-- 👀 [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 
 
 # Books and comics I am reading
