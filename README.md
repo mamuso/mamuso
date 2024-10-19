@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The life-changing magic of Japanese clutter | Aeon Essays](https://aeon.co/essays/the-life-changing-magic-of-japanese-clutter)
 - 👀 [Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
 - 👀 [The Copenhagen Book](https://thecopenhagenbook.com/)
 - 👀 [player.style - Video & audio player themes for every web player & framework](https://player.style/)
@@ -14,7 +15,6 @@
 - 👀 [Drawing Machines](https://drawingmachines.org/index.php)
 - 👀 [Comic Mono | comic-mono-font](https://dtinth.github.io/comic-mono-font/)
 - 👀 [SIRUI Night Walker T1.2 Super35 Frame Cine Lens Series – SIRUI®Official Store](https://store.sirui.com/products/night-walker-t1-2-s35-cine-lens-series?variant=45538352267490)
-- 👀 [Three.js Journey — Learn WebGL with Three.js](https://threejs-journey.com/#)
 
 
 # Books and comics I am reading
