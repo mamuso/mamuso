@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Alien.js](https://alien.js.org/)
 - 👀 [Typeset](https://typeset.lllllllllllllllll.com/)
 - 👀 [How to Create, Structure, Design, Prepare and Hold a Great Presentation](https://ia.net/topics/five-canons-of-rhetoric)
 - 👀 [The life-changing magic of Japanese clutter | Aeon Essays](https://aeon.co/essays/the-life-changing-magic-of-japanese-clutter)
@@ -14,7 +15,6 @@
 - 👀 [The Copenhagen Book](https://thecopenhagenbook.com/)
 - 👀 [player.style - Video & audio player themes for every web player & framework](https://player.style/)
 - 👀 [HTML for People](https://htmlforpeople.com/)
-- 👀 [Drawing Machines](https://drawingmachines.org/index.php)
 
 
 # Books and comics I am reading
