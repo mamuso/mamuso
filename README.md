@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [New CSS that can actually be used in 2024 | Thomasorus](https://thomasorus.com/new-css-that-can-actually-be-used-in-2024.html)
 - 👀 [Alien.js](https://alien.js.org/)
 - 👀 [Typeset](https://typeset.lllllllllllllllll.com/)
 - 👀 [How to Create, Structure, Design, Prepare and Hold a Great Presentation](https://ia.net/topics/five-canons-of-rhetoric)
@@ -14,7 +15,6 @@
 - 👀 [Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
 - 👀 [The Copenhagen Book](https://thecopenhagenbook.com/)
 - 👀 [player.style - Video & audio player themes for every web player & framework](https://player.style/)
-- 👀 [HTML for People](https://htmlforpeople.com/)
 
 
 # Books and comics I am reading
