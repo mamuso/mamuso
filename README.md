@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Home - The XY Problem](https://xyproblem.info/)
 - 👀 [New CSS that can actually be used in 2024 | Thomasorus](https://thomasorus.com/new-css-that-can-actually-be-used-in-2024.html)
 - 👀 [Alien.js](https://alien.js.org/)
 - 👀 [Typeset](https://typeset.lllllllllllllllll.com/)
@@ -14,7 +15,6 @@
 - 👀 [The life-changing magic of Japanese clutter | Aeon Essays](https://aeon.co/essays/the-life-changing-magic-of-japanese-clutter)
 - 👀 [Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
 - 👀 [The Copenhagen Book](https://thecopenhagenbook.com/)
-- 👀 [player.style - Video & audio player themes for every web player & framework](https://player.style/)
 
 
 # Books and comics I am reading
