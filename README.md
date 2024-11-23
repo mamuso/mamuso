@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Beautiful focus outlines · Medienbäcker Thomas Günther](https://medienbaecker.com/articles/focus-outlines)
+- 👀 [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
+- 👀 [Airport Typeface](https://airport.revolvertype.com/)
 - 👀 [Home - The XY Problem](https://xyproblem.info/)
 - 👀 [New CSS that can actually be used in 2024 | Thomasorus](https://thomasorus.com/new-css-that-can-actually-be-used-in-2024.html)
 - 👀 [Alien.js](https://alien.js.org/)
 - 👀 [Typeset](https://typeset.lllllllllllllllll.com/)
 - 👀 [How to Create, Structure, Design, Prepare and Hold a Great Presentation](https://ia.net/topics/five-canons-of-rhetoric)
-- 👀 [The life-changing magic of Japanese clutter | Aeon Essays](https://aeon.co/essays/the-life-changing-magic-of-japanese-clutter)
-- 👀 [Dario Amodei — Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace)
-- 👀 [The Copenhagen Book](https://thecopenhagenbook.com/)
 
 
 # Books and comics I am reading
