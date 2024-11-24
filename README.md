@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Easing Wizard - CSS Easing Editor](https://easingwizard.com/)
 - 👀 [Beautiful focus outlines · Medienbäcker Thomas Günther](https://medienbaecker.com/articles/focus-outlines)
 - 👀 [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 - 👀 [Airport Typeface](https://airport.revolvertype.com/)
@@ -14,7 +15,6 @@
 - 👀 [New CSS that can actually be used in 2024 | Thomasorus](https://thomasorus.com/new-css-that-can-actually-be-used-in-2024.html)
 - 👀 [Alien.js](https://alien.js.org/)
 - 👀 [Typeset](https://typeset.lllllllllllllllll.com/)
-- 👀 [How to Create, Structure, Design, Prepare and Hold a Great Presentation](https://ia.net/topics/five-canons-of-rhetoric)
 
 
 # Books and comics I am reading
