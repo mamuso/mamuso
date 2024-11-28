@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
+- 👀 [Visual Sorting aka The Sound Of Sorting](https://mszula.github.io/visual-sorting/)
+- 👀 [pavlovpulus](https://pavlovpulus.com/)
 - 👀 [Easing Wizard - CSS Easing Editor](https://easingwizard.com/)
 - 👀 [Beautiful focus outlines · Medienbäcker Thomas Günther](https://medienbaecker.com/articles/focus-outlines)
 - 👀 [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 - 👀 [Airport Typeface](https://airport.revolvertype.com/)
 - 👀 [Home - The XY Problem](https://xyproblem.info/)
-- 👀 [New CSS that can actually be used in 2024 | Thomasorus](https://thomasorus.com/new-css-that-can-actually-be-used-in-2024.html)
-- 👀 [Alien.js](https://alien.js.org/)
-- 👀 [Typeset](https://typeset.lllllllllllllllll.com/)
 
 
 # Books and comics I am reading
