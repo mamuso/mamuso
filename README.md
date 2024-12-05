@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
+- 👀 [Markwhen](https://markwhen.com/)
+- 👀 [Top 100 Most Creative and Unique Portfolio Websites of 2024 | Muzli Blog](https://muz.li/blog/top-100-most-creative-and-unique-portfolio-websites-of-2024)
 - 👀 [INTERFACE LOVE. – Researching UI in Games, Cinema and anything else thats interesting.](https://ilikeinterfaces.com/)
 - 👀 [Amelia Wattenberger](https://wattenberger.com/thoughts/fish-eye)
 - 👀 [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
 - 👀 [Visual Sorting aka The Sound Of Sorting](https://mszula.github.io/visual-sorting/)
 - 👀 [pavlovpulus](https://pavlovpulus.com/)
-- 👀 [Easing Wizard - CSS Easing Editor](https://easingwizard.com/)
-- 👀 [Beautiful focus outlines · Medienbäcker Thomas Günther](https://medienbaecker.com/articles/focus-outlines)
-- 👀 [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 
 
 # Books and comics I am reading
