@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [TheFastest.ai](https://thefastest.ai/)
 - 👀 [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
 - 👀 [Markwhen](https://markwhen.com/)
 - 👀 [Top 100 Most Creative and Unique Portfolio Websites of 2024 | Muzli Blog](https://muz.li/blog/top-100-most-creative-and-unique-portfolio-websites-of-2024)
@@ -14,7 +15,6 @@
 - 👀 [Amelia Wattenberger](https://wattenberger.com/thoughts/fish-eye)
 - 👀 [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
 - 👀 [Visual Sorting aka The Sound Of Sorting](https://mszula.github.io/visual-sorting/)
-- 👀 [pavlovpulus](https://pavlovpulus.com/)
 
 
 # Books and comics I am reading
