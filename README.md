@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [IsometricShot - Create Isometric Screenshots](https://isometricshot.com/)
 - 👀 [TheFastest.ai](https://thefastest.ai/)
 - 👀 [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
 - 👀 [Markwhen](https://markwhen.com/)
@@ -14,7 +15,6 @@
 - 👀 [INTERFACE LOVE. – Researching UI in Games, Cinema and anything else thats interesting.](https://ilikeinterfaces.com/)
 - 👀 [Amelia Wattenberger](https://wattenberger.com/thoughts/fish-eye)
 - 👀 [How to give a senior leader feedback (without getting fired)](https://newsletter.weskao.com/p/how-to-give-a-senior-leader-feedback-without-getting-fired)
-- 👀 [Visual Sorting aka The Sound Of Sorting](https://mszula.github.io/visual-sorting/)
 
 
 # Books and comics I am reading
