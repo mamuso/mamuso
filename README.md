@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [BlogScroll - Personal Blog & Site Directory](https://blogscroll.com/)
 - 👀 [KosaHome](https://kosaarts.com/)
 - 👀 [OMOI – Omoi Life Goods](https://omoionline.com/)
 - 👀 [Ichiban Motorcycle](https://www.ichiban.bike/#gorilla-mode)
@@ -14,7 +15,6 @@
 - 👀 [TheFastest.ai](https://thefastest.ai/)
 - 👀 [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
 - 👀 [Markwhen](https://markwhen.com/)
-- 👀 [Top 100 Most Creative and Unique Portfolio Websites of 2024 | Muzli Blog](https://muz.li/blog/top-100-most-creative-and-unique-portfolio-websites-of-2024)
 
 
 # Books and comics I am reading
