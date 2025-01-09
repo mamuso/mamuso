@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Work — Corey Moen](https://www.coreymoen.com/work)
 - 👀 [BlogScroll - Personal Blog & Site Directory](https://blogscroll.com/)
 - 👀 [KosaHome](https://kosaarts.com/)
 - 👀 [OMOI – Omoi Life Goods](https://omoionline.com/)
@@ -14,7 +15,6 @@
 - 👀 [IsometricShot - Create Isometric Screenshots](https://isometricshot.com/)
 - 👀 [TheFastest.ai](https://thefastest.ai/)
 - 👀 [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
-- 👀 [Markwhen](https://markwhen.com/)
 
 
 # Books and comics I am reading
