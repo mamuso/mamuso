@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Public Domain Image Archive](https://pdimagearchive.org/)
 - 👀 [Work — Corey Moen](https://www.coreymoen.com/work)
 - 👀 [BlogScroll - Personal Blog & Site Directory](https://blogscroll.com/)
 - 👀 [KosaHome](https://kosaarts.com/)
@@ -14,7 +15,6 @@
 - 👀 [Ichiban Motorcycle](https://www.ichiban.bike/#gorilla-mode)
 - 👀 [IsometricShot - Create Isometric Screenshots](https://isometricshot.com/)
 - 👀 [TheFastest.ai](https://thefastest.ai/)
-- 👀 [Facebook's Little Red Book](https://www.map.cv/blog/redbook)
 
 
 # Books and comics I am reading
