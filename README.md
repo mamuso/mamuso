@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [A-Frame – Make WebVR](https://aframe.io/)
 - 👀 [Public Domain Image Archive](https://pdimagearchive.org/)
 - 👀 [Work — Corey Moen](https://www.coreymoen.com/work)
 - 👀 [BlogScroll - Personal Blog & Site Directory](https://blogscroll.com/)
@@ -14,7 +15,6 @@
 - 👀 [OMOI – Omoi Life Goods](https://omoionline.com/)
 - 👀 [Ichiban Motorcycle](https://www.ichiban.bike/#gorilla-mode)
 - 👀 [IsometricShot - Create Isometric Screenshots](https://isometricshot.com/)
-- 👀 [TheFastest.ai](https://thefastest.ai/)
 
 
 # Books and comics I am reading
