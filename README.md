@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Yelp Creative](https://www.yelp-creative.com/style-guide)
+- 👀 [Sonner](https://sonner.emilkowal.ski/)
+- 👀 [Yelp Creative](https://www.yelp-creative.com/)
 - 👀 [A-Frame – Make WebVR](https://aframe.io/)
 - 👀 [Public Domain Image Archive](https://pdimagearchive.org/)
 - 👀 [Work — Corey Moen](https://www.coreymoen.com/work)
 - 👀 [BlogScroll - Personal Blog & Site Directory](https://blogscroll.com/)
 - 👀 [KosaHome](https://kosaarts.com/)
-- 👀 [OMOI – Omoi Life Goods](https://omoionline.com/)
-- 👀 [Ichiban Motorcycle](https://www.ichiban.bike/#gorilla-mode)
-- 👀 [IsometricShot - Create Isometric Screenshots](https://isometricshot.com/)
 
 
 # Books and comics I am reading
