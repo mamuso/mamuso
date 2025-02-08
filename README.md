@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The Art of Dithering and Retro Shading for the Web - Maxime Heckel's Blog](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
+- 👀 [Beej's Guide to Git](https://beej.us/guide/bggit/)
 - 👀 [Yelp Creative](https://www.yelp-creative.com/style-guide)
 - 👀 [Sonner](https://sonner.emilkowal.ski/)
 - 👀 [Yelp Creative](https://www.yelp-creative.com/)
 - 👀 [A-Frame – Make WebVR](https://aframe.io/)
 - 👀 [Public Domain Image Archive](https://pdimagearchive.org/)
 - 👀 [Work — Corey Moen](https://www.coreymoen.com/work)
-- 👀 [BlogScroll - Personal Blog & Site Directory](https://blogscroll.com/)
-- 👀 [KosaHome](https://kosaarts.com/)
 
 
 # Books and comics I am reading
