@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Paper Apps™ – Gladden Design](https://gladdendesign.com/collections/paper-apps)
 - 👀 [The Art of Dithering and Retro Shading for the Web - Maxime Heckel's Blog](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
 - 👀 [Beej's Guide to Git](https://beej.us/guide/bggit/)
 - 👀 [Yelp Creative](https://www.yelp-creative.com/style-guide)
@@ -14,7 +15,6 @@
 - 👀 [Yelp Creative](https://www.yelp-creative.com/)
 - 👀 [A-Frame – Make WebVR](https://aframe.io/)
 - 👀 [Public Domain Image Archive](https://pdimagearchive.org/)
-- 👀 [Work — Corey Moen](https://www.coreymoen.com/work)
 
 
 # Books and comics I am reading
