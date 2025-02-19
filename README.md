@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [uchū demo · expanded palette](https://uchu.style/)
 - 👀 [(mac)OStalgia](https://swallowmygraphicdesign.com/project/macostalgia)
 - 👀 [Learn Shader Programming with Rick and Morty ・ Daniel Hooper](https://danielchasehooper.com/posts/code-animated-rick/)
 - 👀 [Paper Apps™ – Gladden Design](https://gladdendesign.com/collections/paper-apps)
@@ -14,7 +15,6 @@
 - 👀 [Beej's Guide to Git](https://beej.us/guide/bggit/)
 - 👀 [Yelp Creative](https://www.yelp-creative.com/style-guide)
 - 👀 [Sonner](https://sonner.emilkowal.ski/)
-- 👀 [Yelp Creative](https://www.yelp-creative.com/)
 
 
 # Books and comics I am reading
