@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Pattern Club (all new)](https://patternclub.io/)
+- 👀 [Sober Ringtones - Uncringe your ringtones](https://sober-ringtones.wize.io/)
+- 👀 [The Typescript AI framework - Mastra](https://mastra.ai/)
 - 👀 [uchū demo · expanded palette](https://uchu.style/)
 - 👀 [(mac)OStalgia](https://swallowmygraphicdesign.com/project/macostalgia)
 - 👀 [Learn Shader Programming with Rick and Morty ・ Daniel Hooper](https://danielchasehooper.com/posts/code-animated-rick/)
 - 👀 [Paper Apps™ – Gladden Design](https://gladdendesign.com/collections/paper-apps)
 - 👀 [The Art of Dithering and Retro Shading for the Web - Maxime Heckel's Blog](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
-- 👀 [Beej's Guide to Git](https://beej.us/guide/bggit/)
-- 👀 [Yelp Creative](https://www.yelp-creative.com/style-guide)
-- 👀 [Sonner](https://sonner.emilkowal.ski/)
 
 
 # Books and comics I am reading
