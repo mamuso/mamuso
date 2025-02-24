@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Better Auth](https://www.better-auth.com/)
 - 👀 [PostSpark - Beautify Screenshots](https://postspark.app/)
 - 👀 [Pattern Club (all new)](https://patternclub.io/)
 - 👀 [Sober Ringtones - Uncringe your ringtones](https://sober-ringtones.wize.io/)
@@ -14,7 +15,6 @@
 - 👀 [uchū demo · expanded palette](https://uchu.style/)
 - 👀 [(mac)OStalgia](https://swallowmygraphicdesign.com/project/macostalgia)
 - 👀 [Learn Shader Programming with Rick and Morty ・ Daniel Hooper](https://danielchasehooper.com/posts/code-animated-rick/)
-- 👀 [Paper Apps™ – Gladden Design](https://gladdendesign.com/collections/paper-apps)
 
 
 # Books and comics I am reading
