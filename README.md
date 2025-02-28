@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Vietnamese Graphic Design](https://vietgd.com/)
+- 👀 [Please Stop Using Barrel Files | TkDodo's blog](https://tkdodo.eu/blog/please-stop-using-barrel-files)
 - 👀 [Better Auth](https://www.better-auth.com/)
 - 👀 [PostSpark - Beautify Screenshots](https://postspark.app/)
 - 👀 [Pattern Club (all new)](https://patternclub.io/)
 - 👀 [Sober Ringtones - Uncringe your ringtones](https://sober-ringtones.wize.io/)
 - 👀 [The Typescript AI framework - Mastra](https://mastra.ai/)
 - 👀 [uchū demo · expanded palette](https://uchu.style/)
-- 👀 [(mac)OStalgia](https://swallowmygraphicdesign.com/project/macostalgia)
-- 👀 [Learn Shader Programming with Rick and Morty ・ Daniel Hooper](https://danielchasehooper.com/posts/code-animated-rick/)
 
 
 # Books and comics I am reading
