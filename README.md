@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Cartridge – SimpleBits®](https://simplebits.shop/products/cartridge)
 - 👀 [Vietnamese Graphic Design](https://vietgd.com/)
 - 👀 [Please Stop Using Barrel Files | TkDodo's blog](https://tkdodo.eu/blog/please-stop-using-barrel-files)
 - 👀 [Better Auth](https://www.better-auth.com/)
@@ -14,7 +15,6 @@
 - 👀 [Pattern Club (all new)](https://patternclub.io/)
 - 👀 [Sober Ringtones - Uncringe your ringtones](https://sober-ringtones.wize.io/)
 - 👀 [The Typescript AI framework - Mastra](https://mastra.ai/)
-- 👀 [uchū demo · expanded palette](https://uchu.style/)
 
 
 # Books and comics I am reading
