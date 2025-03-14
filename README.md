@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Introduction - presenterm documentation](https://mfontanini.github.io/presenterm/)
+- 👀 [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
 - 👀 [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 - 👀 [Cartridge – SimpleBits®](https://simplebits.shop/products/cartridge)
 - 👀 [Vietnamese Graphic Design](https://vietgd.com/)
 - 👀 [Please Stop Using Barrel Files | TkDodo's blog](https://tkdodo.eu/blog/please-stop-using-barrel-files)
 - 👀 [Better Auth](https://www.better-auth.com/)
 - 👀 [PostSpark - Beautify Screenshots](https://postspark.app/)
-- 👀 [Pattern Club (all new)](https://patternclub.io/)
-- 👀 [Sober Ringtones - Uncringe your ringtones](https://sober-ringtones.wize.io/)
 
 
 # Books and comics I am reading
