@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Frimousse — An emoji picker for React](https://frimousse.liveblocks.io/)
 - 👀 [theprocess](https://www.carlhauser.com/)
 - 👀 [Introduction - presenterm documentation](https://mfontanini.github.io/presenterm/)
 - 👀 [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
@@ -14,7 +15,6 @@
 - 👀 [Cartridge – SimpleBits®](https://simplebits.shop/products/cartridge)
 - 👀 [Vietnamese Graphic Design](https://vietgd.com/)
 - 👀 [Please Stop Using Barrel Files | TkDodo's blog](https://tkdodo.eu/blog/please-stop-using-barrel-files)
-- 👀 [Better Auth](https://www.better-auth.com/)
 
 
 # Books and comics I am reading
