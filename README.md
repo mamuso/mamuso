@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code)
 - 👀 [Frimousse — An emoji picker for React](https://frimousse.liveblocks.io/)
 - 👀 [theprocess](https://www.carlhauser.com/)
 - 👀 [Introduction - presenterm documentation](https://mfontanini.github.io/presenterm/)
@@ -14,7 +15,6 @@
 - 👀 [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
 - 👀 [Cartridge – SimpleBits®](https://simplebits.shop/products/cartridge)
 - 👀 [Vietnamese Graphic Design](https://vietgd.com/)
-- 👀 [Please Stop Using Barrel Files | TkDodo's blog](https://tkdodo.eu/blog/please-stop-using-barrel-files)
 
 
 # Books and comics I am reading
