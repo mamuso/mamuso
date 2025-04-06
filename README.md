@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Home | helpy-ui](https://helpy-ui.com/)
+- 👀 [Overengineered anchor links - 35®](https://thirty-five.com/overengineered-anchoring)
+- 👀 [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
 - 👀 [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code)
 - 👀 [Frimousse — An emoji picker for React](https://frimousse.liveblocks.io/)
 - 👀 [theprocess](https://www.carlhauser.com/)
 - 👀 [Introduction - presenterm documentation](https://mfontanini.github.io/presenterm/)
 - 👀 [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
-- 👀 [Calendar.txt](https://terokarvinen.com/2021/calendar-txt/)
-- 👀 [Cartridge – SimpleBits®](https://simplebits.shop/products/cartridge)
-- 👀 [Vietnamese Graphic Design](https://vietgd.com/)
 
 
 # Books and comics I am reading
