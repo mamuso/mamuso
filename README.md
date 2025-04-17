@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Make me think! - Ralph Ammer](https://ralphammer.com/make-me-think/)
 - 👀 [Home | helpy-ui](https://helpy-ui.com/)
 - 👀 [Overengineered anchor links - 35®](https://thirty-five.com/overengineered-anchoring)
 - 👀 [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
@@ -14,7 +15,6 @@
 - 👀 [Frimousse — An emoji picker for React](https://frimousse.liveblocks.io/)
 - 👀 [theprocess](https://www.carlhauser.com/)
 - 👀 [Introduction - presenterm documentation](https://mfontanini.github.io/presenterm/)
-- 👀 [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
 
 
 # Books and comics I am reading
