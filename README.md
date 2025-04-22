@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Luc Palombo's Website](https://lucp.xyz/)
 - 👀 [Make me think! - Ralph Ammer](https://ralphammer.com/make-me-think/)
 - 👀 [Home | helpy-ui](https://helpy-ui.com/)
 - 👀 [Overengineered anchor links - 35®](https://thirty-five.com/overengineered-anchoring)
@@ -14,7 +15,6 @@
 - 👀 [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code)
 - 👀 [Frimousse — An emoji picker for React](https://frimousse.liveblocks.io/)
 - 👀 [theprocess](https://www.carlhauser.com/)
-- 👀 [Introduction - presenterm documentation](https://mfontanini.github.io/presenterm/)
 
 
 # Books and comics I am reading
