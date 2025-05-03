@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [naas.isalman.dev/no](https://naas.isalman.dev/no)
 - 👀 [mobygratis - Free Moby music to empower your creative projects](https://mobygratis.com/)
 - 👀 [Icônes](https://icones.js.org/)
 - 👀 [Luc Palombo's Website](https://lucp.xyz/)
@@ -14,7 +15,6 @@
 - 👀 [Home | helpy-ui](https://helpy-ui.com/)
 - 👀 [Overengineered anchor links - 35®](https://thirty-five.com/overengineered-anchoring)
 - 👀 [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
-- 👀 [Celebrating 50 years of Microsoft | Bill Gates](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code)
 
 
 # Books and comics I am reading
