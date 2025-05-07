@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The history of album art || Matthew Ström, designer-leader](https://matthewstrom.com/writing/album-art/)
+- 👀 [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
+- 👀 [Design for 3D-Printing - Rahix' Blog](https://blog.rahix.de/design-for-3d-printing/)
 - 👀 [naas.isalman.dev/no](https://naas.isalman.dev/no)
 - 👀 [mobygratis - Free Moby music to empower your creative projects](https://mobygratis.com/)
 - 👀 [Icônes](https://icones.js.org/)
 - 👀 [Luc Palombo's Website](https://lucp.xyz/)
 - 👀 [Make me think! - Ralph Ammer](https://ralphammer.com/make-me-think/)
-- 👀 [Home | helpy-ui](https://helpy-ui.com/)
-- 👀 [Overengineered anchor links - 35®](https://thirty-five.com/overengineered-anchoring)
-- 👀 [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
 
 
 # Books and comics I am reading
