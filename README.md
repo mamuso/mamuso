@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Curse of Knowing How, or; Fixing Everything | Blog](https://notashelf.dev/posts/curse-of-knowing#technical-capability-as-a-moral-weight)
 - 👀 [The history of album art || Matthew Ström, designer-leader](https://matthewstrom.com/writing/album-art/)
 - 👀 [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 - 👀 [Design for 3D-Printing - Rahix' Blog](https://blog.rahix.de/design-for-3d-printing/)
@@ -14,7 +15,6 @@
 - 👀 [mobygratis - Free Moby music to empower your creative projects](https://mobygratis.com/)
 - 👀 [Icônes](https://icones.js.org/)
 - 👀 [Luc Palombo's Website](https://lucp.xyz/)
-- 👀 [Make me think! - Ralph Ammer](https://ralphammer.com/make-me-think/)
 
 
 # Books and comics I am reading
