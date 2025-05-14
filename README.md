@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 - 👀 [The Curse of Knowing How, or; Fixing Everything | Blog](https://notashelf.dev/posts/curse-of-knowing#technical-capability-as-a-moral-weight)
 - 👀 [The history of album art || Matthew Ström, designer-leader](https://matthewstrom.com/writing/album-art/)
 - 👀 [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
@@ -14,7 +15,6 @@
 - 👀 [naas.isalman.dev/no](https://naas.isalman.dev/no)
 - 👀 [mobygratis - Free Moby music to empower your creative projects](https://mobygratis.com/)
 - 👀 [Icônes](https://icones.js.org/)
-- 👀 [Luc Palombo's Website](https://lucp.xyz/)
 
 
 # Books and comics I am reading
