@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [ThreeTools – Three.js Chrome Extension](https://three.tools/)
 - 👀 [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 - 👀 [The Curse of Knowing How, or; Fixing Everything | Blog](https://notashelf.dev/posts/curse-of-knowing#technical-capability-as-a-moral-weight)
 - 👀 [The history of album art || Matthew Ström, designer-leader](https://matthewstrom.com/writing/album-art/)
@@ -14,7 +15,6 @@
 - 👀 [Design for 3D-Printing - Rahix' Blog](https://blog.rahix.de/design-for-3d-printing/)
 - 👀 [naas.isalman.dev/no](https://naas.isalman.dev/no)
 - 👀 [mobygratis - Free Moby music to empower your creative projects](https://mobygratis.com/)
-- 👀 [Icônes](https://icones.js.org/)
 
 
 # Books and comics I am reading
