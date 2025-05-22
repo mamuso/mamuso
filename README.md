@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Typographic Moodboard from I Love Typography](https://ilovetypography.com/font-inspiration/)
 - 👀 [F1 at 75](https://www.bbc.co.uk/sport/extra/v7yykmbyey/f1-at-75-by-bbc-sport-and-getty-images)
 - 👀 [ThreeTools – Three.js Chrome Extension](https://three.tools/)
 - 👀 [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
@@ -14,7 +15,6 @@
 - 👀 [The history of album art || Matthew Ström, designer-leader](https://matthewstrom.com/writing/album-art/)
 - 👀 [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 - 👀 [Design for 3D-Printing - Rahix' Blog](https://blog.rahix.de/design-for-3d-printing/)
-- 👀 [naas.isalman.dev/no](https://naas.isalman.dev/no)
 
 
 # Books and comics I am reading
