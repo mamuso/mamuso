@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Introduction - The AI design library](https://aidesign.guide/)
+- 👀 [Frame of preference – Aresluna](https://aresluna.org/frame-of-preference/)
+- 👀 [fast | catherine jue](https://www.catherinejue.com/fast)
+- 👀 [Online Ruler (cm/mm, inches) – Measure in Actual Size](https://anruler.com/)
+- 👀 [Flexflex](https://ronikaufman.github.io/flexflex/)
+- 👀 [Optician Sans – Free font based on historical optotypes](https://optician-sans.com/)
 - 👀 [Mitos ASCII Tool](https://mitos.shared.oxide.computer/)
 - 👀 [tenmilliontimes](https://tenmilliontimes.com/)
-- 👀 [Typographic Moodboard from I Love Typography](https://ilovetypography.com/font-inspiration/)
-- 👀 [F1 at 75](https://www.bbc.co.uk/sport/extra/v7yykmbyey/f1-at-75-by-bbc-sport-and-getty-images)
-- 👀 [ThreeTools – Three.js Chrome Extension](https://three.tools/)
-- 👀 [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
-- 👀 [The Curse of Knowing How, or; Fixing Everything | Blog](https://notashelf.dev/posts/curse-of-knowing#technical-capability-as-a-moral-weight)
-- 👀 [The history of album art || Matthew Ström, designer-leader](https://matthewstrom.com/writing/album-art/)
 
 
 # Books and comics I am reading
