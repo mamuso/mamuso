@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [How we built Bluey’s world: tales from original series art director, Catriona Drummond](https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725)
 - 👀 [Introduction - The AI design library](https://aidesign.guide/)
 - 👀 [Frame of preference – Aresluna](https://aresluna.org/frame-of-preference/)
 - 👀 [fast | catherine jue](https://www.catherinejue.com/fast)
@@ -14,7 +15,6 @@
 - 👀 [Flexflex](https://ronikaufman.github.io/flexflex/)
 - 👀 [Optician Sans – Free font based on historical optotypes](https://optician-sans.com/)
 - 👀 [Mitos ASCII Tool](https://mitos.shared.oxide.computer/)
-- 👀 [tenmilliontimes](https://tenmilliontimes.com/)
 
 
 # Books and comics I am reading
