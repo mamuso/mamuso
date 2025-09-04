@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Triangle Grids | rasie1's blog](https://kvachev.com/blog/posts/triangular-grid/)
+- 👀 [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
+- 👀 [Implementing a foil sticker effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
+- 👀 [The day Return became Enter – Aresluna](https://aresluna.org/the-day-return-became-enter/)
+- 👀 [Vintage Apple](https://vintageapple.org/macprogramming/index_year.html)
 - 👀 [How we built Bluey’s world: tales from original series art director, Catriona Drummond](https://www.itsnicethat.com/features/how-we-built-bluey-s-world-cartoon-background-scenery-art-director-catriona-drummond-animation-090725)
 - 👀 [Introduction - The AI design library](https://aidesign.guide/)
 - 👀 [Frame of preference – Aresluna](https://aresluna.org/frame-of-preference/)
-- 👀 [fast | catherine jue](https://www.catherinejue.com/fast)
-- 👀 [Online Ruler (cm/mm, inches) – Measure in Actual Size](https://anruler.com/)
-- 👀 [Flexflex](https://ronikaufman.github.io/flexflex/)
-- 👀 [Optician Sans – Free font based on historical optotypes](https://optician-sans.com/)
-- 👀 [Mitos ASCII Tool](https://mitos.shared.oxide.computer/)
 
 
 # Books and comics I am reading
