@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Palmetto rebrand by Ragged Edge](https://raggededge.com/partnerships/palmetto)
 - 👀 [Nonfiction Writing Advice | Slate Star Codex](https://slatestarcodex.com/2016/02/20/writing-advice/)
 - 👀 [Brutalita Sans](https://brutalita.com/)
 - 👀 [Turbeau – SimpleBits®](https://simplebits.shop/products/turbeau?ref=simplebits.com)
@@ -14,7 +15,6 @@
 - 👀 [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 - 👀 [Implementing a foil sticker effect](https://www.4rknova.com/blog/2025/08/30/foil-sticker)
 - 👀 [The day Return became Enter – Aresluna](https://aresluna.org/the-day-return-became-enter/)
-- 👀 [Vintage Apple](https://vintageapple.org/macprogramming/index_year.html)
 
 
 # Books and comics I am reading
