@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Continuous planning in Linear - Linear](https://linear.app/now/continuous-planning-in-linear)
 - 👀 [GeoUtil — Free Online Map & Geography Tools](https://geoutil.com/)
 - 👀 [Code Storage by Pierre Computer Company](https://code.storage/)
 - 👀 [Palmetto rebrand by Ragged Edge](https://raggededge.com/partnerships/palmetto)
@@ -14,7 +15,6 @@
 - 👀 [Brutalita Sans](https://brutalita.com/)
 - 👀 [Turbeau – SimpleBits®](https://simplebits.shop/products/turbeau?ref=simplebits.com)
 - 👀 [Triangle Grids | rasie1's blog](https://kvachev.com/blog/posts/triangular-grid/)
-- 👀 [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 
 
 # Books and comics I am reading
