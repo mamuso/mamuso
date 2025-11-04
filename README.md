@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Butler – Typeface – Fabian De Smet website](https://www.fabiandesmet.com/portfolio/butler-font/)
 - 👀 [Continuous planning in Linear - Linear](https://linear.app/now/continuous-planning-in-linear)
 - 👀 [GeoUtil — Free Online Map & Geography Tools](https://geoutil.com/)
 - 👀 [Code Storage by Pierre Computer Company](https://code.storage/)
@@ -14,7 +15,6 @@
 - 👀 [Nonfiction Writing Advice | Slate Star Codex](https://slatestarcodex.com/2016/02/20/writing-advice/)
 - 👀 [Brutalita Sans](https://brutalita.com/)
 - 👀 [Turbeau – SimpleBits®](https://simplebits.shop/products/turbeau?ref=simplebits.com)
-- 👀 [Triangle Grids | rasie1's blog](https://kvachev.com/blog/posts/triangular-grid/)
 
 
 # Books and comics I am reading
