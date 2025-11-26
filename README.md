@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [How to Fix a Typewriter and Your Life - The New York Times](https://www.nytimes.com/interactive/2025/11/20/us/typewriter-repair-seattle-bremerton.html?rsrc=flt&unlocked_article_code=1.208.PZ-6.CuojRlvuNf7_)
+- 👀 [Fran Sans Essay — Emily Sneddon](https://emilysneddon.com/fran-sans-essay)
 - 👀 [Commit Mono. Neutral programming typeface.](https://commitmono.com/)
 - 👀 [Butler – Typeface – Fabian De Smet website](https://www.fabiandesmet.com/portfolio/butler-font/)
 - 👀 [Continuous planning in Linear - Linear](https://linear.app/now/continuous-planning-in-linear)
 - 👀 [GeoUtil — Free Online Map & Geography Tools](https://geoutil.com/)
 - 👀 [Code Storage by Pierre Computer Company](https://code.storage/)
 - 👀 [Palmetto rebrand by Ragged Edge](https://raggededge.com/partnerships/palmetto)
-- 👀 [Nonfiction Writing Advice | Slate Star Codex](https://slatestarcodex.com/2016/02/20/writing-advice/)
-- 👀 [Brutalita Sans](https://brutalita.com/)
 
 
 # Books and comics I am reading
