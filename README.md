@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [The Scourge of Arial](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/)
+- 👀 [Font recommendations | Butterick’s Practical Typography](https://practicaltypography.com/font-recommendations.html)
+- 👀 [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 - 👀 [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)
 - 👀 [How to Fix a Typewriter and Your Life - The New York Times](https://www.nytimes.com/interactive/2025/11/20/us/typewriter-repair-seattle-bremerton.html?rsrc=flt&unlocked_article_code=1.208.PZ-6.CuojRlvuNf7_)
 - 👀 [Fran Sans Essay — Emily Sneddon](https://emilysneddon.com/fran-sans-essay)
 - 👀 [Commit Mono. Neutral programming typeface.](https://commitmono.com/)
 - 👀 [Butler – Typeface – Fabian De Smet website](https://www.fabiandesmet.com/portfolio/butler-font/)
-- 👀 [Continuous planning in Linear - Linear](https://linear.app/now/continuous-planning-in-linear)
-- 👀 [GeoUtil — Free Online Map & Geography Tools](https://geoutil.com/)
-- 👀 [Code Storage by Pierre Computer Company](https://code.storage/)
 
 
 # Books and comics I am reading
