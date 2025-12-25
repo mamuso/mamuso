@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Rabbithole](https://www.rabbithole.chat/)
 - 👀 [Readymag Websites of the Year 2025](https://readymag.com/websites-of-the-year)
 - 👀 [The Scourge of Arial](https://www.marksimonson.com/notebook/view/the-scourge-of-arial/)
 - 👀 [Font recommendations | Butterick’s Practical Typography](https://practicaltypography.com/font-recommendations.html)
@@ -14,7 +15,6 @@
 - 👀 [guhcostan/mac-cleaner-cli](https://github.com/guhcostan/mac-cleaner-cli)
 - 👀 [How to Fix a Typewriter and Your Life - The New York Times](https://www.nytimes.com/interactive/2025/11/20/us/typewriter-repair-seattle-bremerton.html?rsrc=flt&unlocked_article_code=1.208.PZ-6.CuojRlvuNf7_)
 - 👀 [Fran Sans Essay — Emily Sneddon](https://emilysneddon.com/fran-sans-essay)
-- 👀 [Commit Mono. Neutral programming typeface.](https://commitmono.com/)
 
 
 # Books and comics I am reading
