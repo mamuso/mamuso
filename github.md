@@ -1,9 +1,24 @@
-# GitHub 2017
+# GitHub 2024
 
 - Version control
-- Issues
+- Issues vNext
+- Memex Boards
 - PRs
 - Wikis
 - Pages
 - Gist
+- GitHub Actions
+- GitHub Packages
+- GitHub Container Registry
+- GitHub Codespaces
+- GitHub Advanced Security
+- GitHub CLI
+- Mobile apps
+- Sponsors
+- Discussions
+- Achievements
+- EMUs
+- Policies
+- Profile Readmes
+- GitHub Copilot
 - ...
