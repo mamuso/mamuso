@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy/)
+- 👀 [Graphic Design History Resources - We Made This](https://wemadethis.co.uk/blog/2021/09/graphic-design-history-resources/)
+- 👀 [The Monolith Project](https://themonolithproject.net/)
 - 👀 [The Nature of Meaningless Work - by Alex McCann](https://thestillwandering.substack.com/p/the-nature-of-meaningless-work)
 - 👀 [Open Visualization Academy](https://openvisualizationacademy.org/)
 - 👀 [Kiki](https://www.kiki.computer/)
 - 👀 [Isometric NYC](https://cannoneyed.com/isometric-nyc/)
 - 👀 [Beautiful Mermaid — Mermaid Rendering, Made Beautiful](https://agents.craft.do/mermaid)
-- 👀 [accidental poetry found on the command line | Are.na](https://www.are.na/wesleyac/accidental-poetry-found-on-the-command-line)
-- 👀 [simple crispy pan pizza – smitten kitchen](https://smittenkitchen.com/2026/01/simple-crispy-pan-pizza/)
-- 👀 [I was a top 0.01% Cursor user. Here's why I switched to Claude Code 2.0. | Silen](https://blog.silennai.com/claude-code)
 
 
 # Books and comics I am reading
