@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/)
 - 👀 [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy/)
 - 👀 [Graphic Design History Resources - We Made This](https://wemadethis.co.uk/blog/2021/09/graphic-design-history-resources/)
 - 👀 [The Monolith Project](https://themonolithproject.net/)
@@ -14,7 +15,6 @@
 - 👀 [Open Visualization Academy](https://openvisualizationacademy.org/)
 - 👀 [Kiki](https://www.kiki.computer/)
 - 👀 [Isometric NYC](https://cannoneyed.com/isometric-nyc/)
-- 👀 [Beautiful Mermaid — Mermaid Rendering, Made Beautiful](https://agents.craft.do/mermaid)
 
 
 # Books and comics I am reading
