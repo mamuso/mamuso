@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [mitchellh/vouch: A contributor trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
 - 👀 [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/)
 - 👀 [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy/)
 - 👀 [Graphic Design History Resources - We Made This](https://wemadethis.co.uk/blog/2021/09/graphic-design-history-resources/)
@@ -14,7 +15,6 @@
 - 👀 [The Nature of Meaningless Work - by Alex McCann](https://thestillwandering.substack.com/p/the-nature-of-meaningless-work)
 - 👀 [Open Visualization Academy](https://openvisualizationacademy.org/)
 - 👀 [Kiki](https://www.kiki.computer/)
-- 👀 [Isometric NYC](https://cannoneyed.com/isometric-nyc/)
 
 
 # Books and comics I am reading
