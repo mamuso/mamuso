@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 - 👀 [mitchellh/vouch: A contributor trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
 - 👀 [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/)
 - 👀 [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy/)
@@ -14,7 +15,6 @@
 - 👀 [The Monolith Project](https://themonolithproject.net/)
 - 👀 [The Nature of Meaningless Work - by Alex McCann](https://thestillwandering.substack.com/p/the-nature-of-meaningless-work)
 - 👀 [Open Visualization Academy](https://openvisualizationacademy.org/)
-- 👀 [Kiki](https://www.kiki.computer/)
 
 
 # Books and comics I am reading
