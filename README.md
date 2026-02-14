@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Scratch – A minimalist markdown scratchpad](https://www.ericli.io/scratch)
 - 👀 [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 - 👀 [mitchellh/vouch: A contributor trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
 - 👀 [The Coherence Premium](https://www.joanwestenberg.com/the-coherence-premium/)
@@ -14,7 +15,6 @@
 - 👀 [Graphic Design History Resources - We Made This](https://wemadethis.co.uk/blog/2021/09/graphic-design-history-resources/)
 - 👀 [The Monolith Project](https://themonolithproject.net/)
 - 👀 [The Nature of Meaningless Work - by Alex McCann](https://thestillwandering.substack.com/p/the-nature-of-meaningless-work)
-- 👀 [Open Visualization Academy](https://openvisualizationacademy.org/)
 
 
 # Books and comics I am reading
