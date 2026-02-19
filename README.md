@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
+- 👀 [Modern CSS Code Snippets | modern.css](https://modern-css.com/?baseline=newly)
+- 👀 [mccloskeybr](https://mccloskeybr.com/articles/font_rendering.html)
+- 👀 [90% of everything is sanding e.g. laundry (Interconnected)](https://interconnected.org/home/2026/02/06/sanding)
+- 👀 [Mockdown — ASCII Wireframe Editor](https://www.mockdown.design/)
 - 👀 [Refbox](https://ref.box/?ref=DenseDiscovery-371#pricing)
 - 👀 [Gazzaladra’s Portfolio of 3D Models](https://thangs.com/designer/gazzaladra)
 - 👀 [The first thing I did last year was run | Henry From Online](https://henry.codes/writing/the-first-thing-i-did-last-year-was-run/)
-- 👀 [Font Review Journal](https://fontreviewjournal.com/)
-- 👀 [mist](https://mist.inanimate.tech/)
-- 👀 [Scratch – A minimalist markdown scratchpad](https://www.ericli.io/scratch)
-- 👀 [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
-- 👀 [mitchellh/vouch: A contributor trust management system based on explicit vouches to participate.](https://github.com/mitchellh/vouch)
 
 
 # Books and comics I am reading
