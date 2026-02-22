@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Micro-Interactions in the AI Age | micro.](https://micro.bossadizenith.me/writing/micro-interactions-in-the-ai-age)
 - 👀 [Sizing chaos](https://pudding.cool/2026/02/womens-sizing/)
 - 👀 [Modern CSS Code Snippets | modern.css](https://modern-css.com/?baseline=newly)
 - 👀 [mccloskeybr](https://mccloskeybr.com/articles/font_rendering.html)
@@ -14,7 +15,6 @@
 - 👀 [Mockdown — ASCII Wireframe Editor](https://www.mockdown.design/)
 - 👀 [Refbox](https://ref.box/?ref=DenseDiscovery-371#pricing)
 - 👀 [Gazzaladra’s Portfolio of 3D Models](https://thangs.com/designer/gazzaladra)
-- 👀 [The first thing I did last year was run | Henry From Online](https://henry.codes/writing/the-first-thing-i-did-last-year-was-run/)
 
 
 # Books and comics I am reading
