@@ -19,8 +19,8 @@
 
 # Books and comics I am reading
 
+- 📘 [Batcat (Batcat #1)](https://www.goodreads.com/book/show/74878043) by Meggie Ramm
+- 📘 [Diary of an 8-Bit Warrior: Path of the Diamond (8-Bit Warrior, #4)](https://www.goodreads.com/book/show/33139377) by Cube Kid
 - 📘 [Wrecking Ball (Diary of a Wimpy Kid, #14)](https://www.goodreads.com/book/show/44091234) by Jeff Kinney
 - 📘 [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6512869) by Eckhart Tolle
-- 📘 [Spaced Out (Moon Base Alpha #2)](https://www.goodreads.com/book/show/26022750) by Stuart Gibbs
-- 📘 [The Deep End (Diary of a Wimpy Kid, #15)](https://www.goodreads.com/book/show/51468119) by Jeff Kinney
 
