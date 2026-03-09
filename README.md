@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [LibreSprite](https://libresprite.github.io/#!/)
 - 👀 [ColorFlow - Advanced Mesh Gradient Generator & Editor](https://colorflow.ls.graphics/)
 - 👀 [Readout](https://www.readout.org/)
 - 👀 [“Our programs are fun to use.” – Unsung](https://unsung.aresluna.org/our-programs-are-fun-to-use/)
@@ -14,7 +15,6 @@
 - 👀 [Josephine's World](https://www.josephines.world/)
 - 👀 [Letters to a Young Creator](https://letters.stevejobsarchive.com/)
 - 👀 [H-Bomb: A Frank Lloyd Wright Typographic Mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic)
-- 👀 [Jimi Hendrix's Analog Wizardry Explained - IEEE Spectrum](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
 
 
 # Books and comics I am reading
