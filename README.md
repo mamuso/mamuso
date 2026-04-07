@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [A Practical Guide To Design Principles — Smashing Magazine](https://www.smashingmagazine.com/2026/04/practical-guide-design-principles/)
 - 👀 [LibreSprite](https://libresprite.github.io/#!/)
 - 👀 [ColorFlow - Advanced Mesh Gradient Generator & Editor](https://colorflow.ls.graphics/)
 - 👀 [Readout](https://www.readout.org/)
@@ -14,7 +15,6 @@
 - 👀 [Infinite Tide](https://mlarino.com/work/infinite-tide)
 - 👀 [Josephine's World](https://www.josephines.world/)
 - 👀 [Letters to a Young Creator](https://letters.stevejobsarchive.com/)
-- 👀 [H-Bomb: A Frank Lloyd Wright Typographic Mystery](https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic)
 
 
 # Books and comics I am reading
