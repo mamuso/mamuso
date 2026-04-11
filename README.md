@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [getdesign.md — DESIGN.md Collection for AI Agents](https://getdesign.md/)
+- 👀 [printed analog camera space](https://printed.analogcamera.space/)
 - 👀 [A Practical Guide To Design Principles — Smashing Magazine](https://www.smashingmagazine.com/2026/04/practical-guide-design-principles/)
 - 👀 [LibreSprite](https://libresprite.github.io/#!/)
 - 👀 [ColorFlow - Advanced Mesh Gradient Generator & Editor](https://colorflow.ls.graphics/)
 - 👀 [Readout](https://www.readout.org/)
 - 👀 [“Our programs are fun to use.” – Unsung](https://unsung.aresluna.org/our-programs-are-fun-to-use/)
 - 👀 [Infinite Tide](https://mlarino.com/work/infinite-tide)
-- 👀 [Josephine's World](https://www.josephines.world/)
-- 👀 [Letters to a Young Creator](https://letters.stevejobsarchive.com/)
 
 
 # Books and comics I am reading
