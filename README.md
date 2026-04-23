@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Notch | The Real-time Graphics Tool](https://www.notch.one/)
 - 👀 [TypeWhisper 1.1 for macOS - Private Speech-to-Text](https://www.typewhisper.com/en/)
 - 👀 [Charcuterie — A Visual Unicode Explorer](https://charcuterie.elastiq.ch/#11F57)
 - 👀 [getdesign.md — DESIGN.md Collection for AI Agents](https://getdesign.md/)
@@ -14,7 +15,6 @@
 - 👀 [A Practical Guide To Design Principles — Smashing Magazine](https://www.smashingmagazine.com/2026/04/practical-guide-design-principles/)
 - 👀 [LibreSprite](https://libresprite.github.io/#!/)
 - 👀 [ColorFlow - Advanced Mesh Gradient Generator & Editor](https://colorflow.ls.graphics/)
-- 👀 [Readout](https://www.readout.org/)
 
 
 # Books and comics I am reading
