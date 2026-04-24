@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Million Typeface / 18 Styles / Variable :: Behance](https://www.behance.net/gallery/247616079/Million-Typeface-18-Styles-Variable)
 - 👀 [Notch | The Real-time Graphics Tool](https://www.notch.one/)
 - 👀 [TypeWhisper 1.1 for macOS - Private Speech-to-Text](https://www.typewhisper.com/en/)
 - 👀 [Charcuterie — A Visual Unicode Explorer](https://charcuterie.elastiq.ch/#11F57)
@@ -14,7 +15,6 @@
 - 👀 [printed analog camera space](https://printed.analogcamera.space/)
 - 👀 [A Practical Guide To Design Principles — Smashing Magazine](https://www.smashingmagazine.com/2026/04/practical-guide-design-principles/)
 - 👀 [LibreSprite](https://libresprite.github.io/#!/)
-- 👀 [ColorFlow - Advanced Mesh Gradient Generator & Editor](https://colorflow.ls.graphics/)
 
 
 # Books and comics I am reading
