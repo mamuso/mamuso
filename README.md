@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Ear Training](https://tonedear.com/)
+- 👀 [SCRT®](https://scrt.onl/)
 - 👀 [Say precisely what you mean.](https://index.how/to/articulate)
 - 👀 [srcl](https://www.sacred.computer/)
 - 👀 [WORDMARK — Custom Typefaces & Logotypes](https://wordmark.nyc/)
 - 👀 [Advanced Icon Design: Dots. This is the first in a series of… | by Helena Zhang | Apr, 2026 | Medium](https://minoraxis.medium.com/advanced-icon-design-dots-590cf96bf279)
 - 👀 [Museum of the Human Web](https://museum.parallel.ai/introduction?era=modern)
 - 👀 [GT Mechanik](https://gt-mechanik.com/)
-- 👀 [Million Typeface / 18 Styles / Variable :: Behance](https://www.behance.net/gallery/247616079/Million-Typeface-18-Styles-Variable)
-- 👀 [Notch | The Real-time Graphics Tool](https://www.notch.one/)
 
 
 # Books and comics I am reading
