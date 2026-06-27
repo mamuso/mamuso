@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Teaching agents product design at Vercel - Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel)
 - 👀 [Dot Matrix](https://dotmatrix.zzzzshawn.cloud/)
 - 👀 [Ear Training](https://tonedear.com/)
 - 👀 [SCRT®](https://scrt.onl/)
@@ -14,7 +15,6 @@
 - 👀 [srcl](https://www.sacred.computer/)
 - 👀 [WORDMARK — Custom Typefaces & Logotypes](https://wordmark.nyc/)
 - 👀 [Advanced Icon Design: Dots. This is the first in a series of… | by Helena Zhang | Apr, 2026 | Medium](https://minoraxis.medium.com/advanced-icon-design-dots-590cf96bf279)
-- 👀 [Museum of the Human Web](https://museum.parallel.ai/introduction?era=modern)
 
 
 # Books and comics I am reading
