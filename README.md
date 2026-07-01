@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
 - 👀 [Teaching agents product design at Vercel - Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel)
 - 👀 [Dot Matrix](https://dotmatrix.zzzzshawn.cloud/)
 - 👀 [Ear Training](https://tonedear.com/)
@@ -14,7 +15,6 @@
 - 👀 [Say precisely what you mean.](https://index.how/to/articulate)
 - 👀 [srcl](https://www.sacred.computer/)
 - 👀 [WORDMARK — Custom Typefaces & Logotypes](https://wordmark.nyc/)
-- 👀 [Advanced Icon Design: Dots. This is the first in a series of… | by Helena Zhang | Apr, 2026 | Medium](https://minoraxis.medium.com/advanced-icon-design-dots-590cf96bf279)
 
 
 # Books and comics I am reading
