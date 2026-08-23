@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [fx - Tiny, open, native coding agent](https://fx.sh/)
 - 👀 [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
 - 👀 [Teaching agents product design at Vercel - Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel)
 - 👀 [Dot Matrix](https://dotmatrix.zzzzshawn.cloud/)
@@ -14,7 +15,6 @@
 - 👀 [SCRT®](https://scrt.onl/)
 - 👀 [Say precisely what you mean.](https://index.how/to/articulate)
 - 👀 [srcl](https://www.sacred.computer/)
-- 👀 [WORDMARK — Custom Typefaces & Logotypes](https://wordmark.nyc/)
 
 
 # Books and comics I am reading
