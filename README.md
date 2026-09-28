@@ -7,6 +7,7 @@
 
 # Recent bookmarks
 
+- 👀 [design manifestos .org](https://designmanifestos.org/)
 - 👀 [loading.dev](https://loading.dev/)
 - 👀 [Vintage Apple](https://vintageapple.org/)
 - 👀 [fx - Tiny, open, native coding agent](https://fx.sh/)
@@ -14,7 +15,6 @@
 - 👀 [Teaching agents product design at Vercel - Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel)
 - 👀 [Dot Matrix](https://dotmatrix.zzzzshawn.cloud/)
 - 👀 [Ear Training](https://tonedear.com/)
-- 👀 [SCRT®](https://scrt.onl/)
 
 
 # Books and comics I am reading
