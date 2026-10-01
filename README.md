@@ -7,20 +7,20 @@
 
 # Recent bookmarks
 
+- 👀 [Discover, buy and download awesome fonts - Fonts Ninja](https://fonts.ninja/)
+- 👀 [Bastardica](https://bastardica.mitpit.com/)
+- 👀 [Automating eval design and hillclimbing with Claude / claude.dev Blog](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)
 - 👀 [design manifestos .org](https://designmanifestos.org/)
 - 👀 [loading.dev](https://loading.dev/)
 - 👀 [Vintage Apple](https://vintageapple.org/)
 - 👀 [fx - Tiny, open, native coding agent](https://fx.sh/)
 - 👀 [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
-- 👀 [Teaching agents product design at Vercel - Vercel](https://vercel.com/blog/teaching-agents-product-design-at-vercel)
-- 👀 [Dot Matrix](https://dotmatrix.zzzzshawn.cloud/)
-- 👀 [Ear Training](https://tonedear.com/)
 
 
 # Books and comics I am reading
 
+- 📘 [Big Nate: Code Red!](https://www.goodreads.com/book/show/242039680) by Lincoln Peirce
 - 📘 [Batcat (Batcat #1)](https://www.goodreads.com/book/show/74878043) by Meggie Ramm
 - 📘 [Diary of an 8-Bit Warrior: Path of the Diamond (8-Bit Warrior, #4)](https://www.goodreads.com/book/show/33139377) by Cube Kid
 - 📘 [Wrecking Ball (Diary of a Wimpy Kid, #14)](https://www.goodreads.com/book/show/44091234) by Jeff Kinney
-- 📘 [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6512869) by Eckhart Tolle
 
