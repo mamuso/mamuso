@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [FrankMoji](https://frankmoji.com/)
+- 👀 [Space Now · Belle Lune 2](https://space.bl2.net/)
+- 👀 [Book of Shapes](https://bookofshapes.com/)
+- 👀 [Before pixels: Modular industrial dashboards – Unsung](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
+- 👀 [シンプルフォーム株式会社](https://www.simpleform.co.jp/)
 - 👀 [Discover, buy and download awesome fonts - Fonts Ninja](https://fonts.ninja/)
 - 👀 [Bastardica](https://bastardica.mitpit.com/)
 - 👀 [Automating eval design and hillclimbing with Claude / claude.dev Blog](https://claude.dev/blog/automating-eval-design-and-hillclimbing/)
-- 👀 [design manifestos .org](https://designmanifestos.org/)
-- 👀 [loading.dev](https://loading.dev/)
-- 👀 [Vintage Apple](https://vintageapple.org/)
-- 👀 [fx - Tiny, open, native coding agent](https://fx.sh/)
-- 👀 [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
 
 
 # Books and comics I am reading
