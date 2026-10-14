@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [Normal Tools — Useful online tools, no nonsense](https://normaltools.com/)
+- 👀 [ascii.rest: animated ascii art for web pages, by @bas3line](https://ascii.rest/)
+- 👀 [The people holding up the internet | Data Drop](https://sheets.works/data-viz/holding-up-the-internet)
 - 👀 [Flatten SF](https://www.flattensf.com/)
 - 👀 [KingKongRobotics/jumper: 🦀 Jumper — an crab robot.](https://github.com/KingKongRobotics/jumper)
 - 👀 [FrankMoji](https://frankmoji.com/)
 - 👀 [Space Now · Belle Lune 2](https://space.bl2.net/)
 - 👀 [Book of Shapes](https://bookofshapes.com/)
-- 👀 [Before pixels: Modular industrial dashboards – Unsung](https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/)
-- 👀 [シンプルフォーム株式会社](https://www.simpleform.co.jp/)
-- 👀 [Discover, buy and download awesome fonts - Fonts Ninja](https://fonts.ninja/)
 
 
 # Books and comics I am reading
