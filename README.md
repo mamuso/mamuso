@@ -7,14 +7,14 @@
 
 # Recent bookmarks
 
+- 👀 [No More Icons In Every Menu By Default - Jim Nielsen’s Blog](https://blog.jim-nielsen.com/2026/icons-in-every-menu/)
+- 👀 [tywr/Nordwand-Mono: A compact monospace neo-grotesque font designed for developers (and adventurers).](https://github.com/tywr/Nordwand-Mono)
+- 👀 [Local Wikipedia for 37.80, -122.22](https://edjefferson.com/localwiki/)
+- 👀 [Download Dimensional Drawings - Accessories - Apple Developer](https://developer.apple.com/accessories/dimensional-drawings/)
 - 👀 [Normal Tools — Useful online tools, no nonsense](https://normaltools.com/)
 - 👀 [ascii.rest: animated ascii art for web pages, by @bas3line](https://ascii.rest/)
 - 👀 [The people holding up the internet | Data Drop](https://sheets.works/data-viz/holding-up-the-internet)
 - 👀 [Flatten SF](https://www.flattensf.com/)
-- 👀 [KingKongRobotics/jumper: 🦀 Jumper — an crab robot.](https://github.com/KingKongRobotics/jumper)
-- 👀 [FrankMoji](https://frankmoji.com/)
-- 👀 [Space Now · Belle Lune 2](https://space.bl2.net/)
-- 👀 [Book of Shapes](https://bookofshapes.com/)
 
 
 # Books and comics I am reading
